@@ -1,0 +1,10 @@
+{
+  "index": "Introducción",
+  "get-started": "Get Started",
+  "localidades": "Localidades",
+  "paginacion": "Paginación",
+  "playground": {
+    "title": "Playground",
+    "theme": { "layout": "raw" }
+  }
+}

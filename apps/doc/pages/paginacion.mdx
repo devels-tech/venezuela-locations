@@ -1,0 +1,25 @@
+import { Tab, Tabs } from 'nextra-theme-docs'
+
+# Paginaciones
+
+<Tabs items={['node.js', 'python']}>
+  <Tab>
+    ```js filename="getVenezuelaLocations.js" {4} copy
+      const res = await fetch('https://locations-venezuela.com/api/locations?page=2&limit=25')
+      const data = await res.json()
+
+      console.log(data) // <-- [ { states: { municipalities: { zones } } } ] 25 items
+    ```
+  </Tab>
+
+  <Tab>
+    ```py filename="getVenezuelaLocations.py" {6} copy
+      import requests
+        
+      URL = 'https://locations-venezuela.com/api/locations?page=2&limit=25'
+      res = requests.get(url = URL, params = PARAMS)
+
+      data = res.json() # <-- [ { states: { municipalities: { zones } } } ] 25 items
+    ```
+  </Tab>
+</Tabs>

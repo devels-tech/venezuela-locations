@@ -1,0 +1,39 @@
+{
+  "name": "venezuela-locations-doc",
+  "version": "0.1.0",
+  "description": "Venezuela Locations - Documentación",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devels-tech/venezuela-locations.git"
+  },
+  "author": "Devels Technology <devels.tech@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devels-tech/venezuela-locations/issues"
+  },
+  "homepage": "https://devels.tech",
+  "dependencies": {
+    "@codemirror/lang-javascript": "^6.1.7",
+    "@codemirror/lang-json": "^6.0.1",
+    "@codemirror/view": "^6.9.6",
+    "@uiw/codemirror-theme-tokyo-night": "^4.19.16",
+    "@uiw/react-codemirror": "^4.19.16",
+    "next": "13.0.6",
+    "nextra": "latest",
+    "nextra-theme-docs": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.10",
+    "autoprefixer": "10.4.14",
+    "postcss": "8.4.23",
+    "tailwindcss": "3.3.1",
+    "typescript": "4.9.3"
+  }
+}
