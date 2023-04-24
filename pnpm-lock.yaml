@@ -4,14 +4,14 @@ importers:
 
   .:
     specifiers:
-      eslint: ^7.32.0
+      eslint: 7.32.0
       eslint-config-custom: workspace:*
-      prettier: ^2.5.1
+      prettier: 2.5.1
       turbo: latest
     devDependencies:
       eslint: 7.32.0
       eslint-config-custom: link:packages/eslint-config-custom
-      prettier: 2.8.0
+      prettier: 2.5.1
       turbo: 1.9.3
 
   apps/doc:
@@ -3669,8 +3669,8 @@ packages:
     resolution: {integrity: sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==}
     engines: {node: '>= 0.8.0'}
 
-  /prettier/2.8.0:
-    resolution: {integrity: sha512-9Lmg8hTFZKG0Asr/kW9Bp8tJjRVluO8EJQVfY2T7FMw9T5jy4I/Uvx0Rca/XWf50QQ1/SS48+6IJWnrb+2yemA==}
+  /prettier/2.5.1:
+    resolution: {integrity: sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     dev: true
