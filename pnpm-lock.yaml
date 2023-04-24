@@ -16,12 +16,12 @@ importers:
 
   apps/doc:
     specifiers:
-      '@codemirror/lang-javascript': ^6.1.7
-      '@codemirror/lang-json': ^6.0.1
-      '@codemirror/view': ^6.9.6
+      '@codemirror/lang-javascript': 6.1.7
+      '@codemirror/lang-json': 6.0.1
+      '@codemirror/view': 6.9.6
       '@types/node': 18.11.10
-      '@uiw/codemirror-theme-tokyo-night': ^4.19.16
-      '@uiw/react-codemirror': ^4.19.16
+      '@uiw/codemirror-theme-tokyo-night': 4.19.16
+      '@uiw/react-codemirror': 4.19.16
       autoprefixer: 10.4.14
       next: 13.0.6
       nextra: latest
