@@ -1,3 +1,4 @@
-import locationsService from './locations'
+import statesService from './states'
+import citiesService from './cities'
 
-export { locationsService }
+export { citiesService, statesService }

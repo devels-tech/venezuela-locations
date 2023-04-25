@@ -1,7 +1,9 @@
 import type { NextApiRequest, NextApiResponse } from 'next'
 
-import { locationsService } from '@/services'
+import { citiesService } from '@/services'
+
 import { idEstado } from '@/utils/interfaces/location'
+import { parseIntValidator } from '@/validators/commons'
 
 export default function handler(
   req: NextApiRequest,
@@ -11,18 +13,10 @@ export default function handler(
   const { id } = req.query
 
   try {
-    const locationId = parseInt(id as string)
-    if (locationId >= 1 && locationId <= 24) {
-      const location = locationsService.findOne(locationId as idEstado)
+    const cityId = parseIntValidator(id as string)
+    const city = citiesService.findOne(cityId as number) // TODO: TYPE
 
-      return res.status(200).json(location)
-    } else {
-      return res.status(404).json({
-        statusCode: 404,
-        errorCode: 'Not Found',
-        message: 'The State Id isn´t correct',
-      })
-    }
+    return res.status(200).json(city)
   } catch (err) {
     const { statusCode, errorCode, message } = err as any // TODO: cambiar tipo
 

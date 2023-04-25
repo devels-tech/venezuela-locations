@@ -34,7 +34,7 @@ export interface Estado {
   iso_31662: string
   estado: string
   capital: string
-  id_estado: idEstado
+  stateId: idEstado
   municipios: Municipio[]
-  ciudades: string[]
+  cityes: string[]
 }
