@@ -3,7 +3,7 @@
     "iso_31662": "VE-X",
     "estado": "Amazonas",
     "capital": "Puerto Ayacucho",
-    "id_estado": 1,
+    "stateId": 1,
     "municipios": [
       {
         "municipio": "Alto Orinoco",
@@ -73,7 +73,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Maroa",
       "Puerto Ayacucho",
       "San Fernando de Atabapo"
@@ -83,7 +83,7 @@
     "iso_31662": "VE-B",
     "estado": "Anzoátegui",
     "capital": "Barcelona",
-    "id_estado": 2,
+    "stateId": 2,
     "municipios": [
       {
         "municipio": "Anaco",
@@ -270,7 +270,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Anaco",
       "Aragua de Barcelona",
       "Barcelona",
@@ -305,7 +305,7 @@
     "iso_31662": "VE-C",
     "estado": "Apure",
     "capital": "San Fernando de Apure",
-    "id_estado": 3,
+    "stateId": 3,
     "municipios": [
       {
         "municipio": "Achaguas",
@@ -376,7 +376,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Achaguas",
       "Biruaca",
       "Bruzual",
@@ -394,7 +394,7 @@
     "iso_31662": "VE-D",
     "estado": "Aragua",
     "capital": "Maracay",
-    "id_estado": 4,
+    "stateId": 4,
     "municipios": [
       {
         "municipio": "Bolívar",
@@ -555,7 +555,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Barbacoas",
       "Cagua",
       "Camatagua",
@@ -582,7 +582,7 @@
     "iso_31662": "VE-E",
     "estado": "Barinas",
     "capital": "Barinas",
-    "id_estado": 5,
+    "stateId": 5,
     "municipios": [
       {
         "municipio": "Alberto Arvelo Torrealba",
@@ -680,9 +680,9 @@
       },
       {
         "municipio": "Pedraza",
-        "capital": "Ciudad Bolivia",
+        "capital": "city Bolivia",
         "parroquias": [
-          "Ciudad Bolívia",
+          "city Bolívia",
           "José Ignacio Briceño",
           "José Félix Ribas",
           "Páez"
@@ -701,9 +701,9 @@
       },
       {
         "municipio": "Sosa",
-        "capital": "Ciudad de Nutrias",
+        "capital": "city de Nutrias",
         "parroquias": [
-          "Ciudad de Nutrias",
+          "city de Nutrias",
           "El Regalo",
           "Puerto Nutrias",
           "Santa Catalina",
@@ -711,13 +711,13 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Barinas",
       "Barinitas",
       "Barrancas",
       "Calderas",
       "Capitanejo",
-      "Ciudad Bolivia",
+      "city Bolivia",
       "El Cantón",
       "Las Veguitas",
       "Libertad de Barinas",
@@ -729,12 +729,12 @@
   {
     "iso_31662": "VE-F",
     "estado": "Bolívar",
-    "capital": "Ciudad Bolívar",
-    "id_estado": 6,
+    "capital": "city Bolívar",
+    "stateId": 6,
     "municipios": [
       {
         "municipio": "Angostura",
-        "capital": "Ciudad Píar",
+        "capital": "city Píar",
         "parroquias": [
           "Raúl Leoni",
           "Barceloneta",
@@ -744,7 +744,7 @@
       },
       {
         "municipio": "Caroní",
-        "capital": "Ciudad Guayana",
+        "capital": "city Guayana",
         "parroquias": [
           "Cachamay",
           "Chirica",
@@ -788,7 +788,7 @@
       },
       {
         "municipio": "Heres",
-        "capital": "Ciudad Bolívar",
+        "capital": "city Bolívar",
         "parroquias": [
           "Catedral",
           "Zea",
@@ -846,11 +846,11 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Caicara del Orinoco",
       "Canaima",
-      "Ciudad Bolívar",
-      "Ciudad Piar",
+      "city Bolívar",
+      "city Piar",
       "El Callao",
       "El Dorado",
       "El Manteco",
@@ -872,7 +872,7 @@
     "iso_31662": "VE-G",
     "estado": "Carabobo",
     "capital": "Valencia",
-    "id_estado": 7,
+    "stateId": 7,
     "municipios": [
       {
         "municipio": "Bejuma",
@@ -904,7 +904,7 @@
         "municipio": "Guacara",
         "capital": "Guacara",
         "parroquias": [
-          "Ciudad Alianza",
+          "city Alianza",
           "Guacara",
           "Yagua"
         ]
@@ -997,14 +997,14 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Bejuma",
       "Belén",
       "Campo de Carabobo",
       "Canoabo",
       "Central Tacarigua",
       "Chirgua",
-      "Ciudad Alianza",
+      "city Alianza",
       "El Palito",
       "Guacara",
       "Guigue",
@@ -1027,7 +1027,7 @@
     "iso_31662": "VE-H",
     "estado": "Cojedes",
     "capital": "San Carlos",
-    "id_estado": 8,
+    "stateId": 8,
     "municipios": [
       {
         "municipio": "Anzoátegui",
@@ -1099,7 +1099,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Aguirre",
       "Apartaderos Cojedes",
       "Arismendi",
@@ -1125,7 +1125,7 @@
     "iso_31662": "VE-Y",
     "estado": "Delta Amacuro",
     "capital": "Tucupita",
-    "id_estado": 9,
+    "stateId": 9,
     "municipios": [
       {
         "municipio": "Antonio Díaz",
@@ -1173,7 +1173,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Tucupita"
     ]
   },
@@ -1181,7 +1181,7 @@
     "iso_31662": "VE-I",
     "estado": "Falcón",
     "capital": "Coro",
-    "id_estado": 10,
+    "stateId": 10,
     "municipios": [
       {
         "municipio": "Acosta",
@@ -1418,7 +1418,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Adícora",
       "Boca de Aroa",
       "Cabure",
@@ -1456,7 +1456,7 @@
     "iso_31662": "VE-J",
     "estado": "Guárico",
     "capital": "San Juan de Los Morros",
-    "id_estado": 11,
+    "stateId": 11,
     "municipios": [
       {
         "municipio": "Camaguán",
@@ -1589,7 +1589,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Altagracia de Orituco",
       "Cabruta",
       "Calabozo",
@@ -1614,7 +1614,7 @@
     "iso_31662": "VE-K",
     "estado": "Lara",
     "capital": "Barquisimeto",
-    "id_estado": 12,
+    "stateId": 12,
     "municipios": [
       {
         "municipio": "Andrés Eloy Blanco",
@@ -1729,7 +1729,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Aguada Grande",
       "Atarigua",
       "Barquisimeto",
@@ -1759,7 +1759,7 @@
     "iso_31662": "VE-L",
     "estado": "Mérida",
     "capital": "Mérida",
-    "id_estado": 13,
+    "stateId": 13,
     "municipios": [
       {
         "municipio": "Alberto Adriani",
@@ -1986,7 +1986,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Apartaderos Mérida",
       "Arapuey",
       "Bailadores",
@@ -2022,7 +2022,7 @@
     "iso_31662": "VE-M",
     "estado": "Miranda",
     "capital": "Los Teques",
-    "id_estado": 14,
+    "stateId": 14,
     "municipios": [
       {
         "municipio": "Acevedo",
@@ -2206,7 +2206,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Araguita",
       "Carrizal",
       "Caucagua",
@@ -2248,7 +2248,7 @@
     "iso_31662": "VE-N",
     "estado": "Monagas",
     "capital": "Maturín",
-    "id_estado": 15,
+    "stateId": 15,
     "municipios": [
       {
         "municipio": "Acosta",
@@ -2372,7 +2372,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Aguasay",
       "Aragua de Maturín",
       "Barrancas del Orinoco",
@@ -2401,7 +2401,7 @@
     "iso_31662": "VE-O",
     "estado": "Nueva Esparta",
     "capital": "La Asunción",
-    "id_estado": 16,
+    "stateId": 16,
     "municipios": [
       {
         "municipio": "Antolín del Campo",
@@ -2493,7 +2493,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Altagracia",
       "Boca de Pozo",
       "Boca de Río",
@@ -2518,7 +2518,7 @@
     "iso_31662": "VE-P",
     "estado": "Portuguesa",
     "capital": "Guanare",
-    "id_estado": 17,
+    "stateId": 17,
     "municipios": [
       {
         "municipio": "Agua Blanca",
@@ -2644,7 +2644,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Acarigua",
       "Agua Blanca",
       "Araure",
@@ -2671,7 +2671,7 @@
     "iso_31662": "VE-R",
     "estado": "Sucre",
     "capital": "Cumaná",
-    "id_estado": 18,
+    "stateId": 18,
     "municipios": [
       {
         "municipio": "Andrés Eloy Blanco",
@@ -2819,7 +2819,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Altos de Sucre",
       "Araya",
       "Cariaco",
@@ -2849,7 +2849,7 @@
     "iso_31662": "VE-S",
     "estado": "Táchira",
     "capital": "San Cristóbal",
-    "id_estado": 19,
+    "stateId": 19,
     "municipios": [
       {
         "municipio": "Andrés Bello",
@@ -3094,7 +3094,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Abejales",
       "Borota",
       "Bramon",
@@ -3132,7 +3132,7 @@
     "iso_31662": "VE-T",
     "estado": "Trujillo",
     "capital": "Trujillo",
-    "id_estado": 20,
+    "stateId": 20,
     "municipios": [
       {
         "municipio": "Andrés Bello",
@@ -3348,7 +3348,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Batatal",
       "Betijoque",
       "Boconó",
@@ -3383,7 +3383,7 @@
     "iso_31662": "VE-W",
     "estado": "Vargas",
     "capital": "La Guaira",
-    "id_estado": 21,
+    "stateId": 21,
     "municipios": [
       {
         "municipio": "Vargas",
@@ -3403,7 +3403,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Carayaca",
       "Litoral"
     ]
@@ -3412,7 +3412,7 @@
     "iso_31662": "VE-U",
     "estado": "Yaracuy",
     "capital": "San Felipe",
-    "id_estado": 22,
+    "stateId": 22,
     "municipios": [
       {
         "municipio": "Arístides Bastidas",
@@ -3520,7 +3520,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Aroa",
       "Boraure",
       "Campo Elías de Yaracuy",
@@ -3543,7 +3543,7 @@
     "iso_31662": "VE-V",
     "estado": "Zulia",
     "capital": "Maracaibo",
-    "id_estado": 23,
+    "stateId": 23,
     "municipios": [
       {
         "municipio": "Almirante Padilla",
@@ -3649,7 +3649,7 @@
       },
       {
         "municipio": "Lagunillas",
-        "capital": "Ciudad Ojeda",
+        "capital": "city Ojeda",
         "parroquias": [
           "Libertad",
           "Alonso de Ojeda",
@@ -3778,7 +3778,7 @@
         ]
       }
     ],
-    "ciudades": [
+    "cityes": [
       "Bachaquero",
       "Bobures",
       "Cabimas",
@@ -3788,7 +3788,7 @@
       "Carrasquero",
       "Casigua",
       "Chiquinquirá",
-      "Ciudad Ojeda",
+      "city Ojeda",
       "El Batey",
       "El Carmelo",
       "El Chivo",
@@ -3832,7 +3832,7 @@
     "iso_31662": "VE-A",
     "estado": "Distrito Capital",
     "capital": "Caracas",
-    "id_estado": 24,
+    "stateId": 24,
     "municipios": [
       {
         "municipio": "Libertador",

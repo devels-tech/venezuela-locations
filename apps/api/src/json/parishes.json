@@ -1,0 +1,5692 @@
+[
+  {
+    "id": 1,
+    "municipalityID": 1,
+    "name": "Alto Orinoco"
+  },
+  {
+    "id": 2,
+    "municipalityID": 1,
+    "name": "Huachamacare Acanaña"
+  },
+  {
+    "id": 3,
+    "municipalityID": 1,
+    "name": "Marawaka Toky Shamanaña"
+  },
+  {
+    "id": 4,
+    "municipalityID": 1,
+    "name": "Mavaka Mavaka"
+  },
+  {
+    "id": 5,
+    "municipalityID": 1,
+    "name": "Sierra Parima Parimabé"
+  },
+  {
+    "id": 6,
+    "municipalityID": 2,
+    "name": "Ucata Laja Lisa"
+  },
+  {
+    "id": 7,
+    "municipalityID": 2,
+    "name": "Yapacana Macuruco"
+  },
+  {
+    "id": 8,
+    "municipalityID": 2,
+    "name": "Caname Guarinuma"
+  },
+  {
+    "id": 9,
+    "municipalityID": 3,
+    "name": "Fernando Girón Tovar"
+  },
+  {
+    "id": 10,
+    "municipalityID": 3,
+    "name": "Luis Alberto Gómez"
+  },
+  {
+    "id": 11,
+    "municipalityID": 3,
+    "name": "Pahueña Limón de Parhueña"
+  },
+  {
+    "id": 12,
+    "municipalityID": 3,
+    "name": "Platanillal Platanillal"
+  },
+  {
+    "id": 13,
+    "municipalityID": 4,
+    "name": "Samariapo"
+  },
+  {
+    "id": 14,
+    "municipalityID": 4,
+    "name": "Sipapo"
+  },
+  {
+    "id": 15,
+    "municipalityID": 4,
+    "name": "Munduapo"
+  },
+  {
+    "id": 16,
+    "municipalityID": 4,
+    "name": "Guayapo"
+  },
+  {
+    "id": 17,
+    "municipalityID": 5,
+    "name": "Alto Ventuari"
+  },
+  {
+    "id": 18,
+    "municipalityID": 5,
+    "name": "Medio Ventuari"
+  },
+  {
+    "id": 19,
+    "municipalityID": 5,
+    "name": "Bajo Ventuari"
+  },
+  {
+    "id": 20,
+    "municipalityID": 6,
+    "name": "Victorino"
+  },
+  {
+    "id": 21,
+    "municipalityID": 6,
+    "name": "Comunidad"
+  },
+  {
+    "id": 22,
+    "municipalityID": 7,
+    "name": "Casiquiare"
+  },
+  {
+    "id": 23,
+    "municipalityID": 7,
+    "name": "Cocuy"
+  },
+  {
+    "id": 24,
+    "municipalityID": 7,
+    "name": "San Carlos de Río Negro"
+  },
+  {
+    "id": 25,
+    "municipalityID": 7,
+    "name": "Solano"
+  },
+  {
+    "id": 26,
+    "municipalityID": 8,
+    "name": "Anaco"
+  },
+  {
+    "id": 27,
+    "municipalityID": 8,
+    "name": "San Joaquín"
+  },
+  {
+    "id": 28,
+    "municipalityID": 9,
+    "name": "Cachipo"
+  },
+  {
+    "id": 29,
+    "municipalityID": 9,
+    "name": "Aragua de Barcelona"
+  },
+  {
+    "id": 30,
+    "municipalityID": 11,
+    "name": "Lechería"
+  },
+  {
+    "id": 31,
+    "municipalityID": 11,
+    "name": "El Morro"
+  },
+  {
+    "id": 32,
+    "municipalityID": 12,
+    "name": "Puerto Píritu"
+  },
+  {
+    "id": 33,
+    "municipalityID": 12,
+    "name": "San Miguel"
+  },
+  {
+    "id": 34,
+    "municipalityID": 12,
+    "name": "Sucre"
+  },
+  {
+    "id": 35,
+    "municipalityID": 13,
+    "name": "Valle de Guanape"
+  },
+  {
+    "id": 36,
+    "municipalityID": 13,
+    "name": "Santa Bárbara"
+  },
+  {
+    "id": 37,
+    "municipalityID": 14,
+    "name": "El Chaparro"
+  },
+  {
+    "id": 38,
+    "municipalityID": 14,
+    "name": "Tomás Alfaro"
+  },
+  {
+    "id": 39,
+    "municipalityID": 14,
+    "name": "Calatrava"
+  },
+  {
+    "id": 40,
+    "municipalityID": 15,
+    "name": "Guanta"
+  },
+  {
+    "id": 41,
+    "municipalityID": 15,
+    "name": "Chorrerón"
+  },
+  {
+    "id": 42,
+    "municipalityID": 16,
+    "name": "Mamo"
+  },
+  {
+    "id": 43,
+    "municipalityID": 16,
+    "name": "Soledad"
+  },
+  {
+    "id": 44,
+    "municipalityID": 17,
+    "name": "Mapire"
+  },
+  {
+    "id": 45,
+    "municipalityID": 17,
+    "name": "Piar"
+  },
+  {
+    "id": 46,
+    "municipalityID": 17,
+    "name": "Santa Clara"
+  },
+  {
+    "id": 47,
+    "municipalityID": 17,
+    "name": "San Diego de Cabrutica"
+  },
+  {
+    "id": 48,
+    "municipalityID": 17,
+    "name": "Uverito"
+  },
+  {
+    "id": 49,
+    "municipalityID": 17,
+    "name": "Zuata"
+  },
+  {
+    "id": 50,
+    "municipalityID": 18,
+    "name": "Puerto La Cruz"
+  },
+  {
+    "id": 51,
+    "municipalityID": 18,
+    "name": "Pozuelos"
+  },
+  {
+    "id": 52,
+    "municipalityID": 19,
+    "name": "Onoto"
+  },
+  {
+    "id": 53,
+    "municipalityID": 19,
+    "name": "San Pablo"
+  },
+  {
+    "id": 54,
+    "municipalityID": 20,
+    "name": "San Mateo"
+  },
+  {
+    "id": 55,
+    "municipalityID": 20,
+    "name": "El Carito"
+  },
+  {
+    "id": 56,
+    "municipalityID": 20,
+    "name": "Santa Inés"
+  },
+  {
+    "id": 57,
+    "municipalityID": 20,
+    "name": "La Romereña"
+  },
+  {
+    "id": 58,
+    "municipalityID": 21,
+    "name": "Atapirire"
+  },
+  {
+    "id": 59,
+    "municipalityID": 21,
+    "name": "Boca del Pao"
+  },
+  {
+    "id": 60,
+    "municipalityID": 21,
+    "name": "El Pao"
+  },
+  {
+    "id": 61,
+    "municipalityID": 21,
+    "name": "Pariaguán"
+  },
+  {
+    "id": 62,
+    "municipalityID": 22,
+    "name": "Cantaura"
+  },
+  {
+    "id": 63,
+    "municipalityID": 22,
+    "name": "Libertador"
+  },
+  {
+    "id": 64,
+    "municipalityID": 22,
+    "name": "Santa Rosa"
+  },
+  {
+    "id": 65,
+    "municipalityID": 22,
+    "name": "Urica"
+  },
+  {
+    "id": 66,
+    "municipalityID": 23,
+    "name": "Píritu"
+  },
+  {
+    "id": 67,
+    "municipalityID": 23,
+    "name": "San Francisco"
+  },
+  {
+    "id": 68,
+    "municipalityID": 24,
+    "name": "San José de Guanipa"
+  },
+  {
+    "id": 69,
+    "municipalityID": 25,
+    "name": "Boca de Uchire"
+  },
+  {
+    "id": 70,
+    "municipalityID": 25,
+    "name": "Boca de Chávez"
+  },
+  {
+    "id": 71,
+    "municipalityID": 26,
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "id": 72,
+    "municipalityID": 26,
+    "name": "Santa Ana"
+  },
+  {
+    "id": 73,
+    "municipalityID": 27,
+    "name": "Bergantín"
+  },
+  {
+    "id": 74,
+    "municipalityID": 27,
+    "name": "Caigua"
+  },
+  {
+    "id": 75,
+    "municipalityID": 27,
+    "name": "El Carmen"
+  },
+  {
+    "id": 76,
+    "municipalityID": 27,
+    "name": "El Pilar"
+  },
+  {
+    "id": 77,
+    "municipalityID": 27,
+    "name": "Naricual"
+  },
+  {
+    "id": 78,
+    "municipalityID": 27,
+    "name": "San Crsitóbal"
+  },
+  {
+    "id": 79,
+    "municipalityID": 28,
+    "name": "Edmundo Barrios"
+  },
+  {
+    "id": 80,
+    "municipalityID": 28,
+    "name": "Miguel Otero Silva"
+  },
+  {
+    "id": 81,
+    "municipalityID": 29,
+    "name": "Achaguas"
+  },
+  {
+    "id": 82,
+    "municipalityID": 29,
+    "name": "Apurito"
+  },
+  {
+    "id": 83,
+    "municipalityID": 29,
+    "name": "El Yagual"
+  },
+  {
+    "id": 84,
+    "municipalityID": 29,
+    "name": "Guachara"
+  },
+  {
+    "id": 85,
+    "municipalityID": 29,
+    "name": "Mucuritas"
+  },
+  {
+    "id": 86,
+    "municipalityID": 29,
+    "name": "Queseras del medio"
+  },
+  {
+    "id": 87,
+    "municipalityID": 30,
+    "name": "Biruaca"
+  },
+  {
+    "id": 88,
+    "municipalityID": 31,
+    "name": "Bruzual"
+  },
+  {
+    "id": 89,
+    "municipalityID": 31,
+    "name": "Mantecal"
+  },
+  {
+    "id": 90,
+    "municipalityID": 31,
+    "name": "Quintero"
+  },
+  {
+    "id": 91,
+    "municipalityID": 31,
+    "name": "Rincón Hondo"
+  },
+  {
+    "id": 92,
+    "municipalityID": 31,
+    "name": "San Vicente"
+  },
+  {
+    "id": 93,
+    "municipalityID": 32,
+    "name": "Guasdualito"
+  },
+  {
+    "id": 94,
+    "municipalityID": 32,
+    "name": "Aramendi"
+  },
+  {
+    "id": 95,
+    "municipalityID": 32,
+    "name": "El Amparo"
+  },
+  {
+    "id": 96,
+    "municipalityID": 32,
+    "name": "San Camilo"
+  },
+  {
+    "id": 97,
+    "municipalityID": 32,
+    "name": "Urdaneta"
+  },
+  {
+    "id": 98,
+    "municipalityID": 33,
+    "name": "San Juan de Payara"
+  },
+  {
+    "id": 99,
+    "municipalityID": 33,
+    "name": "Codazzi"
+  },
+  {
+    "id": 100,
+    "municipalityID": 33,
+    "name": "Cunaviche"
+  },
+  {
+    "id": 101,
+    "municipalityID": 34,
+    "name": "Elorza"
+  },
+  {
+    "id": 102,
+    "municipalityID": 34,
+    "name": "La Trinidad"
+  },
+  {
+    "id": 103,
+    "municipalityID": 35,
+    "name": "San Fernando"
+  },
+  {
+    "id": 104,
+    "municipalityID": 35,
+    "name": "El Recreo"
+  },
+  {
+    "id": 105,
+    "municipalityID": 35,
+    "name": "Peñalver"
+  },
+  {
+    "id": 106,
+    "municipalityID": 35,
+    "name": "San Rafael de Atamaica"
+  },
+  {
+    "id": 107,
+    "municipalityID": 36,
+    "name": "Pedro José Ovalles"
+  },
+  {
+    "id": 108,
+    "municipalityID": 36,
+    "name": "Joaquín Crespo"
+  },
+  {
+    "id": 109,
+    "municipalityID": 36,
+    "name": "José Casanova Godoy"
+  },
+  {
+    "id": 110,
+    "municipalityID": 36,
+    "name": "Madre María de San José"
+  },
+  {
+    "id": 111,
+    "municipalityID": 36,
+    "name": "Andrés Eloy Blanco"
+  },
+  {
+    "id": 112,
+    "municipalityID": 36,
+    "name": "Los Tacarigua"
+  },
+  {
+    "id": 113,
+    "municipalityID": 36,
+    "name": "Las Delicias"
+  },
+  {
+    "id": 114,
+    "municipalityID": 36,
+    "name": "Choroní"
+  },
+  {
+    "id": 115,
+    "municipalityID": 37,
+    "name": "Bolívar"
+  },
+  {
+    "id": 116,
+    "municipalityID": 38,
+    "name": "Camatagua"
+  },
+  {
+    "id": 117,
+    "municipalityID": 38,
+    "name": "Carmen de Cura"
+  },
+  {
+    "id": 118,
+    "municipalityID": 39,
+    "name": "Santa Rita"
+  },
+  {
+    "id": 119,
+    "municipalityID": 39,
+    "name": "Francisco de Miranda"
+  },
+  {
+    "id": 120,
+    "municipalityID": 39,
+    "name": "Moseñor Feliciano González"
+  },
+  {
+    "id": 121,
+    "municipalityID": 40,
+    "name": "Santa Cruz"
+  },
+  {
+    "id": 122,
+    "municipalityID": 41,
+    "name": "José Félix Ribas"
+  },
+  {
+    "id": 123,
+    "municipalityID": 41,
+    "name": "Castor Nieves Ríos"
+  },
+  {
+    "id": 124,
+    "municipalityID": 41,
+    "name": "Las Guacamayas"
+  },
+  {
+    "id": 125,
+    "municipalityID": 41,
+    "name": "Pao de Zárate"
+  },
+  {
+    "id": 126,
+    "municipalityID": 41,
+    "name": "Zuata"
+  },
+  {
+    "id": 127,
+    "municipalityID": 42,
+    "name": "José Rafael Revenga"
+  },
+  {
+    "id": 128,
+    "municipalityID": 43,
+    "name": "Palo Negro"
+  },
+  {
+    "id": 129,
+    "municipalityID": 43,
+    "name": "San Martín de Porres"
+  },
+  {
+    "id": 130,
+    "municipalityID": 44,
+    "name": "El Limón"
+  },
+  {
+    "id": 131,
+    "municipalityID": 44,
+    "name": "Caña de Azúcar"
+  },
+  {
+    "id": 132,
+    "municipalityID": 45,
+    "name": "Ocumare de la Costa"
+  },
+  {
+    "id": 133,
+    "municipalityID": 46,
+    "name": "San Casimiro"
+  },
+  {
+    "id": 134,
+    "municipalityID": 46,
+    "name": "Güiripa"
+  },
+  {
+    "id": 135,
+    "municipalityID": 46,
+    "name": "Ollas de Caramacate"
+  },
+  {
+    "id": 136,
+    "municipalityID": 46,
+    "name": "Valle Morín"
+  },
+  {
+    "id": 137,
+    "municipalityID": 47,
+    "name": "San Sebastían"
+  },
+  {
+    "id": 138,
+    "municipalityID": 48,
+    "name": "Turmero"
+  },
+  {
+    "id": 139,
+    "municipalityID": 48,
+    "name": "Arevalo Aponte"
+  },
+  {
+    "id": 140,
+    "municipalityID": 48,
+    "name": "Chuao"
+  },
+  {
+    "id": 141,
+    "municipalityID": 48,
+    "name": "Samán de Güere"
+  },
+  {
+    "id": 142,
+    "municipalityID": 48,
+    "name": "Alfredo Pacheco Miranda"
+  },
+  {
+    "id": 143,
+    "municipalityID": 49,
+    "name": "Santos Michelena"
+  },
+  {
+    "id": 144,
+    "municipalityID": 49,
+    "name": "Tiara"
+  },
+  {
+    "id": 145,
+    "municipalityID": 50,
+    "name": "Cagua"
+  },
+  {
+    "id": 146,
+    "municipalityID": 50,
+    "name": "Bella Vista"
+  },
+  {
+    "id": 147,
+    "municipalityID": 51,
+    "name": "Tovar"
+  },
+  {
+    "id": 148,
+    "municipalityID": 52,
+    "name": "Urdaneta"
+  },
+  {
+    "id": 149,
+    "municipalityID": 52,
+    "name": "Las Peñitas"
+  },
+  {
+    "id": 150,
+    "municipalityID": 52,
+    "name": "San Francisco de Cara"
+  },
+  {
+    "id": 151,
+    "municipalityID": 52,
+    "name": "Taguay"
+  },
+  {
+    "id": 152,
+    "municipalityID": 53,
+    "name": "Zamora"
+  },
+  {
+    "id": 153,
+    "municipalityID": 53,
+    "name": "Magdaleno"
+  },
+  {
+    "id": 154,
+    "municipalityID": 53,
+    "name": "San Francisco de Asís"
+  },
+  {
+    "id": 155,
+    "municipalityID": 53,
+    "name": "Valles de Tucutunemo"
+  },
+  {
+    "id": 156,
+    "municipalityID": 53,
+    "name": "Augusto Mijares"
+  },
+  {
+    "id": 157,
+    "municipalityID": 54,
+    "name": "Sabaneta"
+  },
+  {
+    "id": 158,
+    "municipalityID": 54,
+    "name": "Juan Antonio Rodríguez Domínguez"
+  },
+  {
+    "id": 159,
+    "municipalityID": 55,
+    "name": "El Cantón"
+  },
+  {
+    "id": 160,
+    "municipalityID": 55,
+    "name": "Santa Cruz de Guacas"
+  },
+  {
+    "id": 161,
+    "municipalityID": 55,
+    "name": "Puerto Vivas"
+  },
+  {
+    "id": 162,
+    "municipalityID": 56,
+    "name": "Ticoporo"
+  },
+  {
+    "id": 163,
+    "municipalityID": 56,
+    "name": "Nicolás Pulido"
+  },
+  {
+    "id": 164,
+    "municipalityID": 56,
+    "name": "Andrés Bello"
+  },
+  {
+    "id": 165,
+    "municipalityID": 57,
+    "name": "Arismendi"
+  },
+  {
+    "id": 166,
+    "municipalityID": 57,
+    "name": "Guadarrama"
+  },
+  {
+    "id": 167,
+    "municipalityID": 57,
+    "name": "La Unión"
+  },
+  {
+    "id": 168,
+    "municipalityID": 57,
+    "name": "San Antonio"
+  },
+  {
+    "id": 169,
+    "municipalityID": 58,
+    "name": "Barinas"
+  },
+  {
+    "id": 170,
+    "municipalityID": 58,
+    "name": "Alberto Arvelo Larriva"
+  },
+  {
+    "id": 171,
+    "municipalityID": 58,
+    "name": "San Silvestre"
+  },
+  {
+    "id": 172,
+    "municipalityID": 58,
+    "name": "Santa Inés"
+  },
+  {
+    "id": 173,
+    "municipalityID": 58,
+    "name": "Santa Lucía"
+  },
+  {
+    "id": 174,
+    "municipalityID": 58,
+    "name": "Torumos"
+  },
+  {
+    "id": 175,
+    "municipalityID": 58,
+    "name": "El Carmen"
+  },
+  {
+    "id": 176,
+    "municipalityID": 58,
+    "name": "Rómulo Betancourt"
+  },
+  {
+    "id": 177,
+    "municipalityID": 58,
+    "name": "Corazón de Jesús"
+  },
+  {
+    "id": 178,
+    "municipalityID": 58,
+    "name": "Ramón Ignacio Méndez"
+  },
+  {
+    "id": 179,
+    "municipalityID": 58,
+    "name": "Alto Barinas"
+  },
+  {
+    "id": 180,
+    "municipalityID": 58,
+    "name": "Manuel Palacio Fajardo"
+  },
+  {
+    "id": 181,
+    "municipalityID": 58,
+    "name": "Juan Antonio Rodríguez Domínguez"
+  },
+  {
+    "id": 182,
+    "municipalityID": 58,
+    "name": "Dominga Ortiz de Páez"
+  },
+  {
+    "id": 183,
+    "municipalityID": 59,
+    "name": "Barinitas"
+  },
+  {
+    "id": 184,
+    "municipalityID": 59,
+    "name": "Altamira de Cáceres"
+  },
+  {
+    "id": 185,
+    "municipalityID": 59,
+    "name": "Calderas"
+  },
+  {
+    "id": 186,
+    "municipalityID": 60,
+    "name": "Barrancas"
+  },
+  {
+    "id": 187,
+    "municipalityID": 60,
+    "name": "El Socorro"
+  },
+  {
+    "id": 188,
+    "municipalityID": 60,
+    "name": "Mazparrito"
+  },
+  {
+    "id": 189,
+    "municipalityID": 61,
+    "name": "Santa Bárbara"
+  },
+  {
+    "id": 190,
+    "municipalityID": 61,
+    "name": "Pedro Briceño Méndez"
+  },
+  {
+    "id": 191,
+    "municipalityID": 61,
+    "name": "Ramón Ignacio Méndez"
+  },
+  {
+    "id": 192,
+    "municipalityID": 61,
+    "name": "José Ignacio del Pumar"
+  },
+  {
+    "id": 193,
+    "municipalityID": 62,
+    "name": "Obispos"
+  },
+  {
+    "id": 194,
+    "municipalityID": 62,
+    "name": "Guasimitos"
+  },
+  {
+    "id": 195,
+    "municipalityID": 62,
+    "name": "El Real"
+  },
+  {
+    "id": 196,
+    "municipalityID": 62,
+    "name": "La Luz"
+  },
+  {
+    "id": 197,
+    "municipalityID": 63,
+    "name": "Ciudad Bolívia"
+  },
+  {
+    "id": 198,
+    "municipalityID": 63,
+    "name": "José Ignacio Briceño"
+  },
+  {
+    "id": 199,
+    "municipalityID": 63,
+    "name": "José Félix Ribas"
+  },
+  {
+    "id": 200,
+    "municipalityID": 63,
+    "name": "Páez"
+  },
+  {
+    "id": 201,
+    "municipalityID": 64,
+    "name": "Libertad"
+  },
+  {
+    "id": 202,
+    "municipalityID": 64,
+    "name": "Dolores"
+  },
+  {
+    "id": 203,
+    "municipalityID": 64,
+    "name": "Santa Rosa"
+  },
+  {
+    "id": 204,
+    "municipalityID": 64,
+    "name": "Palacio Fajardo"
+  },
+  {
+    "id": 205,
+    "municipalityID": 65,
+    "name": "Ciudad de Nutrias"
+  },
+  {
+    "id": 206,
+    "municipalityID": 65,
+    "name": "El Regalo"
+  },
+  {
+    "id": 207,
+    "municipalityID": 65,
+    "name": "Puerto Nutrias"
+  },
+  {
+    "id": 208,
+    "municipalityID": 65,
+    "name": "Santa Catalina"
+  },
+  {
+    "id": 209,
+    "municipalityID": 66,
+    "name": "Cachamay"
+  },
+  {
+    "id": 210,
+    "municipalityID": 66,
+    "name": "Chirica"
+  },
+  {
+    "id": 211,
+    "municipalityID": 66,
+    "name": "Dalla Costa"
+  },
+  {
+    "id": 212,
+    "municipalityID": 66,
+    "name": "Once de Abril"
+  },
+  {
+    "id": 213,
+    "municipalityID": 66,
+    "name": "Simón Bolívar"
+  },
+  {
+    "id": 214,
+    "municipalityID": 66,
+    "name": "Unare"
+  },
+  {
+    "id": 215,
+    "municipalityID": 66,
+    "name": "Universidad"
+  },
+  {
+    "id": 216,
+    "municipalityID": 66,
+    "name": "Vista al Sol"
+  },
+  {
+    "id": 217,
+    "municipalityID": 66,
+    "name": "Pozo Verde"
+  },
+  {
+    "id": 218,
+    "municipalityID": 66,
+    "name": "Yocoima"
+  },
+  {
+    "id": 219,
+    "municipalityID": 66,
+    "name": "5 de Julio"
+  },
+  {
+    "id": 220,
+    "municipalityID": 67,
+    "name": "Cedeño"
+  },
+  {
+    "id": 221,
+    "municipalityID": 67,
+    "name": "Altagracia"
+  },
+  {
+    "id": 222,
+    "municipalityID": 67,
+    "name": "Ascensión Farreras"
+  },
+  {
+    "id": 223,
+    "municipalityID": 67,
+    "name": "Guaniamo"
+  },
+  {
+    "id": 224,
+    "municipalityID": 67,
+    "name": "La Urbana"
+  },
+  {
+    "id": 225,
+    "municipalityID": 67,
+    "name": "Pijiguaos"
+  },
+  {
+    "id": 226,
+    "municipalityID": 68,
+    "name": "El Callao"
+  },
+  {
+    "id": 227,
+    "municipalityID": 69,
+    "name": "Gran Sabana"
+  },
+  {
+    "id": 228,
+    "municipalityID": 69,
+    "name": "Ikabarú"
+  },
+  {
+    "id": 229,
+    "municipalityID": 70,
+    "name": "Catedral"
+  },
+  {
+    "id": 230,
+    "municipalityID": 70,
+    "name": "Zea"
+  },
+  {
+    "id": 231,
+    "municipalityID": 70,
+    "name": "Orinoco"
+  },
+  {
+    "id": 232,
+    "municipalityID": 70,
+    "name": "José Antonio Páez"
+  },
+  {
+    "id": 233,
+    "municipalityID": 70,
+    "name": "Marhuanta"
+  },
+  {
+    "id": 234,
+    "municipalityID": 70,
+    "name": "Agua Salada"
+  },
+  {
+    "id": 235,
+    "municipalityID": 70,
+    "name": "Vista Hermosa"
+  },
+  {
+    "id": 236,
+    "municipalityID": 70,
+    "name": "La Sabanita"
+  },
+  {
+    "id": 237,
+    "municipalityID": 70,
+    "name": "Panapana"
+  },
+  {
+    "id": 238,
+    "municipalityID": 71,
+    "name": "Andrés Eloy Blanco"
+  },
+  {
+    "id": 239,
+    "municipalityID": 71,
+    "name": "Pedro Cova"
+  },
+  {
+    "id": 240,
+    "municipalityID": 72,
+    "name": "Raúl Leoni"
+  },
+  {
+    "id": 241,
+    "municipalityID": 72,
+    "name": "Barceloneta"
+  },
+  {
+    "id": 242,
+    "municipalityID": 72,
+    "name": "Santa Bárbara"
+  },
+  {
+    "id": 243,
+    "municipalityID": 72,
+    "name": "San Francisco"
+  },
+  {
+    "id": 244,
+    "municipalityID": 73,
+    "name": "Roscio"
+  },
+  {
+    "id": 245,
+    "municipalityID": 73,
+    "name": "Salóm"
+  },
+  {
+    "id": 246,
+    "municipalityID": 74,
+    "name": "Sifontes"
+  },
+  {
+    "id": 247,
+    "municipalityID": 74,
+    "name": "Dalla Costa"
+  },
+  {
+    "id": 248,
+    "municipalityID": 74,
+    "name": "San Isidro"
+  },
+  {
+    "id": 249,
+    "municipalityID": 75,
+    "name": "Sucre"
+  },
+  {
+    "id": 250,
+    "municipalityID": 75,
+    "name": "Aripao"
+  },
+  {
+    "id": 251,
+    "municipalityID": 75,
+    "name": "Guarataro"
+  },
+  {
+    "id": 252,
+    "municipalityID": 75,
+    "name": "Las Majadas"
+  },
+  {
+    "id": 253,
+    "municipalityID": 75,
+    "name": "Moitaco"
+  },
+  {
+    "id": 254,
+    "municipalityID": 76,
+    "name": "Padre Pedro Chien"
+  },
+  {
+    "id": 255,
+    "municipalityID": 76,
+    "name": "Río Grande"
+  },
+  {
+    "id": 256,
+    "municipalityID": 77,
+    "name": "Bejuma"
+  },
+  {
+    "id": 257,
+    "municipalityID": 77,
+    "name": "Canoabo"
+  },
+  {
+    "id": 258,
+    "municipalityID": 77,
+    "name": "Simón Bolívar"
+  },
+  {
+    "id": 259,
+    "municipalityID": 78,
+    "name": "Güigüe"
+  },
+  {
+    "id": 260,
+    "municipalityID": 78,
+    "name": "Carabobo"
+  },
+  {
+    "id": 261,
+    "municipalityID": 78,
+    "name": "Tacarigua"
+  },
+  {
+    "id": 262,
+    "municipalityID": 79,
+    "name": "Mariara"
+  },
+  {
+    "id": 263,
+    "municipalityID": 79,
+    "name": "Aguas Calientes"
+  },
+  {
+    "id": 264,
+    "municipalityID": 80,
+    "name": "Ciudad Alianza"
+  },
+  {
+    "id": 265,
+    "municipalityID": 80,
+    "name": "Guacara"
+  },
+  {
+    "id": 266,
+    "municipalityID": 80,
+    "name": "Yagua"
+  },
+  {
+    "id": 267,
+    "municipalityID": 81,
+    "name": "Morón"
+  },
+  {
+    "id": 268,
+    "municipalityID": 81,
+    "name": "Yagua"
+  },
+  {
+    "id": 269,
+    "municipalityID": 82,
+    "name": "Tocuyito"
+  },
+  {
+    "id": 270,
+    "municipalityID": 82,
+    "name": "Independencia"
+  },
+  {
+    "id": 271,
+    "municipalityID": 83,
+    "name": "Los Guayos"
+  },
+  {
+    "id": 272,
+    "municipalityID": 84,
+    "name": "Miranda"
+  },
+  {
+    "id": 273,
+    "municipalityID": 85,
+    "name": "Montalbán"
+  },
+  {
+    "id": 274,
+    "municipalityID": 86,
+    "name": "Naguanagua"
+  },
+  {
+    "id": 275,
+    "municipalityID": 87,
+    "name": "Bartolomé Salóm"
+  },
+  {
+    "id": 276,
+    "municipalityID": 87,
+    "name": "Democracia"
+  },
+  {
+    "id": 277,
+    "municipalityID": 87,
+    "name": "Fraternidad"
+  },
+  {
+    "id": 278,
+    "municipalityID": 87,
+    "name": "Goaigoaza"
+  },
+  {
+    "id": 279,
+    "municipalityID": 87,
+    "name": "Juan José Flores"
+  },
+  {
+    "id": 280,
+    "municipalityID": 87,
+    "name": "Unión"
+  },
+  {
+    "id": 281,
+    "municipalityID": 87,
+    "name": "Borburata"
+  },
+  {
+    "id": 282,
+    "municipalityID": 87,
+    "name": "Patanemo"
+  },
+  {
+    "id": 283,
+    "municipalityID": 88,
+    "name": "San Diego"
+  },
+  {
+    "id": 284,
+    "municipalityID": 89,
+    "name": "San Joaquín"
+  },
+  {
+    "id": 285,
+    "municipalityID": 90,
+    "name": "Candelaria"
+  },
+  {
+    "id": 286,
+    "municipalityID": 90,
+    "name": "Catedral"
+  },
+  {
+    "id": 287,
+    "municipalityID": 90,
+    "name": "El Socorro"
+  },
+  {
+    "id": 288,
+    "municipalityID": 90,
+    "name": "Miguel Peña"
+  },
+  {
+    "id": 289,
+    "municipalityID": 90,
+    "name": "Rafael Urdaneta"
+  },
+  {
+    "id": 290,
+    "municipalityID": 90,
+    "name": "San Blas"
+  },
+  {
+    "id": 291,
+    "municipalityID": 90,
+    "name": "San José"
+  },
+  {
+    "id": 292,
+    "municipalityID": 90,
+    "name": "Santa Rosa"
+  },
+  {
+    "id": 293,
+    "municipalityID": 90,
+    "name": "Negro Primero"
+  },
+  {
+    "id": 294,
+    "municipalityID": 91,
+    "name": "Cojedes"
+  },
+  {
+    "id": 295,
+    "municipalityID": 91,
+    "name": "Juan de Mata Suárez"
+  },
+  {
+    "id": 296,
+    "municipalityID": 92,
+    "name": "Tinaquillo"
+  },
+  {
+    "id": 297,
+    "municipalityID": 93,
+    "name": "El Baúl"
+  },
+  {
+    "id": 298,
+    "municipalityID": 93,
+    "name": "Sucre"
+  },
+  {
+    "id": 299,
+    "municipalityID": 94,
+    "name": "La Aguadita"
+  },
+  {
+    "id": 300,
+    "municipalityID": 94,
+    "name": "Macapo"
+  },
+  {
+    "id": 301,
+    "municipalityID": 95,
+    "name": "El Pao"
+  },
+  {
+    "id": 302,
+    "municipalityID": 96,
+    "name": "El Amparo"
+  },
+  {
+    "id": 303,
+    "municipalityID": 96,
+    "name": "Libertad de Cojedes"
+  },
+  {
+    "id": 304,
+    "municipalityID": 97,
+    "name": "Rómulo Gallegos"
+  },
+  {
+    "id": 305,
+    "municipalityID": 98,
+    "name": "San Carlos de Austria"
+  },
+  {
+    "id": 306,
+    "municipalityID": 98,
+    "name": "Juan Ángel Bravo"
+  },
+  {
+    "id": 307,
+    "municipalityID": 98,
+    "name": "Manuel Manrique"
+  },
+  {
+    "id": 308,
+    "municipalityID": 99,
+    "name": "General en Jefe José Laurencio Silva"
+  },
+  {
+    "id": 309,
+    "municipalityID": 100,
+    "name": "Curiapo"
+  },
+  {
+    "id": 310,
+    "municipalityID": 100,
+    "name": "Almirante Luis Brión"
+  },
+  {
+    "id": 311,
+    "municipalityID": 100,
+    "name": "Francisco Aniceto Lugo"
+  },
+  {
+    "id": 312,
+    "municipalityID": 100,
+    "name": "Manuel Renaud"
+  },
+  {
+    "id": 313,
+    "municipalityID": 100,
+    "name": "Padre Barral"
+  },
+  {
+    "id": 314,
+    "municipalityID": 100,
+    "name": "Santos de Abelgas"
+  },
+  {
+    "id": 315,
+    "municipalityID": 101,
+    "name": "Imataca"
+  },
+  {
+    "id": 316,
+    "municipalityID": 101,
+    "name": "Cinco de Julio"
+  },
+  {
+    "id": 317,
+    "municipalityID": 101,
+    "name": "Juan Bautista Arismendi"
+  },
+  {
+    "id": 318,
+    "municipalityID": 101,
+    "name": "Manuel Piar"
+  },
+  {
+    "id": 319,
+    "municipalityID": 101,
+    "name": "Rómulo Gallegos"
+  },
+  {
+    "id": 320,
+    "municipalityID": 102,
+    "name": "Pedernales"
+  },
+  {
+    "id": 321,
+    "municipalityID": 102,
+    "name": "Luis Beltrán Prieto Figueroa"
+  },
+  {
+    "id": 322,
+    "municipalityID": 103,
+    "name": "San José (Delta Amacuro)"
+  },
+  {
+    "id": 323,
+    "municipalityID": 103,
+    "name": "José Vidal Marcano"
+  },
+  {
+    "id": 324,
+    "municipalityID": 103,
+    "name": "Juan Millán"
+  },
+  {
+    "id": 325,
+    "municipalityID": 103,
+    "name": "Leonardo Ruíz Pineda"
+  },
+  {
+    "id": 326,
+    "municipalityID": 103,
+    "name": "Mariscal Antonio José de Sucre"
+  },
+  {
+    "id": 327,
+    "municipalityID": 103,
+    "name": "Monseñor Argimiro García"
+  },
+  {
+    "id": 328,
+    "municipalityID": 103,
+    "name": "San Rafael (Delta Amacuro)"
+  },
+  {
+    "id": 329,
+    "municipalityID": 103,
+    "name": "Virgen del Valle"
+  },
+  {
+    "id": 330,
+    "municipalityID": 10,
+    "name": "Clarines"
+  },
+  {
+    "id": 331,
+    "municipalityID": 10,
+    "name": "Guanape"
+  },
+  {
+    "id": 332,
+    "municipalityID": 10,
+    "name": "Sabana de Uchire"
+  },
+  {
+    "id": 333,
+    "municipalityID": 104,
+    "name": "Capadare"
+  },
+  {
+    "id": 334,
+    "municipalityID": 104,
+    "name": "La Pastora"
+  },
+  {
+    "id": 335,
+    "municipalityID": 104,
+    "name": "Libertador"
+  },
+  {
+    "id": 336,
+    "municipalityID": 104,
+    "name": "San Juan de los Cayos"
+  },
+  {
+    "id": 337,
+    "municipalityID": 105,
+    "name": "Aracua"
+  },
+  {
+    "id": 338,
+    "municipalityID": 105,
+    "name": "La Peña"
+  },
+  {
+    "id": 339,
+    "municipalityID": 105,
+    "name": "San Luis"
+  },
+  {
+    "id": 340,
+    "municipalityID": 106,
+    "name": "Bariro"
+  },
+  {
+    "id": 341,
+    "municipalityID": 106,
+    "name": "Borojó"
+  },
+  {
+    "id": 342,
+    "municipalityID": 106,
+    "name": "Capatárida"
+  },
+  {
+    "id": 343,
+    "municipalityID": 106,
+    "name": "Guajiro"
+  },
+  {
+    "id": 344,
+    "municipalityID": 106,
+    "name": "Seque"
+  },
+  {
+    "id": 345,
+    "municipalityID": 106,
+    "name": "Zazárida"
+  },
+  {
+    "id": 346,
+    "municipalityID": 106,
+    "name": "Valle de Eroa"
+  },
+  {
+    "id": 347,
+    "municipalityID": 107,
+    "name": "Cacique Manaure"
+  },
+  {
+    "id": 348,
+    "municipalityID": 108,
+    "name": "Norte"
+  },
+  {
+    "id": 349,
+    "municipalityID": 108,
+    "name": "Carirubana"
+  },
+  {
+    "id": 350,
+    "municipalityID": 108,
+    "name": "Santa Ana"
+  },
+  {
+    "id": 351,
+    "municipalityID": 108,
+    "name": "Urbana Punta Cardón"
+  },
+  {
+    "id": 352,
+    "municipalityID": 109,
+    "name": "La Vela de Coro"
+  },
+  {
+    "id": 353,
+    "municipalityID": 109,
+    "name": "Acurigua"
+  },
+  {
+    "id": 354,
+    "municipalityID": 109,
+    "name": "Guaibacoa"
+  },
+  {
+    "id": 355,
+    "municipalityID": 109,
+    "name": "Las Calderas"
+  },
+  {
+    "id": 356,
+    "municipalityID": 109,
+    "name": "Macoruca"
+  },
+  {
+    "id": 357,
+    "municipalityID": 110,
+    "name": "Dabajuro"
+  },
+  {
+    "id": 358,
+    "municipalityID": 111,
+    "name": "Agua Clara"
+  },
+  {
+    "id": 359,
+    "municipalityID": 111,
+    "name": "Avaria"
+  },
+  {
+    "id": 360,
+    "municipalityID": 111,
+    "name": "Pedregal"
+  },
+  {
+    "id": 361,
+    "municipalityID": 111,
+    "name": "Piedra Grande"
+  },
+  {
+    "id": 362,
+    "municipalityID": 111,
+    "name": "Purureche"
+  },
+  {
+    "id": 363,
+    "municipalityID": 112,
+    "name": "Adaure"
+  },
+  {
+    "id": 364,
+    "municipalityID": 112,
+    "name": "Adícora"
+  },
+  {
+    "id": 365,
+    "municipalityID": 112,
+    "name": "Baraived"
+  },
+  {
+    "id": 366,
+    "municipalityID": 112,
+    "name": "Buena Vista"
+  },
+  {
+    "id": 367,
+    "municipalityID": 112,
+    "name": "Jadacaquiva"
+  },
+  {
+    "id": 368,
+    "municipalityID": 112,
+    "name": "El Vínculo"
+  },
+  {
+    "id": 369,
+    "municipalityID": 112,
+    "name": "El Hato"
+  },
+  {
+    "id": 370,
+    "municipalityID": 112,
+    "name": "Moruy"
+  },
+  {
+    "id": 371,
+    "municipalityID": 112,
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "id": 372,
+    "municipalityID": 113,
+    "name": "Agua Larga"
+  },
+  {
+    "id": 373,
+    "municipalityID": 113,
+    "name": "El Paují"
+  },
+  {
+    "id": 374,
+    "municipalityID": 113,
+    "name": "Independencia"
+  },
+  {
+    "id": 375,
+    "municipalityID": 113,
+    "name": "Mapararí"
+  },
+  {
+    "id": 376,
+    "municipalityID": 114,
+    "name": "Agua Linda"
+  },
+  {
+    "id": 377,
+    "municipalityID": 114,
+    "name": "Araurima"
+  },
+  {
+    "id": 378,
+    "municipalityID": 114,
+    "name": "Jacura"
+  },
+  {
+    "id": 379,
+    "municipalityID": 115,
+    "name": "Tucacas"
+  },
+  {
+    "id": 380,
+    "municipalityID": 115,
+    "name": "Boca de Aroa"
+  },
+  {
+    "id": 381,
+    "municipalityID": 116,
+    "name": "Los Taques"
+  },
+  {
+    "id": 382,
+    "municipalityID": 116,
+    "name": "Judibana"
+  },
+  {
+    "id": 383,
+    "municipalityID": 117,
+    "name": "Mene de Mauroa"
+  },
+  {
+    "id": 384,
+    "municipalityID": 117,
+    "name": "San Félix"
+  },
+  {
+    "id": 385,
+    "municipalityID": 117,
+    "name": "Casigua"
+  },
+  {
+    "id": 386,
+    "municipalityID": 118,
+    "name": "Guzmán Guillermo"
+  },
+  {
+    "id": 387,
+    "municipalityID": 118,
+    "name": "Mitare"
+  },
+  {
+    "id": 388,
+    "municipalityID": 118,
+    "name": "Río Seco"
+  },
+  {
+    "id": 389,
+    "municipalityID": 118,
+    "name": "Sabaneta"
+  },
+  {
+    "id": 390,
+    "municipalityID": 118,
+    "name": "San Antonio"
+  },
+  {
+    "id": 391,
+    "municipalityID": 118,
+    "name": "San Gabriel"
+  },
+  {
+    "id": 392,
+    "municipalityID": 118,
+    "name": "Santa Ana"
+  },
+  {
+    "id": 393,
+    "municipalityID": 119,
+    "name": "Boca del Tocuyo"
+  },
+  {
+    "id": 394,
+    "municipalityID": 119,
+    "name": "Chichiriviche"
+  },
+  {
+    "id": 395,
+    "municipalityID": 119,
+    "name": "Tocuyo de la Costa"
+  },
+  {
+    "id": 396,
+    "municipalityID": 120,
+    "name": "Palmasola"
+  },
+  {
+    "id": 397,
+    "municipalityID": 121,
+    "name": "Cabure"
+  },
+  {
+    "id": 398,
+    "municipalityID": 121,
+    "name": "Colina"
+  },
+  {
+    "id": 399,
+    "municipalityID": 121,
+    "name": "Curimagua"
+  },
+  {
+    "id": 400,
+    "municipalityID": 122,
+    "name": "San José de la Costa"
+  },
+  {
+    "id": 401,
+    "municipalityID": 122,
+    "name": "Píritu"
+  },
+  {
+    "id": 402,
+    "municipalityID": 123,
+    "name": "San Francisco"
+  },
+  {
+    "id": 403,
+    "municipalityID": 124,
+    "name": "Sucre"
+  },
+  {
+    "id": 404,
+    "municipalityID": 124,
+    "name": "Pecaya"
+  },
+  {
+    "id": 405,
+    "municipalityID": 125,
+    "name": "Tocópero"
+  },
+  {
+    "id": 406,
+    "municipalityID": 126,
+    "name": "El Charal"
+  },
+  {
+    "id": 407,
+    "municipalityID": 126,
+    "name": "Las Vegas del Tuy"
+  },
+  {
+    "id": 408,
+    "municipalityID": 126,
+    "name": "Santa Cruz de Bucaral"
+  },
+  {
+    "id": 409,
+    "municipalityID": 127,
+    "name": "Bruzual"
+  },
+  {
+    "id": 410,
+    "municipalityID": 127,
+    "name": "Urumaco"
+  },
+  {
+    "id": 411,
+    "municipalityID": 128,
+    "name": "Puerto Cumarebo"
+  },
+  {
+    "id": 412,
+    "municipalityID": 128,
+    "name": "La Ciénaga"
+  },
+  {
+    "id": 413,
+    "municipalityID": 128,
+    "name": "La Soledad"
+  },
+  {
+    "id": 414,
+    "municipalityID": 128,
+    "name": "Pueblo Cumarebo"
+  },
+  {
+    "id": 415,
+    "municipalityID": 128,
+    "name": "Zazárida"
+  },
+  {
+    "id": 416,
+    "municipalityID": 113,
+    "name": "Churuguara"
+  },
+  {
+    "id": 417,
+    "municipalityID": 129,
+    "name": "Camaguán"
+  },
+  {
+    "id": 418,
+    "municipalityID": 129,
+    "name": "Puerto Miranda"
+  },
+  {
+    "id": 419,
+    "municipalityID": 129,
+    "name": "Uverito"
+  },
+  {
+    "id": 420,
+    "municipalityID": 130,
+    "name": "Chaguaramas"
+  },
+  {
+    "id": 421,
+    "municipalityID": 131,
+    "name": "El Socorro"
+  },
+  {
+    "id": 422,
+    "municipalityID": 132,
+    "name": "Tucupido"
+  },
+  {
+    "id": 423,
+    "municipalityID": 132,
+    "name": "San Rafael de Laya"
+  },
+  {
+    "id": 424,
+    "municipalityID": 133,
+    "name": "Altagracia de Orituco"
+  },
+  {
+    "id": 425,
+    "municipalityID": 133,
+    "name": "San Rafael de Orituco"
+  },
+  {
+    "id": 426,
+    "municipalityID": 133,
+    "name": "San Francisco Javier de Lezama"
+  },
+  {
+    "id": 427,
+    "municipalityID": 133,
+    "name": "Paso Real de Macaira"
+  },
+  {
+    "id": 428,
+    "municipalityID": 133,
+    "name": "Carlos Soublette"
+  },
+  {
+    "id": 429,
+    "municipalityID": 133,
+    "name": "San Francisco de Macaira"
+  },
+  {
+    "id": 430,
+    "municipalityID": 133,
+    "name": "Libertad de Orituco"
+  },
+  {
+    "id": 431,
+    "municipalityID": 134,
+    "name": "Cantaclaro"
+  },
+  {
+    "id": 432,
+    "municipalityID": 134,
+    "name": "San Juan de los Morros"
+  },
+  {
+    "id": 433,
+    "municipalityID": 134,
+    "name": "Parapara"
+  },
+  {
+    "id": 434,
+    "municipalityID": 135,
+    "name": "El Sombrero"
+  },
+  {
+    "id": 435,
+    "municipalityID": 135,
+    "name": "Sosa"
+  },
+  {
+    "id": 436,
+    "municipalityID": 136,
+    "name": "Las Mercedes"
+  },
+  {
+    "id": 437,
+    "municipalityID": 136,
+    "name": "Cabruta"
+  },
+  {
+    "id": 438,
+    "municipalityID": 136,
+    "name": "Santa Rita de Manapire"
+  },
+  {
+    "id": 439,
+    "municipalityID": 137,
+    "name": "Valle de la Pascua"
+  },
+  {
+    "id": 440,
+    "municipalityID": 137,
+    "name": "Espino"
+  },
+  {
+    "id": 441,
+    "municipalityID": 138,
+    "name": "San José de Unare"
+  },
+  {
+    "id": 442,
+    "municipalityID": 138,
+    "name": "Zaraza"
+  },
+  {
+    "id": 443,
+    "municipalityID": 139,
+    "name": "San José de Tiznados"
+  },
+  {
+    "id": 444,
+    "municipalityID": 139,
+    "name": "San Francisco de Tiznados"
+  },
+  {
+    "id": 445,
+    "municipalityID": 139,
+    "name": "San Lorenzo de Tiznados"
+  },
+  {
+    "id": 446,
+    "municipalityID": 139,
+    "name": "Ortiz"
+  },
+  {
+    "id": 447,
+    "municipalityID": 140,
+    "name": "Guayabal"
+  },
+  {
+    "id": 448,
+    "municipalityID": 140,
+    "name": "Cazorla"
+  },
+  {
+    "id": 449,
+    "municipalityID": 141,
+    "name": "San José de Guaribe"
+  },
+  {
+    "id": 450,
+    "municipalityID": 141,
+    "name": "Uveral"
+  },
+  {
+    "id": 451,
+    "municipalityID": 142,
+    "name": "Santa María de Ipire"
+  },
+  {
+    "id": 452,
+    "municipalityID": 142,
+    "name": "Altamira"
+  },
+  {
+    "id": 453,
+    "municipalityID": 143,
+    "name": "El Calvario"
+  },
+  {
+    "id": 454,
+    "municipalityID": 143,
+    "name": "El Rastro"
+  },
+  {
+    "id": 455,
+    "municipalityID": 143,
+    "name": "Guardatinajas"
+  },
+  {
+    "id": 456,
+    "municipalityID": 143,
+    "name": "Capital Urbana Calabozo"
+  },
+  {
+    "id": 457,
+    "municipalityID": 144,
+    "name": "Quebrada Honda de Guache"
+  },
+  {
+    "id": 458,
+    "municipalityID": 144,
+    "name": "Pío Tamayo"
+  },
+  {
+    "id": 459,
+    "municipalityID": 144,
+    "name": "Yacambú"
+  },
+  {
+    "id": 460,
+    "municipalityID": 145,
+    "name": "Fréitez"
+  },
+  {
+    "id": 461,
+    "municipalityID": 145,
+    "name": "José María Blanco"
+  },
+  {
+    "id": 462,
+    "municipalityID": 146,
+    "name": "Catedral"
+  },
+  {
+    "id": 463,
+    "municipalityID": 146,
+    "name": "Concepción"
+  },
+  {
+    "id": 464,
+    "municipalityID": 146,
+    "name": "El Cují"
+  },
+  {
+    "id": 465,
+    "municipalityID": 146,
+    "name": "Juan de Villegas"
+  },
+  {
+    "id": 466,
+    "municipalityID": 146,
+    "name": "Santa Rosa"
+  },
+  {
+    "id": 467,
+    "municipalityID": 146,
+    "name": "Tamaca"
+  },
+  {
+    "id": 468,
+    "municipalityID": 146,
+    "name": "Unión"
+  },
+  {
+    "id": 469,
+    "municipalityID": 146,
+    "name": "Aguedo Felipe Alvarado"
+  },
+  {
+    "id": 470,
+    "municipalityID": 146,
+    "name": "Buena Vista"
+  },
+  {
+    "id": 471,
+    "municipalityID": 146,
+    "name": "Juárez"
+  },
+  {
+    "id": 472,
+    "municipalityID": 147,
+    "name": "Juan Bautista Rodríguez"
+  },
+  {
+    "id": 473,
+    "municipalityID": 147,
+    "name": "Cuara"
+  },
+  {
+    "id": 474,
+    "municipalityID": 147,
+    "name": "Diego de Lozada"
+  },
+  {
+    "id": 475,
+    "municipalityID": 147,
+    "name": "Paraíso de San José"
+  },
+  {
+    "id": 476,
+    "municipalityID": 147,
+    "name": "San Miguel"
+  },
+  {
+    "id": 477,
+    "municipalityID": 147,
+    "name": "Tintorero"
+  },
+  {
+    "id": 478,
+    "municipalityID": 147,
+    "name": "José Bernardo Dorante"
+  },
+  {
+    "id": 479,
+    "municipalityID": 147,
+    "name": "Coronel Mariano Peraza"
+  },
+  {
+    "id": 480,
+    "municipalityID": 148,
+    "name": "Bolívar"
+  },
+  {
+    "id": 481,
+    "municipalityID": 148,
+    "name": "Anzoátegui"
+  },
+  {
+    "id": 482,
+    "municipalityID": 148,
+    "name": "Guarico"
+  },
+  {
+    "id": 483,
+    "municipalityID": 148,
+    "name": "Hilario Luna y Luna"
+  },
+  {
+    "id": 484,
+    "municipalityID": 148,
+    "name": "Humocaro Alto"
+  },
+  {
+    "id": 485,
+    "municipalityID": 148,
+    "name": "Humocaro Bajo"
+  },
+  {
+    "id": 486,
+    "municipalityID": 148,
+    "name": "La Candelaria"
+  },
+  {
+    "id": 487,
+    "municipalityID": 148,
+    "name": "Morán"
+  },
+  {
+    "id": 488,
+    "municipalityID": 149,
+    "name": "Cabudare"
+  },
+  {
+    "id": 489,
+    "municipalityID": 149,
+    "name": "José Gregorio Bastidas"
+  },
+  {
+    "id": 490,
+    "municipalityID": 149,
+    "name": "Agua Viva"
+  },
+  {
+    "id": 491,
+    "municipalityID": 150,
+    "name": "Sarare"
+  },
+  {
+    "id": 492,
+    "municipalityID": 150,
+    "name": "Buría"
+  },
+  {
+    "id": 493,
+    "municipalityID": 150,
+    "name": "Gustavo Vegas León"
+  },
+  {
+    "id": 494,
+    "municipalityID": 151,
+    "name": "Trinidad Samuel"
+  },
+  {
+    "id": 495,
+    "municipalityID": 151,
+    "name": "Antonio Díaz"
+  },
+  {
+    "id": 496,
+    "municipalityID": 151,
+    "name": "Camacaro"
+  },
+  {
+    "id": 497,
+    "municipalityID": 151,
+    "name": "Castañeda"
+  },
+  {
+    "id": 498,
+    "municipalityID": 151,
+    "name": "Cecilio Zubillaga"
+  },
+  {
+    "id": 499,
+    "municipalityID": 151,
+    "name": "Chiquinquirá"
+  },
+  {
+    "id": 500,
+    "municipalityID": 151,
+    "name": "El Blanco"
+  },
+  {
+    "id": 501,
+    "municipalityID": 151,
+    "name": "Espinoza de los Monteros"
+  },
+  {
+    "id": 502,
+    "municipalityID": 151,
+    "name": "Lara"
+  },
+  {
+    "id": 503,
+    "municipalityID": 151,
+    "name": "Las Mercedes"
+  },
+  {
+    "id": 504,
+    "municipalityID": 151,
+    "name": "Manuel Morillo"
+  },
+  {
+    "id": 505,
+    "municipalityID": 151,
+    "name": "Montaña Verde"
+  },
+  {
+    "id": 506,
+    "municipalityID": 151,
+    "name": "Montes de Oca"
+  },
+  {
+    "id": 507,
+    "municipalityID": 151,
+    "name": "Torres"
+  },
+  {
+    "id": 508,
+    "municipalityID": 151,
+    "name": "Heriberto Arroyo"
+  },
+  {
+    "id": 509,
+    "municipalityID": 151,
+    "name": "Reyes Vargas"
+  },
+  {
+    "id": 510,
+    "municipalityID": 151,
+    "name": "Altagracia"
+  },
+  {
+    "id": 511,
+    "municipalityID": 152,
+    "name": "Siquisique"
+  },
+  {
+    "id": 512,
+    "municipalityID": 152,
+    "name": "Moroturo"
+  },
+  {
+    "id": 513,
+    "municipalityID": 152,
+    "name": "San Miguel"
+  },
+  {
+    "id": 514,
+    "municipalityID": 152,
+    "name": "Xaguas"
+  },
+  {
+    "id": 515,
+    "municipalityID": 179,
+    "name": "Presidente Betancourt"
+  },
+  {
+    "id": 516,
+    "municipalityID": 179,
+    "name": "Presidente Páez"
+  },
+  {
+    "id": 517,
+    "municipalityID": 179,
+    "name": "Presidente Rómulo Gallegos"
+  },
+  {
+    "id": 518,
+    "municipalityID": 179,
+    "name": "Gabriel Picón González"
+  },
+  {
+    "id": 519,
+    "municipalityID": 179,
+    "name": "Héctor Amable Mora"
+  },
+  {
+    "id": 520,
+    "municipalityID": 179,
+    "name": "José Nucete Sardi"
+  },
+  {
+    "id": 521,
+    "municipalityID": 179,
+    "name": "Pulido Méndez"
+  },
+  {
+    "id": 522,
+    "municipalityID": 180,
+    "name": "La Azulita"
+  },
+  {
+    "id": 523,
+    "municipalityID": 181,
+    "name": "Santa Cruz de Mora"
+  },
+  {
+    "id": 524,
+    "municipalityID": 181,
+    "name": "Mesa Bolívar"
+  },
+  {
+    "id": 525,
+    "municipalityID": 181,
+    "name": "Mesa de Las Palmas"
+  },
+  {
+    "id": 526,
+    "municipalityID": 182,
+    "name": "Aricagua"
+  },
+  {
+    "id": 527,
+    "municipalityID": 182,
+    "name": "San Antonio"
+  },
+  {
+    "id": 528,
+    "municipalityID": 183,
+    "name": "Canagua"
+  },
+  {
+    "id": 529,
+    "municipalityID": 183,
+    "name": "Capurí"
+  },
+  {
+    "id": 530,
+    "municipalityID": 183,
+    "name": "Chacantá"
+  },
+  {
+    "id": 531,
+    "municipalityID": 183,
+    "name": "El Molino"
+  },
+  {
+    "id": 532,
+    "municipalityID": 183,
+    "name": "Guaimaral"
+  },
+  {
+    "id": 533,
+    "municipalityID": 183,
+    "name": "Mucutuy"
+  },
+  {
+    "id": 534,
+    "municipalityID": 183,
+    "name": "Mucuchachí"
+  },
+  {
+    "id": 535,
+    "municipalityID": 184,
+    "name": "Fernández Peña"
+  },
+  {
+    "id": 536,
+    "municipalityID": 184,
+    "name": "Matriz"
+  },
+  {
+    "id": 537,
+    "municipalityID": 184,
+    "name": "Montalbán"
+  },
+  {
+    "id": 538,
+    "municipalityID": 184,
+    "name": "Acequias"
+  },
+  {
+    "id": 539,
+    "municipalityID": 184,
+    "name": "Jají"
+  },
+  {
+    "id": 540,
+    "municipalityID": 184,
+    "name": "La Mesa"
+  },
+  {
+    "id": 541,
+    "municipalityID": 184,
+    "name": "San José del Sur"
+  },
+  {
+    "id": 542,
+    "municipalityID": 185,
+    "name": "Tucaní"
+  },
+  {
+    "id": 543,
+    "municipalityID": 185,
+    "name": "Florencio Ramírez"
+  },
+  {
+    "id": 544,
+    "municipalityID": 186,
+    "name": "Santo Domingo"
+  },
+  {
+    "id": 545,
+    "municipalityID": 186,
+    "name": "Las Piedras"
+  },
+  {
+    "id": 546,
+    "municipalityID": 187,
+    "name": "Guaraque"
+  },
+  {
+    "id": 547,
+    "municipalityID": 187,
+    "name": "Mesa de Quintero"
+  },
+  {
+    "id": 548,
+    "municipalityID": 187,
+    "name": "Río Negro"
+  },
+  {
+    "id": 549,
+    "municipalityID": 188,
+    "name": "Arapuey"
+  },
+  {
+    "id": 550,
+    "municipalityID": 188,
+    "name": "Palmira"
+  },
+  {
+    "id": 551,
+    "municipalityID": 189,
+    "name": "San Cristóbal de Torondoy"
+  },
+  {
+    "id": 552,
+    "municipalityID": 189,
+    "name": "Torondoy"
+  },
+  {
+    "id": 553,
+    "municipalityID": 190,
+    "name": "Antonio Spinetti Dini"
+  },
+  {
+    "id": 554,
+    "municipalityID": 190,
+    "name": "Arias"
+  },
+  {
+    "id": 555,
+    "municipalityID": 190,
+    "name": "Caracciolo Parra Pérez"
+  },
+  {
+    "id": 556,
+    "municipalityID": 190,
+    "name": "Domingo Peña"
+  },
+  {
+    "id": 557,
+    "municipalityID": 190,
+    "name": "El Llano"
+  },
+  {
+    "id": 558,
+    "municipalityID": 190,
+    "name": "Gonzalo Picón Febres"
+  },
+  {
+    "id": 559,
+    "municipalityID": 190,
+    "name": "Jacinto Plaza"
+  },
+  {
+    "id": 560,
+    "municipalityID": 190,
+    "name": "Juan Rodríguez Suárez"
+  },
+  {
+    "id": 561,
+    "municipalityID": 190,
+    "name": "Lasso de la Vega"
+  },
+  {
+    "id": 562,
+    "municipalityID": 190,
+    "name": "Mariano Picón Salas"
+  },
+  {
+    "id": 563,
+    "municipalityID": 190,
+    "name": "Milla"
+  },
+  {
+    "id": 564,
+    "municipalityID": 190,
+    "name": "Osuna Rodríguez"
+  },
+  {
+    "id": 565,
+    "municipalityID": 190,
+    "name": "Sagrario"
+  },
+  {
+    "id": 566,
+    "municipalityID": 190,
+    "name": "El Morro"
+  },
+  {
+    "id": 567,
+    "municipalityID": 190,
+    "name": "Los Nevados"
+  },
+  {
+    "id": 568,
+    "municipalityID": 191,
+    "name": "Andrés Eloy Blanco"
+  },
+  {
+    "id": 569,
+    "municipalityID": 191,
+    "name": "La Venta"
+  },
+  {
+    "id": 570,
+    "municipalityID": 191,
+    "name": "Piñango"
+  },
+  {
+    "id": 571,
+    "municipalityID": 191,
+    "name": "Timotes"
+  },
+  {
+    "id": 572,
+    "municipalityID": 192,
+    "name": "Eloy Paredes"
+  },
+  {
+    "id": 573,
+    "municipalityID": 192,
+    "name": "San Rafael de Alcázar"
+  },
+  {
+    "id": 574,
+    "municipalityID": 192,
+    "name": "Santa Elena de Arenales"
+  },
+  {
+    "id": 575,
+    "municipalityID": 193,
+    "name": "Santa María de Caparo"
+  },
+  {
+    "id": 576,
+    "municipalityID": 194,
+    "name": "Pueblo Llano"
+  },
+  {
+    "id": 577,
+    "municipalityID": 195,
+    "name": "Cacute"
+  },
+  {
+    "id": 578,
+    "municipalityID": 195,
+    "name": "La Toma"
+  },
+  {
+    "id": 579,
+    "municipalityID": 195,
+    "name": "Mucuchíes"
+  },
+  {
+    "id": 580,
+    "municipalityID": 195,
+    "name": "Mucurubá"
+  },
+  {
+    "id": 581,
+    "municipalityID": 195,
+    "name": "San Rafael"
+  },
+  {
+    "id": 582,
+    "municipalityID": 196,
+    "name": "Gerónimo Maldonado"
+  },
+  {
+    "id": 583,
+    "municipalityID": 196,
+    "name": "Bailadores"
+  },
+  {
+    "id": 584,
+    "municipalityID": 197,
+    "name": "Tabay"
+  },
+  {
+    "id": 585,
+    "municipalityID": 198,
+    "name": "Chiguará"
+  },
+  {
+    "id": 586,
+    "municipalityID": 198,
+    "name": "Estánquez"
+  },
+  {
+    "id": 587,
+    "municipalityID": 198,
+    "name": "Lagunillas"
+  },
+  {
+    "id": 588,
+    "municipalityID": 198,
+    "name": "La Trampa"
+  },
+  {
+    "id": 589,
+    "municipalityID": 198,
+    "name": "Pueblo Nuevo del Sur"
+  },
+  {
+    "id": 590,
+    "municipalityID": 198,
+    "name": "San Juan"
+  },
+  {
+    "id": 591,
+    "municipalityID": 199,
+    "name": "El Amparo"
+  },
+  {
+    "id": 592,
+    "municipalityID": 199,
+    "name": "El Llano"
+  },
+  {
+    "id": 593,
+    "municipalityID": 199,
+    "name": "San Francisco"
+  },
+  {
+    "id": 594,
+    "municipalityID": 199,
+    "name": "Tovar"
+  },
+  {
+    "id": 595,
+    "municipalityID": 200,
+    "name": "Independencia"
+  },
+  {
+    "id": 596,
+    "municipalityID": 200,
+    "name": "María de la Concepción Palacios Blanco"
+  },
+  {
+    "id": 597,
+    "municipalityID": 200,
+    "name": "Nueva Bolivia"
+  },
+  {
+    "id": 598,
+    "municipalityID": 200,
+    "name": "Santa Apolonia"
+  },
+  {
+    "id": 599,
+    "municipalityID": 201,
+    "name": "Caño El Tigre"
+  },
+  {
+    "id": 600,
+    "municipalityID": 201,
+    "name": "Zea"
+  },
+  {
+    "id": 601,
+    "municipalityID": 223,
+    "name": "Aragüita"
+  },
+  {
+    "id": 602,
+    "municipalityID": 223,
+    "name": "Arévalo González"
+  },
+  {
+    "id": 603,
+    "municipalityID": 223,
+    "name": "Capaya"
+  },
+  {
+    "id": 604,
+    "municipalityID": 223,
+    "name": "Caucagua"
+  },
+  {
+    "id": 605,
+    "municipalityID": 223,
+    "name": "Panaquire"
+  },
+  {
+    "id": 606,
+    "municipalityID": 223,
+    "name": "Ribas"
+  },
+  {
+    "id": 607,
+    "municipalityID": 223,
+    "name": "El Café"
+  },
+  {
+    "id": 608,
+    "municipalityID": 223,
+    "name": "Marizapa"
+  },
+  {
+    "id": 609,
+    "municipalityID": 224,
+    "name": "Cumbo"
+  },
+  {
+    "id": 610,
+    "municipalityID": 224,
+    "name": "San José de Barlovento"
+  },
+  {
+    "id": 611,
+    "municipalityID": 225,
+    "name": "El Cafetal"
+  },
+  {
+    "id": 612,
+    "municipalityID": 225,
+    "name": "Las Minas"
+  },
+  {
+    "id": 613,
+    "municipalityID": 225,
+    "name": "Nuestra Señora del Rosario"
+  },
+  {
+    "id": 614,
+    "municipalityID": 226,
+    "name": "Higuerote"
+  },
+  {
+    "id": 615,
+    "municipalityID": 226,
+    "name": "Curiepe"
+  },
+  {
+    "id": 616,
+    "municipalityID": 226,
+    "name": "Tacarigua de Brión"
+  },
+  {
+    "id": 617,
+    "municipalityID": 227,
+    "name": "Mamporal"
+  },
+  {
+    "id": 618,
+    "municipalityID": 228,
+    "name": "Carrizal"
+  },
+  {
+    "id": 619,
+    "municipalityID": 229,
+    "name": "Chacao"
+  },
+  {
+    "id": 620,
+    "municipalityID": 230,
+    "name": "Charallave"
+  },
+  {
+    "id": 621,
+    "municipalityID": 230,
+    "name": "Las Brisas"
+  },
+  {
+    "id": 622,
+    "municipalityID": 231,
+    "name": "El Hatillo"
+  },
+  {
+    "id": 623,
+    "municipalityID": 232,
+    "name": "Altagracia de la Montaña"
+  },
+  {
+    "id": 624,
+    "municipalityID": 232,
+    "name": "Cecilio Acosta"
+  },
+  {
+    "id": 625,
+    "municipalityID": 232,
+    "name": "Los Teques"
+  },
+  {
+    "id": 626,
+    "municipalityID": 232,
+    "name": "El Jarillo"
+  },
+  {
+    "id": 627,
+    "municipalityID": 232,
+    "name": "San Pedro"
+  },
+  {
+    "id": 628,
+    "municipalityID": 232,
+    "name": "Tácata"
+  },
+  {
+    "id": 629,
+    "municipalityID": 232,
+    "name": "Paracotos"
+  },
+  {
+    "id": 630,
+    "municipalityID": 233,
+    "name": "Cartanal"
+  },
+  {
+    "id": 631,
+    "municipalityID": 233,
+    "name": "Santa Teresa del Tuy"
+  },
+  {
+    "id": 632,
+    "municipalityID": 234,
+    "name": "La Democracia"
+  },
+  {
+    "id": 633,
+    "municipalityID": 234,
+    "name": "Ocumare del Tuy"
+  },
+  {
+    "id": 634,
+    "municipalityID": 234,
+    "name": "Santa Bárbara"
+  },
+  {
+    "id": 635,
+    "municipalityID": 235,
+    "name": "San Antonio de los Altos"
+  },
+  {
+    "id": 636,
+    "municipalityID": 236,
+    "name": "Río Chico"
+  },
+  {
+    "id": 637,
+    "municipalityID": 236,
+    "name": "El Guapo"
+  },
+  {
+    "id": 638,
+    "municipalityID": 236,
+    "name": "Tacarigua de la Laguna"
+  },
+  {
+    "id": 639,
+    "municipalityID": 236,
+    "name": "Paparo"
+  },
+  {
+    "id": 640,
+    "municipalityID": 236,
+    "name": "San Fernando del Guapo"
+  },
+  {
+    "id": 641,
+    "municipalityID": 237,
+    "name": "Santa Lucía del Tuy"
+  },
+  {
+    "id": 642,
+    "municipalityID": 238,
+    "name": "Cúpira"
+  },
+  {
+    "id": 643,
+    "municipalityID": 238,
+    "name": "Machurucuto"
+  },
+  {
+    "id": 644,
+    "municipalityID": 239,
+    "name": "Guarenas"
+  },
+  {
+    "id": 645,
+    "municipalityID": 240,
+    "name": "San Antonio de Yare"
+  },
+  {
+    "id": 646,
+    "municipalityID": 240,
+    "name": "San Francisco de Yare"
+  },
+  {
+    "id": 647,
+    "municipalityID": 241,
+    "name": "Leoncio Martínez"
+  },
+  {
+    "id": 648,
+    "municipalityID": 241,
+    "name": "Petare"
+  },
+  {
+    "id": 649,
+    "municipalityID": 241,
+    "name": "Caucagüita"
+  },
+  {
+    "id": 650,
+    "municipalityID": 241,
+    "name": "Filas de Mariche"
+  },
+  {
+    "id": 651,
+    "municipalityID": 241,
+    "name": "La Dolorita"
+  },
+  {
+    "id": 652,
+    "municipalityID": 242,
+    "name": "Cúa"
+  },
+  {
+    "id": 653,
+    "municipalityID": 242,
+    "name": "Nueva Cúa"
+  },
+  {
+    "id": 654,
+    "municipalityID": 243,
+    "name": "Guatire"
+  },
+  {
+    "id": 655,
+    "municipalityID": 243,
+    "name": "Bolívar"
+  },
+  {
+    "id": 656,
+    "municipalityID": 258,
+    "name": "San Antonio de Maturín"
+  },
+  {
+    "id": 657,
+    "municipalityID": 258,
+    "name": "San Francisco de Maturín"
+  },
+  {
+    "id": 658,
+    "municipalityID": 259,
+    "name": "Aguasay"
+  },
+  {
+    "id": 659,
+    "municipalityID": 260,
+    "name": "Caripito"
+  },
+  {
+    "id": 660,
+    "municipalityID": 261,
+    "name": "El Guácharo"
+  },
+  {
+    "id": 661,
+    "municipalityID": 261,
+    "name": "La Guanota"
+  },
+  {
+    "id": 662,
+    "municipalityID": 261,
+    "name": "Sabana de Piedra"
+  },
+  {
+    "id": 663,
+    "municipalityID": 261,
+    "name": "San Agustín"
+  },
+  {
+    "id": 664,
+    "municipalityID": 261,
+    "name": "Teresen"
+  },
+  {
+    "id": 665,
+    "municipalityID": 261,
+    "name": "Caripe"
+  },
+  {
+    "id": 666,
+    "municipalityID": 262,
+    "name": "Areo"
+  },
+  {
+    "id": 667,
+    "municipalityID": 262,
+    "name": "Capital Cedeño"
+  },
+  {
+    "id": 668,
+    "municipalityID": 262,
+    "name": "San Félix de Cantalicio"
+  },
+  {
+    "id": 669,
+    "municipalityID": 262,
+    "name": "Viento Fresco"
+  },
+  {
+    "id": 670,
+    "municipalityID": 263,
+    "name": "El Tejero"
+  },
+  {
+    "id": 671,
+    "municipalityID": 263,
+    "name": "Punta de Mata"
+  },
+  {
+    "id": 672,
+    "municipalityID": 264,
+    "name": "Chaguaramas"
+  },
+  {
+    "id": 673,
+    "municipalityID": 264,
+    "name": "Las Alhuacas"
+  },
+  {
+    "id": 674,
+    "municipalityID": 264,
+    "name": "Tabasca"
+  },
+  {
+    "id": 675,
+    "municipalityID": 264,
+    "name": "Temblador"
+  },
+  {
+    "id": 676,
+    "municipalityID": 265,
+    "name": "Alto de los Godos"
+  },
+  {
+    "id": 677,
+    "municipalityID": 265,
+    "name": "Boquerón"
+  },
+  {
+    "id": 678,
+    "municipalityID": 265,
+    "name": "Las Cocuizas"
+  },
+  {
+    "id": 679,
+    "municipalityID": 265,
+    "name": "La Cruz"
+  },
+  {
+    "id": 680,
+    "municipalityID": 265,
+    "name": "San Simón"
+  },
+  {
+    "id": 681,
+    "municipalityID": 265,
+    "name": "El Corozo"
+  },
+  {
+    "id": 682,
+    "municipalityID": 265,
+    "name": "El Furrial"
+  },
+  {
+    "id": 683,
+    "municipalityID": 265,
+    "name": "Jusepín"
+  },
+  {
+    "id": 684,
+    "municipalityID": 265,
+    "name": "La Pica"
+  },
+  {
+    "id": 685,
+    "municipalityID": 265,
+    "name": "San Vicente"
+  },
+  {
+    "id": 686,
+    "municipalityID": 266,
+    "name": "Aparicio"
+  },
+  {
+    "id": 687,
+    "municipalityID": 266,
+    "name": "Aragua de Maturín"
+  },
+  {
+    "id": 688,
+    "municipalityID": 266,
+    "name": "Chaguamal"
+  },
+  {
+    "id": 689,
+    "municipalityID": 266,
+    "name": "El Pinto"
+  },
+  {
+    "id": 690,
+    "municipalityID": 266,
+    "name": "Guanaguana"
+  },
+  {
+    "id": 691,
+    "municipalityID": 266,
+    "name": "La Toscana"
+  },
+  {
+    "id": 692,
+    "municipalityID": 266,
+    "name": "Taguaya"
+  },
+  {
+    "id": 693,
+    "municipalityID": 267,
+    "name": "Cachipo"
+  },
+  {
+    "id": 694,
+    "municipalityID": 267,
+    "name": "Quiriquire"
+  },
+  {
+    "id": 695,
+    "municipalityID": 268,
+    "name": "Santa Bárbara"
+  },
+  {
+    "id": 696,
+    "municipalityID": 269,
+    "name": "Barrancas"
+  },
+  {
+    "id": 697,
+    "municipalityID": 269,
+    "name": "Los Barrancos de Fajardo"
+  },
+  {
+    "id": 698,
+    "municipalityID": 270,
+    "name": "Uracoa"
+  },
+  {
+    "id": 699,
+    "municipalityID": 271,
+    "name": "Antolín del Campo"
+  },
+  {
+    "id": 700,
+    "municipalityID": 272,
+    "name": "Arismendi"
+  },
+  {
+    "id": 701,
+    "municipalityID": 273,
+    "name": "García"
+  },
+  {
+    "id": 702,
+    "municipalityID": 273,
+    "name": "Francisco Fajardo"
+  },
+  {
+    "id": 703,
+    "municipalityID": 274,
+    "name": "Bolívar"
+  },
+  {
+    "id": 704,
+    "municipalityID": 274,
+    "name": "Guevara"
+  },
+  {
+    "id": 705,
+    "municipalityID": 274,
+    "name": "Matasiete"
+  },
+  {
+    "id": 706,
+    "municipalityID": 274,
+    "name": "Santa Ana"
+  },
+  {
+    "id": 707,
+    "municipalityID": 274,
+    "name": "Sucre"
+  },
+  {
+    "id": 708,
+    "municipalityID": 275,
+    "name": "Aguirre"
+  },
+  {
+    "id": 709,
+    "municipalityID": 275,
+    "name": "Maneiro"
+  },
+  {
+    "id": 710,
+    "municipalityID": 276,
+    "name": "Adrián"
+  },
+  {
+    "id": 711,
+    "municipalityID": 276,
+    "name": "Juan Griego"
+  },
+  {
+    "id": 712,
+    "municipalityID": 276,
+    "name": "Yaguaraparo"
+  },
+  {
+    "id": 713,
+    "municipalityID": 277,
+    "name": "Porlamar"
+  },
+  {
+    "id": 714,
+    "municipalityID": 278,
+    "name": "San Francisco de Macanao"
+  },
+  {
+    "id": 715,
+    "municipalityID": 278,
+    "name": "Boca de Río"
+  },
+  {
+    "id": 716,
+    "municipalityID": 279,
+    "name": "Tubores"
+  },
+  {
+    "id": 717,
+    "municipalityID": 279,
+    "name": "Los Baleales"
+  },
+  {
+    "id": 718,
+    "municipalityID": 280,
+    "name": "Vicente Fuentes"
+  },
+  {
+    "id": 719,
+    "municipalityID": 280,
+    "name": "Villalba"
+  },
+  {
+    "id": 720,
+    "municipalityID": 281,
+    "name": "San Juan Bautista"
+  },
+  {
+    "id": 721,
+    "municipalityID": 281,
+    "name": "Zabala"
+  },
+  {
+    "id": 722,
+    "municipalityID": 283,
+    "name": "Capital Araure"
+  },
+  {
+    "id": 723,
+    "municipalityID": 283,
+    "name": "Río Acarigua"
+  },
+  {
+    "id": 724,
+    "municipalityID": 284,
+    "name": "Capital Esteller"
+  },
+  {
+    "id": 725,
+    "municipalityID": 284,
+    "name": "Uveral"
+  },
+  {
+    "id": 726,
+    "municipalityID": 285,
+    "name": "Guanare"
+  },
+  {
+    "id": 727,
+    "municipalityID": 285,
+    "name": "Córdoba"
+  },
+  {
+    "id": 728,
+    "municipalityID": 285,
+    "name": "San José de la Montaña"
+  },
+  {
+    "id": 729,
+    "municipalityID": 285,
+    "name": "San Juan de Guanaguanare"
+  },
+  {
+    "id": 730,
+    "municipalityID": 285,
+    "name": "Virgen de la Coromoto"
+  },
+  {
+    "id": 731,
+    "municipalityID": 286,
+    "name": "Guanarito"
+  },
+  {
+    "id": 732,
+    "municipalityID": 286,
+    "name": "Trinidad de la Capilla"
+  },
+  {
+    "id": 733,
+    "municipalityID": 286,
+    "name": "Divina Pastora"
+  },
+  {
+    "id": 734,
+    "municipalityID": 287,
+    "name": "Monseñor José Vicente de Unda"
+  },
+  {
+    "id": 735,
+    "municipalityID": 287,
+    "name": "Peña Blanca"
+  },
+  {
+    "id": 736,
+    "municipalityID": 288,
+    "name": "Capital Ospino"
+  },
+  {
+    "id": 737,
+    "municipalityID": 288,
+    "name": "Aparición"
+  },
+  {
+    "id": 738,
+    "municipalityID": 288,
+    "name": "La Estación"
+  },
+  {
+    "id": 739,
+    "municipalityID": 289,
+    "name": "Páez"
+  },
+  {
+    "id": 740,
+    "municipalityID": 289,
+    "name": "Payara"
+  },
+  {
+    "id": 741,
+    "municipalityID": 289,
+    "name": "Pimpinela"
+  },
+  {
+    "id": 742,
+    "municipalityID": 289,
+    "name": "Ramón Peraza"
+  },
+  {
+    "id": 743,
+    "municipalityID": 290,
+    "name": "Papelón"
+  },
+  {
+    "id": 744,
+    "municipalityID": 290,
+    "name": "Caño Delgadito"
+  },
+  {
+    "id": 745,
+    "municipalityID": 291,
+    "name": "San Genaro de Boconoito"
+  },
+  {
+    "id": 746,
+    "municipalityID": 291,
+    "name": "Antolín Tovar"
+  },
+  {
+    "id": 747,
+    "municipalityID": 292,
+    "name": "San Rafael de Onoto"
+  },
+  {
+    "id": 748,
+    "municipalityID": 292,
+    "name": "Santa Fe"
+  },
+  {
+    "id": 749,
+    "municipalityID": 292,
+    "name": "Thermo Morles"
+  },
+  {
+    "id": 750,
+    "municipalityID": 293,
+    "name": "Santa Rosalía"
+  },
+  {
+    "id": 751,
+    "municipalityID": 293,
+    "name": "Florida"
+  },
+  {
+    "id": 752,
+    "municipalityID": 294,
+    "name": "Sucre"
+  },
+  {
+    "id": 753,
+    "municipalityID": 294,
+    "name": "Concepción"
+  },
+  {
+    "id": 754,
+    "municipalityID": 294,
+    "name": "San Rafael de Palo Alzado"
+  },
+  {
+    "id": 755,
+    "municipalityID": 294,
+    "name": "Uvencio Antonio Velásquez"
+  },
+  {
+    "id": 756,
+    "municipalityID": 294,
+    "name": "San José de Saguaz"
+  },
+  {
+    "id": 757,
+    "municipalityID": 294,
+    "name": "Villa Rosa"
+  },
+  {
+    "id": 758,
+    "municipalityID": 295,
+    "name": "Turén"
+  },
+  {
+    "id": 759,
+    "municipalityID": 295,
+    "name": "Canelones"
+  },
+  {
+    "id": 760,
+    "municipalityID": 295,
+    "name": "Santa Cruz"
+  },
+  {
+    "id": 761,
+    "municipalityID": 295,
+    "name": "San Isidro Labrador"
+  },
+  {
+    "id": 762,
+    "municipalityID": 296,
+    "name": "Mariño"
+  },
+  {
+    "id": 763,
+    "municipalityID": 296,
+    "name": "Rómulo Gallegos"
+  },
+  {
+    "id": 764,
+    "municipalityID": 297,
+    "name": "San José de Aerocuar"
+  },
+  {
+    "id": 765,
+    "municipalityID": 297,
+    "name": "Tavera Acosta"
+  },
+  {
+    "id": 766,
+    "municipalityID": 298,
+    "name": "Río Caribe"
+  },
+  {
+    "id": 767,
+    "municipalityID": 298,
+    "name": "Antonio José de Sucre"
+  },
+  {
+    "id": 768,
+    "municipalityID": 298,
+    "name": "El Morro de Puerto Santo"
+  },
+  {
+    "id": 769,
+    "municipalityID": 298,
+    "name": "Puerto Santo"
+  },
+  {
+    "id": 770,
+    "municipalityID": 298,
+    "name": "San Juan de las Galdonas"
+  },
+  {
+    "id": 771,
+    "municipalityID": 299,
+    "name": "El Pilar"
+  },
+  {
+    "id": 772,
+    "municipalityID": 299,
+    "name": "El Rincón"
+  },
+  {
+    "id": 773,
+    "municipalityID": 299,
+    "name": "General Francisco Antonio Váquez"
+  },
+  {
+    "id": 774,
+    "municipalityID": 299,
+    "name": "Guaraúnos"
+  },
+  {
+    "id": 775,
+    "municipalityID": 299,
+    "name": "Tunapuicito"
+  },
+  {
+    "id": 776,
+    "municipalityID": 299,
+    "name": "Unión"
+  },
+  {
+    "id": 777,
+    "municipalityID": 300,
+    "name": "Santa Catalina"
+  },
+  {
+    "id": 778,
+    "municipalityID": 300,
+    "name": "Santa Rosa"
+  },
+  {
+    "id": 779,
+    "municipalityID": 300,
+    "name": "Santa Teresa"
+  },
+  {
+    "id": 780,
+    "municipalityID": 300,
+    "name": "Bolívar"
+  },
+  {
+    "id": 781,
+    "municipalityID": 300,
+    "name": "Maracapana"
+  },
+  {
+    "id": 782,
+    "municipalityID": 302,
+    "name": "Libertad"
+  },
+  {
+    "id": 783,
+    "municipalityID": 302,
+    "name": "El Paujil"
+  },
+  {
+    "id": 784,
+    "municipalityID": 302,
+    "name": "Yaguaraparo"
+  },
+  {
+    "id": 785,
+    "municipalityID": 303,
+    "name": "Cruz Salmerón Acosta"
+  },
+  {
+    "id": 786,
+    "municipalityID": 303,
+    "name": "Chacopata"
+  },
+  {
+    "id": 787,
+    "municipalityID": 303,
+    "name": "Manicuare"
+  },
+  {
+    "id": 788,
+    "municipalityID": 304,
+    "name": "Tunapuy"
+  },
+  {
+    "id": 789,
+    "municipalityID": 304,
+    "name": "Campo Elías"
+  },
+  {
+    "id": 790,
+    "municipalityID": 305,
+    "name": "Irapa"
+  },
+  {
+    "id": 791,
+    "municipalityID": 305,
+    "name": "Campo Claro"
+  },
+  {
+    "id": 792,
+    "municipalityID": 305,
+    "name": "Maraval"
+  },
+  {
+    "id": 793,
+    "municipalityID": 305,
+    "name": "San Antonio de Irapa"
+  },
+  {
+    "id": 794,
+    "municipalityID": 305,
+    "name": "Soro"
+  },
+  {
+    "id": 795,
+    "municipalityID": 306,
+    "name": "Mejía"
+  },
+  {
+    "id": 796,
+    "municipalityID": 307,
+    "name": "Cumanacoa"
+  },
+  {
+    "id": 797,
+    "municipalityID": 307,
+    "name": "Arenas"
+  },
+  {
+    "id": 798,
+    "municipalityID": 307,
+    "name": "Aricagua"
+  },
+  {
+    "id": 799,
+    "municipalityID": 307,
+    "name": "Cogollar"
+  },
+  {
+    "id": 800,
+    "municipalityID": 307,
+    "name": "San Fernando"
+  },
+  {
+    "id": 801,
+    "municipalityID": 307,
+    "name": "San Lorenzo"
+  },
+  {
+    "id": 802,
+    "municipalityID": 308,
+    "name": "Villa Frontado (Muelle de Cariaco)"
+  },
+  {
+    "id": 803,
+    "municipalityID": 308,
+    "name": "Catuaro"
+  },
+  {
+    "id": 804,
+    "municipalityID": 308,
+    "name": "Rendón"
+  },
+  {
+    "id": 805,
+    "municipalityID": 308,
+    "name": "San Cruz"
+  },
+  {
+    "id": 806,
+    "municipalityID": 308,
+    "name": "Santa María"
+  },
+  {
+    "id": 807,
+    "municipalityID": 309,
+    "name": "Altagracia"
+  },
+  {
+    "id": 808,
+    "municipalityID": 309,
+    "name": "Santa Inés"
+  },
+  {
+    "id": 809,
+    "municipalityID": 309,
+    "name": "Valentín Valiente"
+  },
+  {
+    "id": 810,
+    "municipalityID": 309,
+    "name": "Ayacucho"
+  },
+  {
+    "id": 811,
+    "municipalityID": 309,
+    "name": "San Juan"
+  },
+  {
+    "id": 812,
+    "municipalityID": 309,
+    "name": "Raúl Leoni"
+  },
+  {
+    "id": 813,
+    "municipalityID": 309,
+    "name": "Gran Mariscal"
+  },
+  {
+    "id": 814,
+    "municipalityID": 310,
+    "name": "Cristóbal Colón"
+  },
+  {
+    "id": 815,
+    "municipalityID": 310,
+    "name": "Bideau"
+  },
+  {
+    "id": 816,
+    "municipalityID": 310,
+    "name": "Punta de Piedras"
+  },
+  {
+    "id": 817,
+    "municipalityID": 310,
+    "name": "Güiria"
+  },
+  {
+    "id": 818,
+    "municipalityID": 341,
+    "name": "Andrés Bello"
+  },
+  {
+    "id": 819,
+    "municipalityID": 342,
+    "name": "Antonio Rómulo Costa"
+  },
+  {
+    "id": 820,
+    "municipalityID": 343,
+    "name": "Ayacucho"
+  },
+  {
+    "id": 821,
+    "municipalityID": 343,
+    "name": "Rivas Berti"
+  },
+  {
+    "id": 822,
+    "municipalityID": 343,
+    "name": "San Pedro del Río"
+  },
+  {
+    "id": 823,
+    "municipalityID": 344,
+    "name": "Bolívar"
+  },
+  {
+    "id": 824,
+    "municipalityID": 344,
+    "name": "Palotal"
+  },
+  {
+    "id": 825,
+    "municipalityID": 344,
+    "name": "General Juan Vicente Gómez"
+  },
+  {
+    "id": 826,
+    "municipalityID": 344,
+    "name": "Isaías Medina Angarita"
+  },
+  {
+    "id": 827,
+    "municipalityID": 345,
+    "name": "Cárdenas"
+  },
+  {
+    "id": 828,
+    "municipalityID": 345,
+    "name": "Amenodoro Ángel Lamus"
+  },
+  {
+    "id": 829,
+    "municipalityID": 345,
+    "name": "La Florida"
+  },
+  {
+    "id": 830,
+    "municipalityID": 346,
+    "name": "Córdoba"
+  },
+  {
+    "id": 831,
+    "municipalityID": 347,
+    "name": "Fernández Feo"
+  },
+  {
+    "id": 832,
+    "municipalityID": 347,
+    "name": "Alberto Adriani"
+  },
+  {
+    "id": 833,
+    "municipalityID": 347,
+    "name": "Santo Domingo"
+  },
+  {
+    "id": 834,
+    "municipalityID": 348,
+    "name": "Francisco de Miranda"
+  },
+  {
+    "id": 835,
+    "municipalityID": 349,
+    "name": "García de Hevia"
+  },
+  {
+    "id": 836,
+    "municipalityID": 349,
+    "name": "Boca de Grita"
+  },
+  {
+    "id": 837,
+    "municipalityID": 349,
+    "name": "José Antonio Páez"
+  },
+  {
+    "id": 838,
+    "municipalityID": 350,
+    "name": "Guásimos"
+  },
+  {
+    "id": 839,
+    "municipalityID": 351,
+    "name": "Independencia"
+  },
+  {
+    "id": 840,
+    "municipalityID": 351,
+    "name": "Juan Germán Roscio"
+  },
+  {
+    "id": 841,
+    "municipalityID": 351,
+    "name": "Román Cárdenas"
+  },
+  {
+    "id": 842,
+    "municipalityID": 352,
+    "name": "Jáuregui"
+  },
+  {
+    "id": 843,
+    "municipalityID": 352,
+    "name": "Emilio Constantino Guerrero"
+  },
+  {
+    "id": 844,
+    "municipalityID": 352,
+    "name": "Monseñor Miguel Antonio Salas"
+  },
+  {
+    "id": 845,
+    "municipalityID": 353,
+    "name": "José María Vargas"
+  },
+  {
+    "id": 846,
+    "municipalityID": 354,
+    "name": "Junín"
+  },
+  {
+    "id": 847,
+    "municipalityID": 354,
+    "name": "La Petrólea"
+  },
+  {
+    "id": 848,
+    "municipalityID": 354,
+    "name": "Quinimarí"
+  },
+  {
+    "id": 849,
+    "municipalityID": 354,
+    "name": "Bramón"
+  },
+  {
+    "id": 850,
+    "municipalityID": 355,
+    "name": "Libertad"
+  },
+  {
+    "id": 851,
+    "municipalityID": 355,
+    "name": "Cipriano Castro"
+  },
+  {
+    "id": 852,
+    "municipalityID": 355,
+    "name": "Manuel Felipe Rugeles"
+  },
+  {
+    "id": 853,
+    "municipalityID": 356,
+    "name": "Libertador"
+  },
+  {
+    "id": 854,
+    "municipalityID": 356,
+    "name": "Doradas"
+  },
+  {
+    "id": 855,
+    "municipalityID": 356,
+    "name": "Emeterio Ochoa"
+  },
+  {
+    "id": 856,
+    "municipalityID": 356,
+    "name": "San Joaquín de Navay"
+  },
+  {
+    "id": 857,
+    "municipalityID": 357,
+    "name": "Lobatera"
+  },
+  {
+    "id": 858,
+    "municipalityID": 357,
+    "name": "Constitución"
+  },
+  {
+    "id": 859,
+    "municipalityID": 358,
+    "name": "Michelena"
+  },
+  {
+    "id": 860,
+    "municipalityID": 359,
+    "name": "Panamericano"
+  },
+  {
+    "id": 861,
+    "municipalityID": 359,
+    "name": "La Palmita"
+  },
+  {
+    "id": 862,
+    "municipalityID": 360,
+    "name": "Pedro María Ureña"
+  },
+  {
+    "id": 863,
+    "municipalityID": 360,
+    "name": "Nueva Arcadia"
+  },
+  {
+    "id": 864,
+    "municipalityID": 361,
+    "name": "Delicias"
+  },
+  {
+    "id": 865,
+    "municipalityID": 361,
+    "name": "Pecaya"
+  },
+  {
+    "id": 866,
+    "municipalityID": 362,
+    "name": "Samuel Darío Maldonado"
+  },
+  {
+    "id": 867,
+    "municipalityID": 362,
+    "name": "Boconó"
+  },
+  {
+    "id": 868,
+    "municipalityID": 362,
+    "name": "Hernández"
+  },
+  {
+    "id": 869,
+    "municipalityID": 363,
+    "name": "La Concordia"
+  },
+  {
+    "id": 870,
+    "municipalityID": 363,
+    "name": "San Juan Bautista"
+  },
+  {
+    "id": 871,
+    "municipalityID": 363,
+    "name": "Pedro María Morantes"
+  },
+  {
+    "id": 872,
+    "municipalityID": 363,
+    "name": "San Sebastián"
+  },
+  {
+    "id": 873,
+    "municipalityID": 363,
+    "name": "Dr. Francisco Romero Lobo"
+  },
+  {
+    "id": 874,
+    "municipalityID": 364,
+    "name": "Seboruco"
+  },
+  {
+    "id": 875,
+    "municipalityID": 365,
+    "name": "Simón Rodríguez"
+  },
+  {
+    "id": 876,
+    "municipalityID": 366,
+    "name": "Sucre"
+  },
+  {
+    "id": 877,
+    "municipalityID": 366,
+    "name": "Eleazar López Contreras"
+  },
+  {
+    "id": 878,
+    "municipalityID": 366,
+    "name": "San Pablo"
+  },
+  {
+    "id": 879,
+    "municipalityID": 367,
+    "name": "Torbes"
+  },
+  {
+    "id": 880,
+    "municipalityID": 368,
+    "name": "Uribante"
+  },
+  {
+    "id": 881,
+    "municipalityID": 368,
+    "name": "Cárdenas"
+  },
+  {
+    "id": 882,
+    "municipalityID": 368,
+    "name": "Juan Pablo Peñalosa"
+  },
+  {
+    "id": 883,
+    "municipalityID": 368,
+    "name": "Potosí"
+  },
+  {
+    "id": 884,
+    "municipalityID": 369,
+    "name": "San Judas Tadeo"
+  },
+  {
+    "id": 885,
+    "municipalityID": 370,
+    "name": "Araguaney"
+  },
+  {
+    "id": 886,
+    "municipalityID": 370,
+    "name": "El Jaguito"
+  },
+  {
+    "id": 887,
+    "municipalityID": 370,
+    "name": "La Esperanza"
+  },
+  {
+    "id": 888,
+    "municipalityID": 370,
+    "name": "Santa Isabel"
+  },
+  {
+    "id": 889,
+    "municipalityID": 371,
+    "name": "Boconó"
+  },
+  {
+    "id": 890,
+    "municipalityID": 371,
+    "name": "El Carmen"
+  },
+  {
+    "id": 891,
+    "municipalityID": 371,
+    "name": "Mosquey"
+  },
+  {
+    "id": 892,
+    "municipalityID": 371,
+    "name": "Ayacucho"
+  },
+  {
+    "id": 893,
+    "municipalityID": 371,
+    "name": "Burbusay"
+  },
+  {
+    "id": 894,
+    "municipalityID": 371,
+    "name": "General Ribas"
+  },
+  {
+    "id": 895,
+    "municipalityID": 371,
+    "name": "Guaramacal"
+  },
+  {
+    "id": 896,
+    "municipalityID": 371,
+    "name": "Vega de Guaramacal"
+  },
+  {
+    "id": 897,
+    "municipalityID": 371,
+    "name": "Monseñor Jáuregui"
+  },
+  {
+    "id": 898,
+    "municipalityID": 371,
+    "name": "Rafael Rangel"
+  },
+  {
+    "id": 899,
+    "municipalityID": 371,
+    "name": "San Miguel"
+  },
+  {
+    "id": 900,
+    "municipalityID": 371,
+    "name": "San José"
+  },
+  {
+    "id": 901,
+    "municipalityID": 372,
+    "name": "Sabana Grande"
+  },
+  {
+    "id": 902,
+    "municipalityID": 372,
+    "name": "Cheregüé"
+  },
+  {
+    "id": 903,
+    "municipalityID": 372,
+    "name": "Granados"
+  },
+  {
+    "id": 904,
+    "municipalityID": 373,
+    "name": "Arnoldo Gabaldón"
+  },
+  {
+    "id": 905,
+    "municipalityID": 373,
+    "name": "Bolivia"
+  },
+  {
+    "id": 906,
+    "municipalityID": 373,
+    "name": "Carrillo"
+  },
+  {
+    "id": 907,
+    "municipalityID": 373,
+    "name": "Cegarra"
+  },
+  {
+    "id": 908,
+    "municipalityID": 373,
+    "name": "Chejendé"
+  },
+  {
+    "id": 909,
+    "municipalityID": 373,
+    "name": "Manuel Salvador Ulloa"
+  },
+  {
+    "id": 910,
+    "municipalityID": 373,
+    "name": "San José"
+  },
+  {
+    "id": 911,
+    "municipalityID": 374,
+    "name": "Carache"
+  },
+  {
+    "id": 912,
+    "municipalityID": 374,
+    "name": "La Concepción"
+  },
+  {
+    "id": 913,
+    "municipalityID": 374,
+    "name": "Cuicas"
+  },
+  {
+    "id": 914,
+    "municipalityID": 374,
+    "name": "Panamericana"
+  },
+  {
+    "id": 915,
+    "municipalityID": 374,
+    "name": "Santa Cruz"
+  },
+  {
+    "id": 916,
+    "municipalityID": 375,
+    "name": "Escuque"
+  },
+  {
+    "id": 917,
+    "municipalityID": 375,
+    "name": "La Unión"
+  },
+  {
+    "id": 918,
+    "municipalityID": 375,
+    "name": "Santa Rita"
+  },
+  {
+    "id": 919,
+    "municipalityID": 375,
+    "name": "Sabana Libre"
+  },
+  {
+    "id": 920,
+    "municipalityID": 376,
+    "name": "El Socorro"
+  },
+  {
+    "id": 921,
+    "municipalityID": 376,
+    "name": "Los Caprichos"
+  },
+  {
+    "id": 922,
+    "municipalityID": 376,
+    "name": "Antonio José de Sucre"
+  },
+  {
+    "id": 923,
+    "municipalityID": 377,
+    "name": "Campo Elías"
+  },
+  {
+    "id": 924,
+    "municipalityID": 377,
+    "name": "Arnoldo Gabaldón"
+  },
+  {
+    "id": 925,
+    "municipalityID": 378,
+    "name": "Santa Apolonia"
+  },
+  {
+    "id": 926,
+    "municipalityID": 378,
+    "name": "El Progreso"
+  },
+  {
+    "id": 927,
+    "municipalityID": 378,
+    "name": "La Ceiba"
+  },
+  {
+    "id": 928,
+    "municipalityID": 378,
+    "name": "Tres de Febrero"
+  },
+  {
+    "id": 929,
+    "municipalityID": 379,
+    "name": "El Dividive"
+  },
+  {
+    "id": 930,
+    "municipalityID": 379,
+    "name": "Agua Santa"
+  },
+  {
+    "id": 931,
+    "municipalityID": 379,
+    "name": "Agua Caliente"
+  },
+  {
+    "id": 932,
+    "municipalityID": 379,
+    "name": "El Cenizo"
+  },
+  {
+    "id": 933,
+    "municipalityID": 379,
+    "name": "Valerita"
+  },
+  {
+    "id": 934,
+    "municipalityID": 380,
+    "name": "Monte Carmelo"
+  },
+  {
+    "id": 935,
+    "municipalityID": 380,
+    "name": "Buena Vista"
+  },
+  {
+    "id": 936,
+    "municipalityID": 380,
+    "name": "Santa María del Horcón"
+  },
+  {
+    "id": 937,
+    "municipalityID": 381,
+    "name": "Motatán"
+  },
+  {
+    "id": 938,
+    "municipalityID": 381,
+    "name": "El Baño"
+  },
+  {
+    "id": 939,
+    "municipalityID": 381,
+    "name": "Jalisco"
+  },
+  {
+    "id": 940,
+    "municipalityID": 382,
+    "name": "Pampán"
+  },
+  {
+    "id": 941,
+    "municipalityID": 382,
+    "name": "Flor de Patria"
+  },
+  {
+    "id": 942,
+    "municipalityID": 382,
+    "name": "La Paz"
+  },
+  {
+    "id": 943,
+    "municipalityID": 382,
+    "name": "Santa Ana"
+  },
+  {
+    "id": 944,
+    "municipalityID": 383,
+    "name": "Pampanito"
+  },
+  {
+    "id": 945,
+    "municipalityID": 383,
+    "name": "La Concepción"
+  },
+  {
+    "id": 946,
+    "municipalityID": 383,
+    "name": "Pampanito II"
+  },
+  {
+    "id": 947,
+    "municipalityID": 384,
+    "name": "Betijoque"
+  },
+  {
+    "id": 948,
+    "municipalityID": 384,
+    "name": "José Gregorio Hernández"
+  },
+  {
+    "id": 949,
+    "municipalityID": 384,
+    "name": "La Pueblita"
+  },
+  {
+    "id": 950,
+    "municipalityID": 384,
+    "name": "Los Cedros"
+  },
+  {
+    "id": 951,
+    "municipalityID": 385,
+    "name": "Carvajal"
+  },
+  {
+    "id": 952,
+    "municipalityID": 385,
+    "name": "Campo Alegre"
+  },
+  {
+    "id": 953,
+    "municipalityID": 385,
+    "name": "Antonio Nicolás Briceño"
+  },
+  {
+    "id": 954,
+    "municipalityID": 385,
+    "name": "José Leonardo Suárez"
+  },
+  {
+    "id": 955,
+    "municipalityID": 386,
+    "name": "Sabana de Mendoza"
+  },
+  {
+    "id": 956,
+    "municipalityID": 386,
+    "name": "Junín"
+  },
+  {
+    "id": 957,
+    "municipalityID": 386,
+    "name": "Valmore Rodríguez"
+  },
+  {
+    "id": 958,
+    "municipalityID": 386,
+    "name": "El Paraíso"
+  },
+  {
+    "id": 959,
+    "municipalityID": 387,
+    "name": "Andrés Linares"
+  },
+  {
+    "id": 960,
+    "municipalityID": 387,
+    "name": "Chiquinquirá"
+  },
+  {
+    "id": 961,
+    "municipalityID": 387,
+    "name": "Cristóbal Mendoza"
+  },
+  {
+    "id": 962,
+    "municipalityID": 387,
+    "name": "Cruz Carrillo"
+  },
+  {
+    "id": 963,
+    "municipalityID": 387,
+    "name": "Matriz"
+  },
+  {
+    "id": 964,
+    "municipalityID": 387,
+    "name": "Monseñor Carrillo"
+  },
+  {
+    "id": 965,
+    "municipalityID": 387,
+    "name": "Tres Esquinas"
+  },
+  {
+    "id": 966,
+    "municipalityID": 388,
+    "name": "Cabimbú"
+  },
+  {
+    "id": 967,
+    "municipalityID": 388,
+    "name": "Jajó"
+  },
+  {
+    "id": 968,
+    "municipalityID": 388,
+    "name": "La Mesa de Esnujaque"
+  },
+  {
+    "id": 969,
+    "municipalityID": 388,
+    "name": "Santiago"
+  },
+  {
+    "id": 970,
+    "municipalityID": 388,
+    "name": "Tuñame"
+  },
+  {
+    "id": 971,
+    "municipalityID": 388,
+    "name": "La Quebrada"
+  },
+  {
+    "id": 972,
+    "municipalityID": 389,
+    "name": "Juan Ignacio Montilla"
+  },
+  {
+    "id": 973,
+    "municipalityID": 389,
+    "name": "La Beatriz"
+  },
+  {
+    "id": 974,
+    "municipalityID": 389,
+    "name": "La Puerta"
+  },
+  {
+    "id": 975,
+    "municipalityID": 389,
+    "name": "Mendoza del Valle de Momboy"
+  },
+  {
+    "id": 976,
+    "municipalityID": 389,
+    "name": "Mercedes Díaz"
+  },
+  {
+    "id": 977,
+    "municipalityID": 389,
+    "name": "San Luis"
+  },
+  {
+    "id": 978,
+    "municipalityID": 390,
+    "name": "Caraballeda"
+  },
+  {
+    "id": 979,
+    "municipalityID": 390,
+    "name": "Carayaca"
+  },
+  {
+    "id": 980,
+    "municipalityID": 390,
+    "name": "Carlos Soublette"
+  },
+  {
+    "id": 981,
+    "municipalityID": 390,
+    "name": "Caruao Chuspa"
+  },
+  {
+    "id": 982,
+    "municipalityID": 390,
+    "name": "Catia La Mar"
+  },
+  {
+    "id": 983,
+    "municipalityID": 390,
+    "name": "El Junko"
+  },
+  {
+    "id": 984,
+    "municipalityID": 390,
+    "name": "La Guaira"
+  },
+  {
+    "id": 985,
+    "municipalityID": 390,
+    "name": "Macuto"
+  },
+  {
+    "id": 986,
+    "municipalityID": 390,
+    "name": "Maiquetía"
+  },
+  {
+    "id": 987,
+    "municipalityID": 390,
+    "name": "Naiguatá"
+  },
+  {
+    "id": 988,
+    "municipalityID": 390,
+    "name": "Urimare"
+  },
+  {
+    "id": 989,
+    "municipalityID": 391,
+    "name": "Arístides Bastidas"
+  },
+  {
+    "id": 990,
+    "municipalityID": 392,
+    "name": "Bolívar"
+  },
+  {
+    "id": 991,
+    "municipalityID": 407,
+    "name": "Chivacoa"
+  },
+  {
+    "id": 992,
+    "municipalityID": 407,
+    "name": "Campo Elías"
+  },
+  {
+    "id": 993,
+    "municipalityID": 408,
+    "name": "Cocorote"
+  },
+  {
+    "id": 994,
+    "municipalityID": 409,
+    "name": "Independencia"
+  },
+  {
+    "id": 995,
+    "municipalityID": 410,
+    "name": "José Antonio Páez"
+  },
+  {
+    "id": 996,
+    "municipalityID": 411,
+    "name": "La Trinidad"
+  },
+  {
+    "id": 997,
+    "municipalityID": 412,
+    "name": "Manuel Monge"
+  },
+  {
+    "id": 998,
+    "municipalityID": 413,
+    "name": "Salóm"
+  },
+  {
+    "id": 999,
+    "municipalityID": 413,
+    "name": "Temerla"
+  },
+  {
+    "id": 1000,
+    "municipalityID": 413,
+    "name": "Nirgua"
+  },
+  {
+    "id": 1001,
+    "municipalityID": 414,
+    "name": "San Andrés"
+  },
+  {
+    "id": 1002,
+    "municipalityID": 414,
+    "name": "Yaritagua"
+  },
+  {
+    "id": 1003,
+    "municipalityID": 415,
+    "name": "San Javier"
+  },
+  {
+    "id": 1004,
+    "municipalityID": 415,
+    "name": "Albarico"
+  },
+  {
+    "id": 1005,
+    "municipalityID": 415,
+    "name": "San Felipe"
+  },
+  {
+    "id": 1006,
+    "municipalityID": 416,
+    "name": "Sucre"
+  },
+  {
+    "id": 1007,
+    "municipalityID": 417,
+    "name": "Urachiche"
+  },
+  {
+    "id": 1008,
+    "municipalityID": 418,
+    "name": "El Guayabo"
+  },
+  {
+    "id": 1009,
+    "municipalityID": 418,
+    "name": "Farriar"
+  },
+  {
+    "id": 1010,
+    "municipalityID": 441,
+    "name": "Isla de Toas"
+  },
+  {
+    "id": 1011,
+    "municipalityID": 441,
+    "name": "Monagas"
+  },
+  {
+    "id": 1012,
+    "municipalityID": 442,
+    "name": "San Timoteo"
+  },
+  {
+    "id": 1013,
+    "municipalityID": 442,
+    "name": "General Urdaneta"
+  },
+  {
+    "id": 1014,
+    "municipalityID": 442,
+    "name": "Libertador"
+  },
+  {
+    "id": 1015,
+    "municipalityID": 442,
+    "name": "Marcelino Briceño"
+  },
+  {
+    "id": 1016,
+    "municipalityID": 442,
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "id": 1017,
+    "municipalityID": 442,
+    "name": "Manuel Guanipa Matos"
+  },
+  {
+    "id": 1018,
+    "municipalityID": 443,
+    "name": "Ambrosio"
+  },
+  {
+    "id": 1019,
+    "municipalityID": 443,
+    "name": "Carmen Herrera"
+  },
+  {
+    "id": 1020,
+    "municipalityID": 443,
+    "name": "La Rosa"
+  },
+  {
+    "id": 1021,
+    "municipalityID": 443,
+    "name": "Germán Ríos Linares"
+  },
+  {
+    "id": 1022,
+    "municipalityID": 443,
+    "name": "San Benito"
+  },
+  {
+    "id": 1023,
+    "municipalityID": 443,
+    "name": "Rómulo Betancourt"
+  },
+  {
+    "id": 1024,
+    "municipalityID": 443,
+    "name": "Jorge Hernández"
+  },
+  {
+    "id": 1025,
+    "municipalityID": 443,
+    "name": "Punta Gorda"
+  },
+  {
+    "id": 1026,
+    "municipalityID": 443,
+    "name": "Arístides Calvani"
+  },
+  {
+    "id": 1027,
+    "municipalityID": 444,
+    "name": "Encontrados"
+  },
+  {
+    "id": 1028,
+    "municipalityID": 444,
+    "name": "Udón Pérez"
+  },
+  {
+    "id": 1029,
+    "municipalityID": 445,
+    "name": "Moralito"
+  },
+  {
+    "id": 1030,
+    "municipalityID": 445,
+    "name": "San Carlos del Zulia"
+  },
+  {
+    "id": 1031,
+    "municipalityID": 445,
+    "name": "Santa Cruz del Zulia"
+  },
+  {
+    "id": 1032,
+    "municipalityID": 445,
+    "name": "Santa Bárbara"
+  },
+  {
+    "id": 1033,
+    "municipalityID": 445,
+    "name": "Urribarrí"
+  },
+  {
+    "id": 1034,
+    "municipalityID": 446,
+    "name": "Carlos Quevedo"
+  },
+  {
+    "id": 1035,
+    "municipalityID": 446,
+    "name": "Francisco Javier Pulgar"
+  },
+  {
+    "id": 1036,
+    "municipalityID": 446,
+    "name": "Simón Rodríguez"
+  },
+  {
+    "id": 1037,
+    "municipalityID": 446,
+    "name": "Guamo-Gavilanes"
+  },
+  {
+    "id": 1038,
+    "municipalityID": 448,
+    "name": "La Concepción"
+  },
+  {
+    "id": 1039,
+    "municipalityID": 448,
+    "name": "San José"
+  },
+  {
+    "id": 1040,
+    "municipalityID": 448,
+    "name": "Mariano Parra León"
+  },
+  {
+    "id": 1041,
+    "municipalityID": 448,
+    "name": "José Ramón Yépez"
+  },
+  {
+    "id": 1042,
+    "municipalityID": 449,
+    "name": "Jesús María Semprún"
+  },
+  {
+    "id": 1043,
+    "municipalityID": 449,
+    "name": "Barí"
+  },
+  {
+    "id": 1044,
+    "municipalityID": 450,
+    "name": "Concepción"
+  },
+  {
+    "id": 1045,
+    "municipalityID": 450,
+    "name": "Andrés Bello"
+  },
+  {
+    "id": 1046,
+    "municipalityID": 450,
+    "name": "Chiquinquirá"
+  },
+  {
+    "id": 1047,
+    "municipalityID": 450,
+    "name": "El Carmelo"
+  },
+  {
+    "id": 1048,
+    "municipalityID": 450,
+    "name": "Potreritos"
+  },
+  {
+    "id": 1049,
+    "municipalityID": 451,
+    "name": "Libertad"
+  },
+  {
+    "id": 1050,
+    "municipalityID": 451,
+    "name": "Alonso de Ojeda"
+  },
+  {
+    "id": 1051,
+    "municipalityID": 451,
+    "name": "Venezuela"
+  },
+  {
+    "id": 1052,
+    "municipalityID": 451,
+    "name": "Eleazar López Contreras"
+  },
+  {
+    "id": 1053,
+    "municipalityID": 451,
+    "name": "Campo Lara"
+  },
+  {
+    "id": 1054,
+    "municipalityID": 452,
+    "name": "Bartolomé de las Casas"
+  },
+  {
+    "id": 1055,
+    "municipalityID": 452,
+    "name": "Libertad"
+  },
+  {
+    "id": 1056,
+    "municipalityID": 452,
+    "name": "Río Negro"
+  },
+  {
+    "id": 1057,
+    "municipalityID": 452,
+    "name": "San José de Perijá"
+  },
+  {
+    "id": 1058,
+    "municipalityID": 453,
+    "name": "San Rafael"
+  },
+  {
+    "id": 1059,
+    "municipalityID": 453,
+    "name": "La Sierrita"
+  },
+  {
+    "id": 1060,
+    "municipalityID": 453,
+    "name": "Las Parcelas"
+  },
+  {
+    "id": 1061,
+    "municipalityID": 453,
+    "name": "Luis de Vicente"
+  },
+  {
+    "id": 1062,
+    "municipalityID": 453,
+    "name": "Monseñor Marcos Sergio Godoy"
+  },
+  {
+    "id": 1063,
+    "municipalityID": 453,
+    "name": "Ricaurte"
+  },
+  {
+    "id": 1064,
+    "municipalityID": 453,
+    "name": "Tamare"
+  },
+  {
+    "id": 1065,
+    "municipalityID": 454,
+    "name": "Antonio Borjas Romero"
+  },
+  {
+    "id": 1066,
+    "municipalityID": 454,
+    "name": "Bolívar"
+  },
+  {
+    "id": 1067,
+    "municipalityID": 454,
+    "name": "Cacique Mara"
+  },
+  {
+    "id": 1068,
+    "municipalityID": 454,
+    "name": "Carracciolo Parra Pérez"
+  },
+  {
+    "id": 1069,
+    "municipalityID": 454,
+    "name": "Cecilio Acosta"
+  },
+  {
+    "id": 1070,
+    "municipalityID": 454,
+    "name": "Cristo de Aranza"
+  },
+  {
+    "id": 1071,
+    "municipalityID": 454,
+    "name": "Coquivacoa"
+  },
+  {
+    "id": 1072,
+    "municipalityID": 454,
+    "name": "Chiquinquirá"
+  },
+  {
+    "id": 1073,
+    "municipalityID": 454,
+    "name": "Francisco Eugenio Bustamante"
+  },
+  {
+    "id": 1074,
+    "municipalityID": 454,
+    "name": "Idelfonzo Vásquez"
+  },
+  {
+    "id": 1075,
+    "municipalityID": 454,
+    "name": "Juana de Ávila"
+  },
+  {
+    "id": 1076,
+    "municipalityID": 454,
+    "name": "Luis Hurtado Higuera"
+  },
+  {
+    "id": 1077,
+    "municipalityID": 454,
+    "name": "Manuel Dagnino"
+  },
+  {
+    "id": 1078,
+    "municipalityID": 454,
+    "name": "Olegario Villalobos"
+  },
+  {
+    "id": 1079,
+    "municipalityID": 454,
+    "name": "Raúl Leoni"
+  },
+  {
+    "id": 1080,
+    "municipalityID": 454,
+    "name": "Santa Lucía"
+  },
+  {
+    "id": 1081,
+    "municipalityID": 454,
+    "name": "Venancio Pulgar"
+  },
+  {
+    "id": 1082,
+    "municipalityID": 454,
+    "name": "San Isidro"
+  },
+  {
+    "id": 1083,
+    "municipalityID": 455,
+    "name": "Altagracia"
+  },
+  {
+    "id": 1084,
+    "municipalityID": 455,
+    "name": "Faría"
+  },
+  {
+    "id": 1085,
+    "municipalityID": 455,
+    "name": "Ana María Campos"
+  },
+  {
+    "id": 1086,
+    "municipalityID": 455,
+    "name": "San Antonio"
+  },
+  {
+    "id": 1087,
+    "municipalityID": 455,
+    "name": "San José"
+  },
+  {
+    "id": 1088,
+    "municipalityID": 456,
+    "name": "Donaldo García"
+  },
+  {
+    "id": 1089,
+    "municipalityID": 456,
+    "name": "El Rosario"
+  },
+  {
+    "id": 1090,
+    "municipalityID": 456,
+    "name": "Sixto Zambrano"
+  },
+  {
+    "id": 1091,
+    "municipalityID": 457,
+    "name": "San Francisco"
+  },
+  {
+    "id": 1092,
+    "municipalityID": 457,
+    "name": "El Bajo"
+  },
+  {
+    "id": 1093,
+    "municipalityID": 457,
+    "name": "Domitila Flores"
+  },
+  {
+    "id": 1094,
+    "municipalityID": 457,
+    "name": "Francisco Ochoa"
+  },
+  {
+    "id": 1095,
+    "municipalityID": 457,
+    "name": "Los Cortijos"
+  },
+  {
+    "id": 1096,
+    "municipalityID": 457,
+    "name": "Marcial Hernández"
+  },
+  {
+    "id": 1097,
+    "municipalityID": 458,
+    "name": "Santa Rita"
+  },
+  {
+    "id": 1098,
+    "municipalityID": 458,
+    "name": "El Mene"
+  },
+  {
+    "id": 1099,
+    "municipalityID": 458,
+    "name": "Pedro Lucas Urribarrí"
+  },
+  {
+    "id": 1100,
+    "municipalityID": 458,
+    "name": "José Cenobio Urribarrí"
+  },
+  {
+    "id": 1101,
+    "municipalityID": 459,
+    "name": "Rafael Maria Baralt"
+  },
+  {
+    "id": 1102,
+    "municipalityID": 459,
+    "name": "Manuel Manrique"
+  },
+  {
+    "id": 1103,
+    "municipalityID": 459,
+    "name": "Rafael Urdaneta"
+  },
+  {
+    "id": 1104,
+    "municipalityID": 460,
+    "name": "Bobures"
+  },
+  {
+    "id": 1105,
+    "municipalityID": 460,
+    "name": "Gibraltar"
+  },
+  {
+    "id": 1106,
+    "municipalityID": 460,
+    "name": "Heras"
+  },
+  {
+    "id": 1107,
+    "municipalityID": 460,
+    "name": "Monseñor Arturo Álvarez"
+  },
+  {
+    "id": 1108,
+    "municipalityID": 460,
+    "name": "Rómulo Gallegos"
+  },
+  {
+    "id": 1109,
+    "municipalityID": 460,
+    "name": "El Batey"
+  },
+  {
+    "id": 1110,
+    "municipalityID": 461,
+    "name": "Rafael Urdaneta"
+  },
+  {
+    "id": 1111,
+    "municipalityID": 461,
+    "name": "La Victoria"
+  },
+  {
+    "id": 1112,
+    "municipalityID": 461,
+    "name": "Raúl Cuenca"
+  },
+  {
+    "id": 1113,
+    "municipalityID": 447,
+    "name": "Sinamaica"
+  },
+  {
+    "id": 1114,
+    "municipalityID": 447,
+    "name": "Alta Guajira"
+  },
+  {
+    "id": 1115,
+    "municipalityID": 447,
+    "name": "Elías Sánchez Rubio"
+  },
+  {
+    "id": 1116,
+    "municipalityID": 447,
+    "name": "Guajira"
+  },
+  {
+    "id": 1117,
+    "municipalityID": 462,
+    "name": "Altagracia"
+  },
+  {
+    "id": 1118,
+    "municipalityID": 462,
+    "name": "Antímano"
+  },
+  {
+    "id": 1119,
+    "municipalityID": 462,
+    "name": "Caricuao"
+  },
+  {
+    "id": 1120,
+    "municipalityID": 462,
+    "name": "Catedral"
+  },
+  {
+    "id": 1121,
+    "municipalityID": 462,
+    "name": "Coche"
+  },
+  {
+    "id": 1122,
+    "municipalityID": 462,
+    "name": "El Junquito"
+  },
+  {
+    "id": 1123,
+    "municipalityID": 462,
+    "name": "El Paraíso"
+  },
+  {
+    "id": 1124,
+    "municipalityID": 462,
+    "name": "El Recreo"
+  },
+  {
+    "id": 1125,
+    "municipalityID": 462,
+    "name": "El Valle"
+  },
+  {
+    "id": 1126,
+    "municipalityID": 462,
+    "name": "La Candelaria"
+  },
+  {
+    "id": 1127,
+    "municipalityID": 462,
+    "name": "La Pastora"
+  },
+  {
+    "id": 1128,
+    "municipalityID": 462,
+    "name": "La Vega"
+  },
+  {
+    "id": 1129,
+    "municipalityID": 462,
+    "name": "Macarao"
+  },
+  {
+    "id": 1130,
+    "municipalityID": 462,
+    "name": "San Agustín"
+  },
+  {
+    "id": 1131,
+    "municipalityID": 462,
+    "name": "San Bernardino"
+  },
+  {
+    "id": 1132,
+    "municipalityID": 462,
+    "name": "San José"
+  },
+  {
+    "id": 1133,
+    "municipalityID": 462,
+    "name": "San Juan"
+  },
+  {
+    "id": 1134,
+    "municipalityID": 462,
+    "name": "San Pedro"
+  },
+  {
+    "id": 1135,
+    "municipalityID": 462,
+    "name": "Santa Rosalía"
+  },
+  {
+    "id": 1136,
+    "municipalityID": 462,
+    "name": "Santa Teresa"
+  },
+  {
+    "id": 1137,
+    "municipalityID": 462,
+    "name": "Sucre (Catia)"
+  },
+  {
+    "id": 1138,
+    "municipalityID": 462,
+    "name": "23 de enero"
+  }
+]

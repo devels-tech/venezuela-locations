@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "name": "Amazonas",
+    "iso": "Z"
+  },
+  {
+    "id": 2,
+    "name": "Anzoátegui",
+    "iso": "B"
+  },
+  {
+    "id": 3,
+    "name": "Apure",
+    "iso": "C"
+  },
+  {
+    "id": 4,
+    "name": "Aragua",
+    "iso": "D"
+  },
+  {
+    "id": 5,
+    "name": "Barinas",
+    "iso": "E"
+  },
+  {
+    "id": 6,
+    "name": "Bolívar",
+    "iso": "F"
+  },
+  {
+    "id": 7,
+    "name": "Carabobo",
+    "iso": "G"
+  },
+  {
+    "id": 8,
+    "name": "Cojedes",
+    "iso": "H"
+  },
+  {
+    "id": 9,
+    "name": "Delta Amacuro",
+    "iso": "Y"
+  },
+  {
+    "id": 10,
+    "name": "Falcón",
+    "iso": "I"
+  },
+  {
+    "id": 11,
+    "name": "Guárico",
+    "iso": "J"
+  },
+  {
+    "id": 12,
+    "name": "Lara",
+    "iso": "K"
+  },
+  {
+    "id": 13,
+    "name": "Mérida",
+    "iso": "L"
+  },
+  {
+    "id": 14,
+    "name": "Miranda",
+    "iso": "M"
+  },
+  {
+    "id": 15,
+    "name": "Monagas",
+    "iso": "N"
+  },
+  {
+    "id": 16,
+    "name": "Nueva Esparta",
+    "iso": "O"
+  },
+  {
+    "id": 17,
+    "name": "Portuguesa",
+    "iso": "P"
+  },
+  {
+    "id": 18,
+    "name": "Sucre",
+    "iso": "R"
+  },
+  {
+    "id": 19,
+    "name": "Táchira",
+    "iso": "S"
+  },
+  {
+    "id": 20,
+    "name": "Trujillo",
+    "iso": "T"
+  },
+  {
+    "id": 21,
+    "name": "La Guaira",
+    "iso": "X"
+  },
+  {
+    "id": 22,
+    "name": "Yaracuy",
+    "iso": "U"
+  },
+  {
+    "id": 23,
+    "name": "Zulia",
+    "iso": "V"
+  },
+  {
+    "id": 24,
+    "name": "Distrito Capital",
+    "iso": "A"
+  },
+  {
+    "id": 25,
+    "name": "Dependencias Federales",
+    "iso": "W"
+  }
+]
