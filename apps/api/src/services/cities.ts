@@ -6,7 +6,8 @@ import {
 } from '@/libs/loadLocations'
 
 import createErr from '@/utils/createErr'
-import { iCity, iStateForCity } from '@/utils/interfaces/city'
+import { iCity } from '@/utils/interfaces/city'
+import { iState } from '@/utils/interfaces/state'
 
 const statesData = loadStates()
 const citiesData = loadCities()
@@ -37,8 +38,11 @@ function find(): iCity[] {
           }
         })
 
+        const citiesFromState = citiesData.filter((city) => city.stateId === state.id) // Get cities
+
         stateFromCity = {
           ...state,
+          cities: citiesFromState,
           municipalities: municipalitiesFromState,
         }
       }
@@ -82,8 +86,11 @@ function findOne(id: number): iCity {
         }
       })
 
+      const citiesFromState = citiesData.filter((city) => city.stateId === state.id) // Get cities
+
       stateFromCity = {
         ...state,
+        cities: citiesFromState,
         municipalities: municipalitiesFromState,
       }
     }
@@ -91,7 +98,7 @@ function findOne(id: number): iCity {
 
   const fullCity = {
     ...city,
-    state: stateFromCity as iStateForCity,
+    state: stateFromCity as iState,
   }
 
   return fullCity
