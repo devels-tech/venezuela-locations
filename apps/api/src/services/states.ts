@@ -82,4 +82,30 @@ function findOne(id: tStateId): iState {
   return fullState
 }
 
+export function getStateInfo(stateId: tStateId) {
+  const state = statesData.find(({ id }) => id === stateId)
+  const cities = citiesData.filter(({ stateId }) => stateId === state.id)
+
+  const municipalitiesByState = municipalitiesData.filter(
+    ({ stateId }) => stateId === state.id,
+  )
+
+  const municipalities = municipalitiesByState.map((municipality) => {
+    const parishes = parishesData.filter(
+      ({ municipalityId }) => municipalityId === municipality.id,
+    )
+
+    return {
+      ...municipality,
+      parishes,
+    }
+  })
+
+  return {
+    ...state,
+    cities,
+    municipalities,
+  }
+}
+
 export default { find, findOne }

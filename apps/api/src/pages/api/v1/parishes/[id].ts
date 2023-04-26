@@ -12,10 +12,10 @@ export default function handler(
   const { id } = req.query
 
   try {
-    const cityId = parseIntValidator(id as string)
-    const city = parishesService.findOne(cityId)
+    const parishId = parseIntValidator(id as string)
+    const parish = parishesService.findOne(parishId)
 
-    return res.status(200).json(city)
+    return res.status(200).json(parish)
   } catch (err) {
     const { statusCode, errorCode, message } = err as any // TODO: cambiar tipo
 

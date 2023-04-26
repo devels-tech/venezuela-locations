@@ -1,49 +1,61 @@
-import {
-  loadCities,
-  loadMunicipalities,
-  loadParishes,
-  loadStates,
-} from '@/libs/loadLocations'
+import { loadMunicipalities, loadParishes } from '@/libs/loadLocations'
+
 import createErr from '@/utils/createErr'
+
 import {
   Municipality,
-  SingleMunicipality,
+  iSimpleMunicipality,
 } from '@/utils/interfaces/municipality'
 
-const municipalitiesData = loadMunicipalities()
+import { getStateInfo } from './states'
 
-const statesData = loadStates()
+const municipalitiesData = loadMunicipalities()
 const parishesData = loadParishes()
-const citiesData = loadCities()
 
 function find(): Municipality[] {
   const municipalities = municipalitiesData.map((municipality) =>
     joinData(municipality),
   )
 
-  return municipalities
+  return municipalities as unknown as Municipality[]
 }
 
 function findOne(id: number): Municipality {
-  const municipalities = municipalitiesData.find((state) => state.id === id)
+  const municipality = municipalitiesData.find((state) => state.id === id)
 
-  if (!municipalities) {
+  if (!municipality) {
     throw createErr('The State Id isn´t correct', 'Not Found', 404)
   }
 
-  return joinData(municipalities)
+  return joinData(municipality) as unknown as Municipality
 }
 
-function joinData(municipality: SingleMunicipality) {
-  const state = statesData.find(({ id }) => id === municipality.stateId)
-  const cities = citiesData.filter(({ stateId }) => stateId === state.id)
+function joinData(municipality: iSimpleMunicipality) {
+  const state = getStateInfo(municipality.stateId)
+
   const parishes = parishesData.filter(
-    ({ municipalityId }) => municipalityId === municipality.stateId,
+    ({ municipalityId }) => municipalityId === municipality.id,
   )
 
   return {
     ...municipality,
-    state: { ...state, cities },
+    state,
+    parishes,
+  }
+}
+
+export function getMunicipalityInfo(municipalityId: number) {
+  // console.log({ municipalityId })
+  const municipality = municipalitiesData.find(
+    ({ id }) => id === municipalityId,
+  )
+
+  const parishes = parishesData.filter(
+    ({ municipalityId }) => municipalityId === municipality.id,
+  )
+
+  return {
+    ...municipality,
     parishes,
   }
 }
