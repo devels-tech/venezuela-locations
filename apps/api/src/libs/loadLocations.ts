@@ -1,5 +1,9 @@
 import path from 'path'
 import fs from 'fs'
+import { iSimpleState } from '@/utils/interfaces/state'
+import { iSimpleCity } from '@/utils/interfaces/city'
+import { SingleMunicipality } from '@/utils/interfaces/municipality'
+import { Parish } from '@/utils/interfaces/parish'
 
 export const LOCATIONS_JSON_DIR_PATH = path.join(process.cwd(), 'src', 'json')
 
@@ -22,11 +26,13 @@ export const PARISHES_JSON_FILE_PATH = path.resolve(
 
 function loadJson(path: string) {
   const dataBuffer = fs.readFileSync(path, 'utf8')
+
   const dataJSON = dataBuffer.toString()
+
   return JSON.parse(dataJSON)
 }
 
-function loadStates() {
+function loadStates(): iSimpleState[] {
   try {
     return loadJson(STATES_JSON_FILE_PATH)
   } catch (err) {
@@ -35,7 +41,7 @@ function loadStates() {
   }
 }
 
-function loadCities() {
+function loadCities(): iSimpleCity[] {
   try {
     return loadJson(CITIES_JSON_FILE_PATH)
   } catch (err) {
@@ -44,7 +50,7 @@ function loadCities() {
   }
 }
 
-function loadMunicipalities() {
+function loadMunicipalities(): SingleMunicipality[] {
   try {
     return loadJson(MUNICIPALITIES_JSON_FILE_PATH)
   } catch (err) {
@@ -53,7 +59,7 @@ function loadMunicipalities() {
   }
 }
 
-function loadParishes() {
+function loadParishes(): Parish[] {
   try {
     return loadJson(PARISHES_JSON_FILE_PATH)
   } catch (err) {

@@ -1,33 +1,38 @@
-import { Estado, idEstado } from '@/utils/interfaces/location'
 import {
   loadCities,
   loadMunicipalities,
   loadParishes,
   loadStates,
 } from '@/libs/loadLocations'
-import createErr from '@/utils/createErr'
 
-// const locations: Estado[] = loadLocations()
+import createErr from '@/utils/createErr'
+import { iCity, iStateForCity } from '@/utils/interfaces/city'
+
 const statesData = loadStates()
 const citiesData = loadCities()
 const municipalitiesData = loadMunicipalities()
 const parishesData = loadParishes()
 
-function find() {
-  const cities = citiesData.map(city => {
+function find(): iCity[] {
+  const cities = citiesData.map((city) => {
     let stateFromCity = {}
-    statesData.forEach(state => {  // Get states
+
+    statesData.forEach((state) => {
+      // Get states
       if (state.id === city.stateId) {
         const municipalitiesFromState = []
-        municipalitiesData.forEach(municipality => { // Get municipalities
+
+        municipalitiesData.forEach((municipality) => {
+          // Get municipalities
           if (municipality.stateId === state.id) {
-            const parishesFromMunicipality = parishesData.filter(parish => { // Get parishes
-              return parish.municipalityID === municipality.id
+            const parishesFromMunicipality = parishesData.filter((parish) => {
+              // Get parishes
+              return parish.municipalityId === municipality.id
             })
 
             municipalitiesFromState.push({
               ...municipality,
-              parishes: parishesFromMunicipality
+              parishes: parishesFromMunicipality,
             })
           }
         })
@@ -39,16 +44,16 @@ function find() {
       }
     })
 
-    return ({
+    return {
       ...city,
       state: stateFromCity,
-    })
+    }
   })
 
-  return cities
+  return cities as iCity[]
 }
 
-function findOne(id: number) { // TODO: TYPE
+function findOne(id: number): iCity {
   const city = citiesData.find((city) => city.id === id)
 
   if (!city) {
@@ -56,18 +61,23 @@ function findOne(id: number) { // TODO: TYPE
   }
 
   let stateFromCity = {}
-  statesData.forEach(state => {  // Get states
+
+  statesData.forEach((state) => {
+    // Get states
     if (state.id === city.stateId) {
       const municipalitiesFromState = []
-      municipalitiesData.forEach(municipality => { // Get municipalities
+
+      municipalitiesData.forEach((municipality) => {
+        // Get municipalities
         if (municipality.stateId === state.id) {
-          const parishesFromMunicipality = parishesData.filter(parish => { // Get parishes
-            return parish.municipalityID === municipality.id
+          const parishesFromMunicipality = parishesData.filter((parish) => {
+            // Get parishes
+            return parish.municipalityId === municipality.id
           })
 
           municipalitiesFromState.push({
             ...municipality,
-            parishes: parishesFromMunicipality
+            parishes: parishesFromMunicipality,
           })
         }
       })
@@ -79,9 +89,12 @@ function findOne(id: number) { // TODO: TYPE
     }
   })
 
-  city.state = stateFromCity
+  const fullCity = {
+    ...city,
+    state: stateFromCity as iStateForCity,
+  }
 
-  return city
+  return fullCity
 }
 
 export default { find, findOne }

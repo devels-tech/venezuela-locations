@@ -1,6 +1,6 @@
 import type { NextApiRequest, NextApiResponse } from 'next'
 
-import { citiesService } from '@/services'
+import { municipalitiesService } from '@/services'
 
 import { parseIntValidator } from '@/validators/commons'
 
@@ -12,10 +12,10 @@ export default function handler(
   const { id } = req.query
 
   try {
-    const cityId = parseIntValidator(id as string)
-    const city = citiesService.findOne(cityId as number) // TODO: TYPE
+    const municipalityId = parseIntValidator(id as string)
+    const municipality = municipalitiesService.findOne(municipalityId)
 
-    return res.status(200).json(city)
+    return res.status(200).json(municipality)
   } catch (err) {
     const { statusCode, errorCode, message } = err as any // TODO: cambiar tipo
 
