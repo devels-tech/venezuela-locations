@@ -1,6 +1,6 @@
 {
   "name": "api",
-  "version": "0.1.1",
+  "version": "0.9.1",
   "private": true,
   "scripts": {
     "dev": "next dev --port 3200",
@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@types/node": "18.11.10",
-    "@types/react": "^17.0.37",
-    "@types/react-dom": "^17.0.11",
+    "@types/react": "17.0.37",
+    "@types/react-dom": "17.0.11",
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.1",
     "next": "13.0.6",
