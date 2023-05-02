@@ -1,0 +1,1677 @@
+[
+  {
+    "id": 1,
+    "stateId": 1,
+    "name": "Alto Orinoco"
+  },
+  {
+    "id": 2,
+    "stateId": 1,
+    "name": "Atabapo"
+  },
+  {
+    "id": 3,
+    "stateId": 1,
+    "name": "Atures"
+  },
+  {
+    "id": 4,
+    "stateId": 1,
+    "name": "Autana"
+  },
+  {
+    "id": 5,
+    "stateId": 1,
+    "name": "Manapiare"
+  },
+  {
+    "id": 6,
+    "stateId": 1,
+    "name": "Maroa"
+  },
+  {
+    "id": 7,
+    "stateId": 1,
+    "name": "Río Negro"
+  },
+  {
+    "id": 8,
+    "stateId": 2,
+    "name": "Anaco"
+  },
+  {
+    "id": 9,
+    "stateId": 2,
+    "name": "Aragua"
+  },
+  {
+    "id": 10,
+    "stateId": 2,
+    "name": "Manuel Ezequiel Bruzual"
+  },
+  {
+    "id": 11,
+    "stateId": 2,
+    "name": "Diego Bautista Urbaneja"
+  },
+  {
+    "id": 12,
+    "stateId": 2,
+    "name": "Fernando Peñalver"
+  },
+  {
+    "id": 13,
+    "stateId": 2,
+    "name": "Francisco Del Carmen Carvajal"
+  },
+  {
+    "id": 14,
+    "stateId": 2,
+    "name": "General Sir Arthur McGregor"
+  },
+  {
+    "id": 15,
+    "stateId": 2,
+    "name": "Guanta"
+  },
+  {
+    "id": 16,
+    "stateId": 2,
+    "name": "Independencia"
+  },
+  {
+    "id": 17,
+    "stateId": 2,
+    "name": "José Gregorio Monagas"
+  },
+  {
+    "id": 18,
+    "stateId": 2,
+    "name": "Juan Antonio Sotillo"
+  },
+  {
+    "id": 19,
+    "stateId": 2,
+    "name": "Juan Manuel Cajigal"
+  },
+  {
+    "id": 20,
+    "stateId": 2,
+    "name": "Libertad"
+  },
+  {
+    "id": 21,
+    "stateId": 2,
+    "name": "Francisco de Miranda"
+  },
+  {
+    "id": 22,
+    "stateId": 2,
+    "name": "Pedro María Freites"
+  },
+  {
+    "id": 23,
+    "stateId": 2,
+    "name": "Píritu"
+  },
+  {
+    "id": 24,
+    "stateId": 2,
+    "name": "San José de Guanipa"
+  },
+  {
+    "id": 25,
+    "stateId": 2,
+    "name": "San Juan de Capistrano"
+  },
+  {
+    "id": 26,
+    "stateId": 2,
+    "name": "Santa Ana"
+  },
+  {
+    "id": 27,
+    "stateId": 2,
+    "name": "Simón Bolívar"
+  },
+  {
+    "id": 28,
+    "stateId": 2,
+    "name": "Simón Rodríguez"
+  },
+  {
+    "id": 29,
+    "stateId": 3,
+    "name": "Achaguas"
+  },
+  {
+    "id": 30,
+    "stateId": 3,
+    "name": "Biruaca"
+  },
+  {
+    "id": 31,
+    "stateId": 3,
+    "name": "Muñóz"
+  },
+  {
+    "id": 32,
+    "stateId": 3,
+    "name": "Páez"
+  },
+  {
+    "id": 33,
+    "stateId": 3,
+    "name": "Pedro Camejo"
+  },
+  {
+    "id": 34,
+    "stateId": 3,
+    "name": "Rómulo Gallegos"
+  },
+  {
+    "id": 35,
+    "stateId": 3,
+    "name": "San Fernando"
+  },
+  {
+    "id": 36,
+    "stateId": 4,
+    "name": "Atanasio Girardot"
+  },
+  {
+    "id": 37,
+    "stateId": 4,
+    "name": "Bolívar"
+  },
+  {
+    "id": 38,
+    "stateId": 4,
+    "name": "Camatagua"
+  },
+  {
+    "id": 39,
+    "stateId": 4,
+    "name": "Francisco Linares Alcántara"
+  },
+  {
+    "id": 40,
+    "stateId": 4,
+    "name": "José Ángel Lamas"
+  },
+  {
+    "id": 41,
+    "stateId": 4,
+    "name": "José Félix Ribas"
+  },
+  {
+    "id": 42,
+    "stateId": 4,
+    "name": "José Rafael Revenga"
+  },
+  {
+    "id": 43,
+    "stateId": 4,
+    "name": "Libertador"
+  },
+  {
+    "id": 44,
+    "stateId": 4,
+    "name": "Mario Briceño Iragorry"
+  },
+  {
+    "id": 45,
+    "stateId": 4,
+    "name": "Ocumare de la Costa de Oro"
+  },
+  {
+    "id": 46,
+    "stateId": 4,
+    "name": "San Casimiro"
+  },
+  {
+    "id": 47,
+    "stateId": 4,
+    "name": "San Sebastián"
+  },
+  {
+    "id": 48,
+    "stateId": 4,
+    "name": "Santiago Mariño"
+  },
+  {
+    "id": 49,
+    "stateId": 4,
+    "name": "Santos Michelena"
+  },
+  {
+    "id": 50,
+    "stateId": 4,
+    "name": "Sucre"
+  },
+  {
+    "id": 51,
+    "stateId": 4,
+    "name": "Tovar"
+  },
+  {
+    "id": 52,
+    "stateId": 4,
+    "name": "Urdaneta"
+  },
+  {
+    "id": 53,
+    "stateId": 4,
+    "name": "Zamora"
+  },
+  {
+    "id": 54,
+    "stateId": 5,
+    "name": "Alberto Arvelo Torrealba"
+  },
+  {
+    "id": 55,
+    "stateId": 5,
+    "name": "Andrés Eloy Blanco"
+  },
+  {
+    "id": 56,
+    "stateId": 5,
+    "name": "Antonio José de Sucre"
+  },
+  {
+    "id": 57,
+    "stateId": 5,
+    "name": "Arismendi"
+  },
+  {
+    "id": 58,
+    "stateId": 5,
+    "name": "Barinas"
+  },
+  {
+    "id": 59,
+    "stateId": 5,
+    "name": "Bolívar"
+  },
+  {
+    "id": 60,
+    "stateId": 5,
+    "name": "Cruz Paredes"
+  },
+  {
+    "id": 61,
+    "stateId": 5,
+    "name": "Ezequiel Zamora"
+  },
+  {
+    "id": 62,
+    "stateId": 5,
+    "name": "Obispos"
+  },
+  {
+    "id": 63,
+    "stateId": 5,
+    "name": "Pedraza"
+  },
+  {
+    "id": 64,
+    "stateId": 5,
+    "name": "Rojas"
+  },
+  {
+    "id": 65,
+    "stateId": 5,
+    "name": "Sosa"
+  },
+  {
+    "id": 66,
+    "stateId": 6,
+    "name": "Caroní"
+  },
+  {
+    "id": 67,
+    "stateId": 6,
+    "name": "Cedeño"
+  },
+  {
+    "id": 68,
+    "stateId": 6,
+    "name": "El Callao"
+  },
+  {
+    "id": 69,
+    "stateId": 6,
+    "name": "Gran Sabana"
+  },
+  {
+    "id": 70,
+    "stateId": 6,
+    "name": "Heres"
+  },
+  {
+    "id": 71,
+    "stateId": 6,
+    "name": "Piar"
+  },
+  {
+    "id": 72,
+    "stateId": 6,
+    "name": "Angostura (Raúl Leoni)"
+  },
+  {
+    "id": 73,
+    "stateId": 6,
+    "name": "Roscio"
+  },
+  {
+    "id": 74,
+    "stateId": 6,
+    "name": "Sifontes"
+  },
+  {
+    "id": 75,
+    "stateId": 6,
+    "name": "Sucre"
+  },
+  {
+    "id": 76,
+    "stateId": 6,
+    "name": "Padre Pedro Chien"
+  },
+  {
+    "id": 77,
+    "stateId": 7,
+    "name": "Bejuma"
+  },
+  {
+    "id": 78,
+    "stateId": 7,
+    "name": "Carlos Arvelo"
+  },
+  {
+    "id": 79,
+    "stateId": 7,
+    "name": "Diego Ibarra"
+  },
+  {
+    "id": 80,
+    "stateId": 7,
+    "name": "Guacara"
+  },
+  {
+    "id": 81,
+    "stateId": 7,
+    "name": "Juan José Mora"
+  },
+  {
+    "id": 82,
+    "stateId": 7,
+    "name": "Libertador"
+  },
+  {
+    "id": 83,
+    "stateId": 7,
+    "name": "Los Guayos"
+  },
+  {
+    "id": 84,
+    "stateId": 7,
+    "name": "Miranda"
+  },
+  {
+    "id": 85,
+    "stateId": 7,
+    "name": "Montalbán"
+  },
+  {
+    "id": 86,
+    "stateId": 7,
+    "name": "Naguanagua"
+  },
+  {
+    "id": 87,
+    "stateId": 7,
+    "name": "Puerto Cabello"
+  },
+  {
+    "id": 88,
+    "stateId": 7,
+    "name": "San Diego"
+  },
+  {
+    "id": 89,
+    "stateId": 7,
+    "name": "San Joaquín"
+  },
+  {
+    "id": 90,
+    "stateId": 7,
+    "name": "Valencia"
+  },
+  {
+    "id": 91,
+    "stateId": 8,
+    "name": "Anzoátegui"
+  },
+  {
+    "id": 92,
+    "stateId": 8,
+    "name": "Tinaquillo"
+  },
+  {
+    "id": 93,
+    "stateId": 8,
+    "name": "Girardot"
+  },
+  {
+    "id": 94,
+    "stateId": 8,
+    "name": "Lima Blanco"
+  },
+  {
+    "id": 95,
+    "stateId": 8,
+    "name": "Pao de San Juan Bautista"
+  },
+  {
+    "id": 96,
+    "stateId": 8,
+    "name": "Ricaurte"
+  },
+  {
+    "id": 97,
+    "stateId": 8,
+    "name": "Rómulo Gallegos"
+  },
+  {
+    "id": 98,
+    "stateId": 8,
+    "name": "San Carlos"
+  },
+  {
+    "id": 99,
+    "stateId": 8,
+    "name": "Tinaco"
+  },
+  {
+    "id": 100,
+    "stateId": 9,
+    "name": "Antonio Díaz"
+  },
+  {
+    "id": 101,
+    "stateId": 9,
+    "name": "Casacoima"
+  },
+  {
+    "id": 102,
+    "stateId": 9,
+    "name": "Pedernales"
+  },
+  {
+    "id": 103,
+    "stateId": 9,
+    "name": "Tucupita"
+  },
+  {
+    "id": 104,
+    "stateId": 10,
+    "name": "Acosta"
+  },
+  {
+    "id": 105,
+    "stateId": 10,
+    "name": "Bolívar"
+  },
+  {
+    "id": 106,
+    "stateId": 10,
+    "name": "Buchivacoa"
+  },
+  {
+    "id": 107,
+    "stateId": 10,
+    "name": "Cacique Manaure"
+  },
+  {
+    "id": 108,
+    "stateId": 10,
+    "name": "Carirubana"
+  },
+  {
+    "id": 109,
+    "stateId": 10,
+    "name": "Colina"
+  },
+  {
+    "id": 110,
+    "stateId": 10,
+    "name": "Dabajuro"
+  },
+  {
+    "id": 111,
+    "stateId": 10,
+    "name": "Democracia"
+  },
+  {
+    "id": 112,
+    "stateId": 10,
+    "name": "Falcón"
+  },
+  {
+    "id": 113,
+    "stateId": 10,
+    "name": "Federación"
+  },
+  {
+    "id": 114,
+    "stateId": 10,
+    "name": "Jacura"
+  },
+  {
+    "id": 115,
+    "stateId": 10,
+    "name": "José Laurencio Silva"
+  },
+  {
+    "id": 116,
+    "stateId": 10,
+    "name": "Los Taques"
+  },
+  {
+    "id": 117,
+    "stateId": 10,
+    "name": "Mauroa"
+  },
+  {
+    "id": 118,
+    "stateId": 10,
+    "name": "Miranda"
+  },
+  {
+    "id": 119,
+    "stateId": 10,
+    "name": "Monseñor Iturriza"
+  },
+  {
+    "id": 120,
+    "stateId": 10,
+    "name": "Palmasola"
+  },
+  {
+    "id": 121,
+    "stateId": 10,
+    "name": "Petit"
+  },
+  {
+    "id": 122,
+    "stateId": 10,
+    "name": "Píritu"
+  },
+  {
+    "id": 123,
+    "stateId": 10,
+    "name": "San Francisco"
+  },
+  {
+    "id": 124,
+    "stateId": 10,
+    "name": "Sucre"
+  },
+  {
+    "id": 125,
+    "stateId": 10,
+    "name": "Tocópero"
+  },
+  {
+    "id": 126,
+    "stateId": 10,
+    "name": "Unión"
+  },
+  {
+    "id": 127,
+    "stateId": 10,
+    "name": "Urumaco"
+  },
+  {
+    "id": 128,
+    "stateId": 10,
+    "name": "Zamora"
+  },
+  {
+    "id": 129,
+    "stateId": 11,
+    "name": "Camaguán"
+  },
+  {
+    "id": 130,
+    "stateId": 11,
+    "name": "Chaguaramas"
+  },
+  {
+    "id": 131,
+    "stateId": 11,
+    "name": "El Socorro"
+  },
+  {
+    "id": 132,
+    "stateId": 11,
+    "name": "José Félix Ribas"
+  },
+  {
+    "id": 133,
+    "stateId": 11,
+    "name": "José Tadeo Monagas"
+  },
+  {
+    "id": 134,
+    "stateId": 11,
+    "name": "Juan Germán Roscio"
+  },
+  {
+    "id": 135,
+    "stateId": 11,
+    "name": "Julián Mellado"
+  },
+  {
+    "id": 136,
+    "stateId": 11,
+    "name": "Las Mercedes"
+  },
+  {
+    "id": 137,
+    "stateId": 11,
+    "name": "Leonardo Infante"
+  },
+  {
+    "id": 138,
+    "stateId": 11,
+    "name": "Pedro Zaraza"
+  },
+  {
+    "id": 139,
+    "stateId": 11,
+    "name": "Ortíz"
+  },
+  {
+    "id": 140,
+    "stateId": 11,
+    "name": "San Gerónimo de Guayabal"
+  },
+  {
+    "id": 141,
+    "stateId": 11,
+    "name": "San José de Guaribe"
+  },
+  {
+    "id": 142,
+    "stateId": 11,
+    "name": "Santa María de Ipire"
+  },
+  {
+    "id": 143,
+    "stateId": 11,
+    "name": "Sebastián Francisco de Miranda"
+  },
+  {
+    "id": 144,
+    "stateId": 12,
+    "name": "Andrés Eloy Blanco"
+  },
+  {
+    "id": 145,
+    "stateId": 12,
+    "name": "Crespo"
+  },
+  {
+    "id": 146,
+    "stateId": 12,
+    "name": "Iribarren"
+  },
+  {
+    "id": 147,
+    "stateId": 12,
+    "name": "Jiménez"
+  },
+  {
+    "id": 148,
+    "stateId": 12,
+    "name": "Morán"
+  },
+  {
+    "id": 149,
+    "stateId": 12,
+    "name": "Palavecino"
+  },
+  {
+    "id": 150,
+    "stateId": 12,
+    "name": "Simón Planas"
+  },
+  {
+    "id": 151,
+    "stateId": 12,
+    "name": "Torres"
+  },
+  {
+    "id": 152,
+    "stateId": 12,
+    "name": "Urdaneta"
+  },
+  {
+    "id": 179,
+    "stateId": 13,
+    "name": "Alberto Adriani"
+  },
+  {
+    "id": 180,
+    "stateId": 13,
+    "name": "Andrés Bello"
+  },
+  {
+    "id": 181,
+    "stateId": 13,
+    "name": "Antonio Pinto Salinas"
+  },
+  {
+    "id": 182,
+    "stateId": 13,
+    "name": "Aricagua"
+  },
+  {
+    "id": 183,
+    "stateId": 13,
+    "name": "Arzobispo Chacón"
+  },
+  {
+    "id": 184,
+    "stateId": 13,
+    "name": "Campo Elías"
+  },
+  {
+    "id": 185,
+    "stateId": 13,
+    "name": "Caracciolo Parra Olmedo"
+  },
+  {
+    "id": 186,
+    "stateId": 13,
+    "name": "Cardenal Quintero"
+  },
+  {
+    "id": 187,
+    "stateId": 13,
+    "name": "Guaraque"
+  },
+  {
+    "id": 188,
+    "stateId": 13,
+    "name": "Julio César Salas"
+  },
+  {
+    "id": 189,
+    "stateId": 13,
+    "name": "Justo Briceño"
+  },
+  {
+    "id": 190,
+    "stateId": 13,
+    "name": "Libertador"
+  },
+  {
+    "id": 191,
+    "stateId": 13,
+    "name": "Miranda"
+  },
+  {
+    "id": 192,
+    "stateId": 13,
+    "name": "Obispo Ramos de Lora"
+  },
+  {
+    "id": 193,
+    "stateId": 13,
+    "name": "Padre Noguera"
+  },
+  {
+    "id": 194,
+    "stateId": 13,
+    "name": "Pueblo Llano"
+  },
+  {
+    "id": 195,
+    "stateId": 13,
+    "name": "Rangel"
+  },
+  {
+    "id": 196,
+    "stateId": 13,
+    "name": "Rivas Dávila"
+  },
+  {
+    "id": 197,
+    "stateId": 13,
+    "name": "Santos Marquina"
+  },
+  {
+    "id": 198,
+    "stateId": 13,
+    "name": "Sucre"
+  },
+  {
+    "id": 199,
+    "stateId": 13,
+    "name": "Tovar"
+  },
+  {
+    "id": 200,
+    "stateId": 13,
+    "name": "Tulio Febres Cordero"
+  },
+  {
+    "id": 201,
+    "stateId": 13,
+    "name": "Zea"
+  },
+  {
+    "id": 223,
+    "stateId": 14,
+    "name": "Acevedo"
+  },
+  {
+    "id": 224,
+    "stateId": 14,
+    "name": "Andrés Bello"
+  },
+  {
+    "id": 225,
+    "stateId": 14,
+    "name": "Baruta"
+  },
+  {
+    "id": 226,
+    "stateId": 14,
+    "name": "Brión"
+  },
+  {
+    "id": 227,
+    "stateId": 14,
+    "name": "Buroz"
+  },
+  {
+    "id": 228,
+    "stateId": 14,
+    "name": "Carrizal"
+  },
+  {
+    "id": 229,
+    "stateId": 14,
+    "name": "Chacao"
+  },
+  {
+    "id": 230,
+    "stateId": 14,
+    "name": "Cristóbal Rojas"
+  },
+  {
+    "id": 231,
+    "stateId": 14,
+    "name": "El Hatillo"
+  },
+  {
+    "id": 232,
+    "stateId": 14,
+    "name": "Guaicaipuro"
+  },
+  {
+    "id": 233,
+    "stateId": 14,
+    "name": "Independencia"
+  },
+  {
+    "id": 234,
+    "stateId": 14,
+    "name": "Lander"
+  },
+  {
+    "id": 235,
+    "stateId": 14,
+    "name": "Los Salias"
+  },
+  {
+    "id": 236,
+    "stateId": 14,
+    "name": "Páez"
+  },
+  {
+    "id": 237,
+    "stateId": 14,
+    "name": "Paz Castillo"
+  },
+  {
+    "id": 238,
+    "stateId": 14,
+    "name": "Pedro Gual"
+  },
+  {
+    "id": 239,
+    "stateId": 14,
+    "name": "Plaza"
+  },
+  {
+    "id": 240,
+    "stateId": 14,
+    "name": "Simón Bolívar"
+  },
+  {
+    "id": 241,
+    "stateId": 14,
+    "name": "Sucre"
+  },
+  {
+    "id": 242,
+    "stateId": 14,
+    "name": "Urdaneta"
+  },
+  {
+    "id": 243,
+    "stateId": 14,
+    "name": "Zamora"
+  },
+  {
+    "id": 258,
+    "stateId": 15,
+    "name": "Acosta"
+  },
+  {
+    "id": 259,
+    "stateId": 15,
+    "name": "Aguasay"
+  },
+  {
+    "id": 260,
+    "stateId": 15,
+    "name": "Bolívar"
+  },
+  {
+    "id": 261,
+    "stateId": 15,
+    "name": "Caripe"
+  },
+  {
+    "id": 262,
+    "stateId": 15,
+    "name": "Cedeño"
+  },
+  {
+    "id": 263,
+    "stateId": 15,
+    "name": "Ezequiel Zamora"
+  },
+  {
+    "id": 264,
+    "stateId": 15,
+    "name": "Libertador"
+  },
+  {
+    "id": 265,
+    "stateId": 15,
+    "name": "Maturín"
+  },
+  {
+    "id": 266,
+    "stateId": 15,
+    "name": "Piar"
+  },
+  {
+    "id": 267,
+    "stateId": 15,
+    "name": "Punceres"
+  },
+  {
+    "id": 268,
+    "stateId": 15,
+    "name": "Santa Bárbara"
+  },
+  {
+    "id": 269,
+    "stateId": 15,
+    "name": "Sotillo"
+  },
+  {
+    "id": 270,
+    "stateId": 15,
+    "name": "Uracoa"
+  },
+  {
+    "id": 271,
+    "stateId": 16,
+    "name": "Antolín del Campo"
+  },
+  {
+    "id": 272,
+    "stateId": 16,
+    "name": "Arismendi"
+  },
+  {
+    "id": 273,
+    "stateId": 16,
+    "name": "García"
+  },
+  {
+    "id": 274,
+    "stateId": 16,
+    "name": "Gómez"
+  },
+  {
+    "id": 275,
+    "stateId": 16,
+    "name": "Maneiro"
+  },
+  {
+    "id": 276,
+    "stateId": 16,
+    "name": "Marcano"
+  },
+  {
+    "id": 277,
+    "stateId": 16,
+    "name": "Mariño"
+  },
+  {
+    "id": 278,
+    "stateId": 16,
+    "name": "Península de Macanao"
+  },
+  {
+    "id": 279,
+    "stateId": 16,
+    "name": "Tubores"
+  },
+  {
+    "id": 280,
+    "stateId": 16,
+    "name": "Villalba"
+  },
+  {
+    "id": 281,
+    "stateId": 16,
+    "name": "Díaz"
+  },
+  {
+    "id": 282,
+    "stateId": 17,
+    "name": "Agua Blanca"
+  },
+  {
+    "id": 283,
+    "stateId": 17,
+    "name": "Araure"
+  },
+  {
+    "id": 284,
+    "stateId": 17,
+    "name": "Esteller"
+  },
+  {
+    "id": 285,
+    "stateId": 17,
+    "name": "Guanare"
+  },
+  {
+    "id": 286,
+    "stateId": 17,
+    "name": "Guanarito"
+  },
+  {
+    "id": 287,
+    "stateId": 17,
+    "name": "Monseñor José Vicente de Unda"
+  },
+  {
+    "id": 288,
+    "stateId": 17,
+    "name": "Ospino"
+  },
+  {
+    "id": 289,
+    "stateId": 17,
+    "name": "Páez"
+  },
+  {
+    "id": 290,
+    "stateId": 17,
+    "name": "Papelón"
+  },
+  {
+    "id": 291,
+    "stateId": 17,
+    "name": "San Genaro de Boconoíto"
+  },
+  {
+    "id": 292,
+    "stateId": 17,
+    "name": "San Rafael de Onoto"
+  },
+  {
+    "id": 293,
+    "stateId": 17,
+    "name": "Santa Rosalía"
+  },
+  {
+    "id": 294,
+    "stateId": 17,
+    "name": "Sucre"
+  },
+  {
+    "id": 295,
+    "stateId": 17,
+    "name": "Turén"
+  },
+  {
+    "id": 296,
+    "stateId": 18,
+    "name": "Andrés Eloy Blanco"
+  },
+  {
+    "id": 297,
+    "stateId": 18,
+    "name": "Andrés Mata"
+  },
+  {
+    "id": 298,
+    "stateId": 18,
+    "name": "Arismendi"
+  },
+  {
+    "id": 299,
+    "stateId": 18,
+    "name": "Benítez"
+  },
+  {
+    "id": 300,
+    "stateId": 18,
+    "name": "Bermúdez"
+  },
+  {
+    "id": 301,
+    "stateId": 18,
+    "name": "Bolívar"
+  },
+  {
+    "id": 302,
+    "stateId": 18,
+    "name": "Cajigal"
+  },
+  {
+    "id": 303,
+    "stateId": 18,
+    "name": "Cruz Salmerón Acosta"
+  },
+  {
+    "id": 304,
+    "stateId": 18,
+    "name": "Libertador"
+  },
+  {
+    "id": 305,
+    "stateId": 18,
+    "name": "Mariño"
+  },
+  {
+    "id": 306,
+    "stateId": 18,
+    "name": "Mejía"
+  },
+  {
+    "id": 307,
+    "stateId": 18,
+    "name": "Montes"
+  },
+  {
+    "id": 308,
+    "stateId": 18,
+    "name": "Ribero"
+  },
+  {
+    "id": 309,
+    "stateId": 18,
+    "name": "Sucre"
+  },
+  {
+    "id": 310,
+    "stateId": 18,
+    "name": "Valdéz"
+  },
+  {
+    "id": 341,
+    "stateId": 19,
+    "name": "Andrés Bello"
+  },
+  {
+    "id": 342,
+    "stateId": 19,
+    "name": "Antonio Rómulo Costa"
+  },
+  {
+    "id": 343,
+    "stateId": 19,
+    "name": "Ayacucho"
+  },
+  {
+    "id": 344,
+    "stateId": 19,
+    "name": "Bolívar"
+  },
+  {
+    "id": 345,
+    "stateId": 19,
+    "name": "Cárdenas"
+  },
+  {
+    "id": 346,
+    "stateId": 19,
+    "name": "Córdoba"
+  },
+  {
+    "id": 347,
+    "stateId": 19,
+    "name": "Fernández Feo"
+  },
+  {
+    "id": 348,
+    "stateId": 19,
+    "name": "Francisco de Miranda"
+  },
+  {
+    "id": 349,
+    "stateId": 19,
+    "name": "García de Hevia"
+  },
+  {
+    "id": 350,
+    "stateId": 19,
+    "name": "Guásimos"
+  },
+  {
+    "id": 351,
+    "stateId": 19,
+    "name": "Independencia"
+  },
+  {
+    "id": 352,
+    "stateId": 19,
+    "name": "Jáuregui"
+  },
+  {
+    "id": 353,
+    "stateId": 19,
+    "name": "José María Vargas"
+  },
+  {
+    "id": 354,
+    "stateId": 19,
+    "name": "Junín"
+  },
+  {
+    "id": 355,
+    "stateId": 19,
+    "name": "Libertad"
+  },
+  {
+    "id": 356,
+    "stateId": 19,
+    "name": "Libertador"
+  },
+  {
+    "id": 357,
+    "stateId": 19,
+    "name": "Lobatera"
+  },
+  {
+    "id": 358,
+    "stateId": 19,
+    "name": "Michelena"
+  },
+  {
+    "id": 359,
+    "stateId": 19,
+    "name": "Panamericano"
+  },
+  {
+    "id": 360,
+    "stateId": 19,
+    "name": "Pedro María Ureña"
+  },
+  {
+    "id": 361,
+    "stateId": 19,
+    "name": "Rafael Urdaneta"
+  },
+  {
+    "id": 362,
+    "stateId": 19,
+    "name": "Samuel Darío Maldonado"
+  },
+  {
+    "id": 363,
+    "stateId": 19,
+    "name": "San Cristóbal"
+  },
+  {
+    "id": 364,
+    "stateId": 19,
+    "name": "Seboruco"
+  },
+  {
+    "id": 365,
+    "stateId": 19,
+    "name": "Simón Rodríguez"
+  },
+  {
+    "id": 366,
+    "stateId": 19,
+    "name": "Sucre"
+  },
+  {
+    "id": 367,
+    "stateId": 19,
+    "name": "Torbes"
+  },
+  {
+    "id": 368,
+    "stateId": 19,
+    "name": "Uribante"
+  },
+  {
+    "id": 369,
+    "stateId": 19,
+    "name": "San Judas Tadeo"
+  },
+  {
+    "id": 370,
+    "stateId": 20,
+    "name": "Andrés Bello"
+  },
+  {
+    "id": 371,
+    "stateId": 20,
+    "name": "Boconó"
+  },
+  {
+    "id": 372,
+    "stateId": 20,
+    "name": "Bolívar"
+  },
+  {
+    "id": 373,
+    "stateId": 20,
+    "name": "Candelaria"
+  },
+  {
+    "id": 374,
+    "stateId": 20,
+    "name": "Carache"
+  },
+  {
+    "id": 375,
+    "stateId": 20,
+    "name": "Escuque"
+  },
+  {
+    "id": 376,
+    "stateId": 20,
+    "name": "José Felipe Márquez Cañizalez"
+  },
+  {
+    "id": 377,
+    "stateId": 20,
+    "name": "Juan Vicente Campos Elías"
+  },
+  {
+    "id": 378,
+    "stateId": 20,
+    "name": "La Ceiba"
+  },
+  {
+    "id": 379,
+    "stateId": 20,
+    "name": "Miranda"
+  },
+  {
+    "id": 380,
+    "stateId": 20,
+    "name": "Monte Carmelo"
+  },
+  {
+    "id": 381,
+    "stateId": 20,
+    "name": "Motatán"
+  },
+  {
+    "id": 382,
+    "stateId": 20,
+    "name": "Pampán"
+  },
+  {
+    "id": 383,
+    "stateId": 20,
+    "name": "Pampanito"
+  },
+  {
+    "id": 384,
+    "stateId": 20,
+    "name": "Rafael Rangel"
+  },
+  {
+    "id": 385,
+    "stateId": 20,
+    "name": "San Rafael de Carvajal"
+  },
+  {
+    "id": 386,
+    "stateId": 20,
+    "name": "Sucre"
+  },
+  {
+    "id": 387,
+    "stateId": 20,
+    "name": "Trujillo"
+  },
+  {
+    "id": 388,
+    "stateId": 20,
+    "name": "Urdaneta"
+  },
+  {
+    "id": 389,
+    "stateId": 20,
+    "name": "Valera"
+  },
+  {
+    "id": 390,
+    "stateId": 21,
+    "name": "Vargas"
+  },
+  {
+    "id": 391,
+    "stateId": 22,
+    "name": "Arístides Bastidas"
+  },
+  {
+    "id": 392,
+    "stateId": 22,
+    "name": "Bolívar"
+  },
+  {
+    "id": 407,
+    "stateId": 22,
+    "name": "Bruzual"
+  },
+  {
+    "id": 408,
+    "stateId": 22,
+    "name": "Cocorote"
+  },
+  {
+    "id": 409,
+    "stateId": 22,
+    "name": "Independencia"
+  },
+  {
+    "id": 410,
+    "stateId": 22,
+    "name": "José Antonio Páez"
+  },
+  {
+    "id": 411,
+    "stateId": 22,
+    "name": "La Trinidad"
+  },
+  {
+    "id": 412,
+    "stateId": 22,
+    "name": "Manuel Monge"
+  },
+  {
+    "id": 413,
+    "stateId": 22,
+    "name": "Nirgua"
+  },
+  {
+    "id": 414,
+    "stateId": 22,
+    "name": "Peña"
+  },
+  {
+    "id": 415,
+    "stateId": 22,
+    "name": "San Felipe"
+  },
+  {
+    "id": 416,
+    "stateId": 22,
+    "name": "Sucre"
+  },
+  {
+    "id": 417,
+    "stateId": 22,
+    "name": "Urachiche"
+  },
+  {
+    "id": 418,
+    "stateId": 22,
+    "name": "José Joaquín Veroes"
+  },
+  {
+    "id": 441,
+    "stateId": 23,
+    "name": "Almirante Padilla"
+  },
+  {
+    "id": 442,
+    "stateId": 23,
+    "name": "Baralt"
+  },
+  {
+    "id": 443,
+    "stateId": 23,
+    "name": "Cabimas"
+  },
+  {
+    "id": 444,
+    "stateId": 23,
+    "name": "Catatumbo"
+  },
+  {
+    "id": 445,
+    "stateId": 23,
+    "name": "Colón"
+  },
+  {
+    "id": 446,
+    "stateId": 23,
+    "name": "Francisco Javier Pulgar"
+  },
+  {
+    "id": 447,
+    "stateId": 23,
+    "name": "Páez"
+  },
+  {
+    "id": 448,
+    "stateId": 23,
+    "name": "Jesús Enrique Losada"
+  },
+  {
+    "id": 449,
+    "stateId": 23,
+    "name": "Jesús María Semprún"
+  },
+  {
+    "id": 450,
+    "stateId": 23,
+    "name": "La Cañada de Urdaneta"
+  },
+  {
+    "id": 451,
+    "stateId": 23,
+    "name": "Lagunillas"
+  },
+  {
+    "id": 452,
+    "stateId": 23,
+    "name": "Machiques de Perijá"
+  },
+  {
+    "id": 453,
+    "stateId": 23,
+    "name": "Mara"
+  },
+  {
+    "id": 454,
+    "stateId": 23,
+    "name": "Maracaibo"
+  },
+  {
+    "id": 455,
+    "stateId": 23,
+    "name": "Miranda"
+  },
+  {
+    "id": 456,
+    "stateId": 23,
+    "name": "Rosario de Perijá"
+  },
+  {
+    "id": 457,
+    "stateId": 23,
+    "name": "San Francisco"
+  },
+  {
+    "id": 458,
+    "stateId": 23,
+    "name": "Santa Rita"
+  },
+  {
+    "id": 459,
+    "stateId": 23,
+    "name": "Simón Bolívar"
+  },
+  {
+    "id": 460,
+    "stateId": 23,
+    "name": "Sucre"
+  },
+  {
+    "id": 461,
+    "stateId": 23,
+    "name": "Valmore Rodríguez"
+  },
+  {
+    "id": 462,
+    "stateId": 24,
+    "name": "Libertador"
+  }
+]
