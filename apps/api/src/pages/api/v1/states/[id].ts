@@ -2,7 +2,7 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 
 import { statesService } from '@/services'
 
-import { idEstado } from '@/utils/interfaces/location'
+import { tStateId } from '@/utils/interfaces/state'
 import { parseIntValidator } from '@/validators/commons'
 
 export default function handler(
@@ -14,7 +14,7 @@ export default function handler(
 
   try {
     const stateId = parseIntValidator(id as string)
-    const state = statesService.findOne(stateId as idEstado)
+    const state = statesService.findOne(stateId as tStateId)
 
     return res.status(200).json(state)
   } catch (err) {
