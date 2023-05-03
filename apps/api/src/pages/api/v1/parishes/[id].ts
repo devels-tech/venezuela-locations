@@ -17,7 +17,7 @@ export default function handler(
 
     return res.status(200).json(parish)
   } catch (err) {
-    const { statusCode, errorCode, message } = err as any // TODO: cambiar tipo
+    const { statusCode, errorCode, message } = err as Error
 
     return res.status(statusCode).json({
       statusCode,
