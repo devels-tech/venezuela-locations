@@ -1,5 +1,5 @@
 import { iSimpleCity } from './city'
-import { Municipality } from './municipality'
+import { iMunicipalityWithParishes } from './municipality'
 
 export type tStateId =
   | 1
@@ -36,5 +36,5 @@ export interface iSimpleState {
 
 export interface iState extends iSimpleState {
   cities: iSimpleCity[]
-  municipalities: Municipality[]
+  municipalities: iMunicipalityWithParishes[]
 }

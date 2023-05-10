@@ -24,7 +24,7 @@ function findOne(id: number): Municipality {
   const municipality = municipalitiesData.find((state) => state.id === id)
 
   if (!municipality) {
-    throw createErr('The State Id isn´t correct', 'Not Found', 404)
+    throw createErr('The Municipality Id isn´t correct', 'Not Found', 404)
   }
 
   return joinData(municipality) as unknown as Municipality
@@ -45,10 +45,13 @@ function joinData(municipality: iSimpleMunicipality) {
 }
 
 export function getMunicipalityInfo(municipalityId: number) {
-  // console.log({ municipalityId })
   const municipality = municipalitiesData.find(
     ({ id }) => id === municipalityId,
   )
+
+  if (!municipality) {
+    throw createErr('The Municipality Id isn´t correct', 'Not Found', 404)
+  }
 
   const parishes = parishesData.filter(
     ({ municipalityId }) => municipalityId === municipality.id,
@@ -60,4 +63,4 @@ export function getMunicipalityInfo(municipalityId: number) {
   }
 }
 
-export default { find, findOne }
+export default { find, findOne, getMunicipalityInfo }
