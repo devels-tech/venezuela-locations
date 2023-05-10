@@ -11,7 +11,10 @@ export interface iSimpleMunicipality {
 interface iStateForMunicipality extends iSimpleState {
   cities: iSimpleCity[]
 }
-export interface Municipality extends iSimpleMunicipality {
-  state: iStateForMunicipality
+export interface iMunicipalityWithParishes extends iSimpleMunicipality {
   parishes: iSimpleParish[]
+}
+
+export interface Municipality extends iMunicipalityWithParishes {
+  state: iStateForMunicipality
 }
