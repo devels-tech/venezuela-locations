@@ -30,16 +30,30 @@ function getCitiesByStateId(stateId: number) {
 }
 
 function find(): iState[] {
-  return statesData.map((state) => ({
-    ...state,
-    cities: getCitiesByStateId(state.id),
-    municipalities: getMunicipalitiesByStateId(state.id).map(
-      (municipality) => ({
-        ...municipality,
-        parishes: getParishesByMunicipalityId(municipality.id),
-      }),
-    ),
-  }))
+  return statesData.map((state) => {
+    const cities = getCitiesByStateId(state.id)
+    const citiesId = cities.map(({ id }) => id)
+
+    const municipalities = getMunicipalitiesByStateId(state.id)
+    const municipalitiesId = municipalities.map(({ id }) => id)
+
+    // return ({
+    //   ...state,
+    //   cities: getCitiesByStateId(state.id),
+    //   municipalities: getMunicipalitiesByStateId(state.id).map(
+    //     (municipality) => ({
+    //       ...municipality,
+    //       parishes: getParishesByMunicipalityId(municipality.id),
+    //     }),
+    //   ),
+    // })
+
+    return {
+      ...state,
+      cities: citiesId,
+      municipalities: municipalitiesId
+    }
+  })
 }
 
 function findOne(id: tStateId): iState {
@@ -49,15 +63,27 @@ function findOne(id: tStateId): iState {
     throw createErr('The State Id isn´t correct', 'Not Found', 404)
   }
 
+  const cities = getCitiesByStateId(state.id)
+  const citiesId = cities.map(({ id }) => id)
+
+  const municipalities = getMunicipalitiesByStateId(state.id)
+  const municipalitiesId = municipalities.map(({ id }) => id)
+
+  // return {
+  //   ...state,
+  //   cities: getCitiesByStateId(state.id),
+  //   municipalities: getMunicipalitiesByStateId(state.id).map(
+  //     (municipality) => ({
+  //       ...municipality,
+  //       parishes: getParishesByMunicipalityId(municipality.id),
+  //     }),
+  //   ),
+  // }
+
   return {
     ...state,
-    cities: getCitiesByStateId(state.id),
-    municipalities: getMunicipalitiesByStateId(state.id).map(
-      (municipality) => ({
-        ...municipality,
-        parishes: getParishesByMunicipalityId(municipality.id),
-      }),
-    ),
+    cities: citiesId,
+    municipalities: municipalitiesId
   }
 }
 

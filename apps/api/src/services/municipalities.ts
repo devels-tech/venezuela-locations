@@ -31,16 +31,23 @@ function findOne(id: number): Municipality {
 }
 
 function joinData(municipality: iSimpleMunicipality) {
-  const state = getStateInfo(municipality.stateId)
+  // const state = getStateInfo(municipality.stateId)
 
   const parishes = parishesData.filter(
     ({ municipalityId }) => municipalityId === municipality.id,
   )
 
+  const parishesId = parishes.map(({ id }) => id)
+
+  // return {
+  //   ...municipality,
+  //   state,
+  //   parishes,
+  // }
+
   return {
     ...municipality,
-    state,
-    parishes,
+    parishes: parishesId,
   }
 }
 
@@ -53,14 +60,15 @@ export function getMunicipalityInfo(municipalityId: number) {
     throw createErr('The Municipality Id isn´t correct', 'Not Found', 404)
   }
 
-  const parishes = parishesData.filter(
-    ({ municipalityId }) => municipalityId === municipality.id,
-  )
+  // const parishes = parishesData.filter(
+  //   ({ municipalityId }) => municipalityId === municipality.id,
+  // )
 
-  return {
-    ...municipality,
-    parishes,
-  }
+  // return {
+  //   ...municipality,
+  //   parishes,
+  // }
+  return municipality
 }
 
 export default { find, findOne, getMunicipalityInfo }

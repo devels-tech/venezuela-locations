@@ -1,4 +1,4 @@
-import { iSimpleMunicipality } from './municipality'
+// import { iSimpleMunicipality } from './municipality'
 
 interface Coordinates {
   lat: number
@@ -13,5 +13,6 @@ export interface iSimpleParish {
 }
 
 export interface iParish extends iSimpleParish {
-  municipality: iSimpleMunicipality
+  // municipality: iSimpleMunicipality
+  stateId: number
 }

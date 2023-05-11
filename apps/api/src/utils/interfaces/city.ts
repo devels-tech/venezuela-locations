@@ -14,5 +14,5 @@ export interface iStateForCity extends iSimpleState {
 }
 
 export interface iCity extends iSimpleCity {
-  state: iStateForCity
+  // state: iStateForCity
 }

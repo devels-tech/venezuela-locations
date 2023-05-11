@@ -45,24 +45,25 @@ function getStateById(stateId: number) {
 }
 
 function find(): iCity[] {
-  const cities = citiesData.map((city) => {
-    const state = getStateById(city.stateId)
+  // const cities = citiesData.map((city) => {
+  //   const state = getStateById(city.stateId)
 
-    if (!state) {
-      throw createErr('The State Id isn´t correct', 'Not Found', 404)
-    }
+  //   if (!state) {
+  //     throw createErr('The State Id isn´t correct', 'Not Found', 404)
+  //   }
 
-    return {
-      ...city,
-      state: {
-        ...state,
-        cities: getCitiesFromState(state.id),
-        municipalities: getMunicipalitiesFromState(state.id),
-      },
-    }
-  })
+  //   return {
+  //     ...city,
+  //     state: {
+  //       ...state,
+  //       cities: getCitiesFromState(state.id),
+  //       municipalities: getMunicipalitiesFromState(state.id),
+  //     },
+  //   }
+  // })
 
-  return cities as unknown as iCity[]
+  // return cities as unknown as iCity[]
+  return citiesData as unknown as iCity[]
 }
 
 function findOne(id: number): iCity {
@@ -72,20 +73,22 @@ function findOne(id: number): iCity {
     throw createErr('The City Id isn´t correct', 'Not Found', 404)
   }
 
-  const state = getStateById(city.stateId)
+  // const state = getStateById(city.stateId)
 
-  if (!state) {
-    throw createErr('The State Id isn´t correct', 'Not Found', 404)
-  }
+  // if (!state) {
+  //   throw createErr('The State Id isn´t correct', 'Not Found', 404)
+  // }
 
-  return {
-    ...city,
-    state: {
-      ...state,
-      cities: getCitiesFromState(state.id),
-      municipalities: getMunicipalitiesFromState(state.id),
-    },
-  }
+  // return {
+  //   ...city,
+  //   state: {
+  //     ...state,
+  //     cities: getCitiesFromState(state.id),
+  //     municipalities: getMunicipalitiesFromState(state.id),
+  //   },
+  // }
+
+  return city
 }
 
 export default {

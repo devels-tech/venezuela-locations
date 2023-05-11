@@ -35,6 +35,8 @@ export interface iSimpleState {
 }
 
 export interface iState extends iSimpleState {
-  cities: iSimpleCity[]
-  municipalities: iMunicipalityWithParishes[]
+  // cities: iSimpleCity[]
+  // municipalities: iMunicipalityWithParishes[]
+  cities: number[]
+  municipalities: number[]
 }
