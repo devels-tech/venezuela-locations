@@ -17,15 +17,15 @@ export const Footer = () => {
         <p>© 2023 Devels. Todos los derechos reservados.</p>
 
         <div className="flex gap-8 text-4xl mt-8 lg:text-2xl lg:mt-0 lg:gap-6">
-          <a href="http://instagram/develstech" target="_blank" rel="noopener noreferrer">
+          <a href="http://instagram/develstech" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400 transition-colors">
             <IoLogoInstagram />
           </a>
 
-          <a href="http://linkedin.com/company/develstech" target="_blank" rel="noopener noreferrer">
+          <a href="http://linkedin.com/company/develstech" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400 transition-colors">
             <IoLogoLinkedin />
           </a>
 
-          <a href="http://web.whatsapp.com/send?phone=584242863280" target="_blank" rel="noopener noreferrer">
+          <a href="http://web.whatsapp.com/send?phone=584242863280" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400 transition-colors">
             <IoLogoWhatsapp />
           </a>
         </div>
