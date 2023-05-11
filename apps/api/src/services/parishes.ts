@@ -11,9 +11,9 @@ import { getMunicipalityInfo } from './municipalities'
 
 const parishesData = loadParishes()
 
-const statesData = loadStates()
-const citiesData = loadCities()
-const municipalitiesData = loadMunicipalities()
+// const statesData = loadStates()
+// const citiesData = loadCities()
+// const municipalitiesData = loadMunicipalities()
 
 function find(): iParish[] {
   const parishes = parishesData.map((parish) => {
@@ -43,4 +43,4 @@ function joinData(parish: iSimpleParish) {
   }
 }
 
-export default { find, findOne }
+export default { find, findOne, joinData }
