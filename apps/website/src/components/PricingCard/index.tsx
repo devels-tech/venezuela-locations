@@ -1,6 +1,7 @@
 import Link from "next/link";
 import React, { FC } from "react";
 import { IoCheckmarkCircle, IoArrowForwardOutline } from "react-icons/io5";
+import { Button } from "@/components/common/Button";
 
 interface PricingCard {
   planName: string;
@@ -41,16 +42,14 @@ export const PricingCard: FC<PricingCard> = (pricingInformation) => {
         ))}
       </ul>
       <Link href={ctaLink}>
-        <button
-          className={`flex justify-between items-center w-full ${
-            isPro
-              ? "bg-white text-black shadow-[0px_0px_20px_5px_rgba(100,100,100,0.9)]"
-              : "bg-black text-white"
-          } border rounded-sm px-6 py-2 font-medium`}
+        <Button
+          icon={<IoArrowForwardOutline className="text-xl" />}
+          iconPosition='right'
+          variant='special'
+          className='justify-between'
         >
-          {ctaName}
-          <IoArrowForwardOutline className="text-xl" />
-        </button>
+          { ctaName }
+        </Button>
       </Link>
     </article>
   );

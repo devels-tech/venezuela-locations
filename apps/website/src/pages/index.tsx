@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { PricingCard } from "../components/PricingCard";
+import { PricingCard } from "@/components/PricingCard";
+import { Button } from "@/components/common/Button";
 
 export default function Home() {
   const pricingData = [
@@ -39,20 +40,23 @@ export default function Home() {
         <h1 className="font-black text-5xl md:text-6xl text-white text-center">
           Venezuela API Locations
         </h1>
+
         <h2 className="text-zinc-300 text-center md:text-xl my-6 md:my-12">
           VAL es la API en donde podras conseguir toda la informacion acerca de
           las ubicaciones de Venezuela
         </h2>
+
         <section className="md:flex md:items-center md:justify-center md:gap-12">
           <Link href={"https://locations-doc.devels.tech"}>
-            <button className="w-full h-10 font-medium bg-white px-6 py-1.5 rounded-sm md:px-8 md:h-12">
+            <Button variant='primary'>
               Documentación
-            </button>
+            </Button>
           </Link>
+
           <Link href={"https://devels.tech"}>
-            <button className="mt-4 md:mt-0 w-full h-10 font-medium bg-black border text-white px-6 py-1.5 md:h-12 md:px-8 rounded-sm">
+            <Button variant='secondary' className='mt-3 md:mt-0'>
               Conócenos
-            </button>
+            </Button>
           </Link>
         </section>
       </section>
@@ -63,9 +67,7 @@ export default function Home() {
         </h2>
 
         <section className="flex flex-wrap justify-center items-start gap-20">
-          {pricingData.map((data) => (
-            <PricingCard {...data} />
-          ))}
+          { pricingData.map((data) => <PricingCard {...data} /> ) }
         </section>
       </section>
     </main>
