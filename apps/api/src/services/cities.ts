@@ -6,55 +6,64 @@ import {
 } from '@/libs/loadLocations'
 
 import createErr from '@/utils/createErr'
-import { iCity } from '@/utils/interfaces/city'
-import { iState } from '@/utils/interfaces/state'
+import { iCity, iSimpleCity } from '@/utils/interfaces/city'
+import { iMunicipalityWithParishes } from '@/utils/interfaces/municipality'
 
 const statesData = loadStates()
 const citiesData = loadCities()
 const municipalitiesData = loadMunicipalities()
 const parishesData = loadParishes()
 
+function getCitiesFromState(stateId: number): iSimpleCity[] {
+  const citiesFromState = citiesData.filter((city) => city.stateId === stateId)
+  return citiesFromState
+}
+
+function getMunicipalitiesFromState(
+  stateId: number,
+): iMunicipalityWithParishes[] {
+  const municipalitiesFromState = municipalitiesData.filter(
+    (municipality) => municipality.stateId === stateId,
+  )
+
+  return municipalitiesFromState.map((municipality) => ({
+    ...municipality,
+    parishes: getParishesFromMunicipality(municipality.id),
+  }))
+}
+
+function getParishesFromMunicipality(municipalityId: number) {
+  return parishesData.filter(
+    (parish) => parish.municipalityId === municipalityId,
+  )
+}
+
+function getStateById(stateId: number) {
+  const state = statesData.find((state) => state.id === stateId)
+
+  return state ? { ...state } : null
+}
+
 function find(): iCity[] {
-  const cities = citiesData.map((city) => {
-    let stateFromCity = {}
+  // const cities = citiesData.map((city) => {
+  //   const state = getStateById(city.stateId)
 
-    statesData.forEach((state) => {
-      // Get states
-      if (state.id === city.stateId) {
-        const municipalitiesFromState = []
+  //   if (!state) {
+  //     throw createErr('The State Id isn´t correct', 'Not Found', 404)
+  //   }
 
-        municipalitiesData.forEach((municipality) => {
-          // Get municipalities
-          if (municipality.stateId === state.id) {
-            const parishesFromMunicipality = parishesData.filter((parish) => {
-              // Get parishes
-              return parish.municipalityId === municipality.id
-            })
+  //   return {
+  //     ...city,
+  //     state: {
+  //       ...state,
+  //       cities: getCitiesFromState(state.id),
+  //       municipalities: getMunicipalitiesFromState(state.id),
+  //     },
+  //   }
+  // })
 
-            municipalitiesFromState.push({
-              ...municipality,
-              parishes: parishesFromMunicipality,
-            })
-          }
-        })
-
-        const citiesFromState = citiesData.filter((city) => city.stateId === state.id) // Get cities
-
-        stateFromCity = {
-          ...state,
-          cities: citiesFromState,
-          municipalities: municipalitiesFromState,
-        }
-      }
-    })
-
-    return {
-      ...city,
-      state: stateFromCity,
-    }
-  })
-
-  return cities as iCity[]
+  // return cities as unknown as iCity[]
+  return citiesData as unknown as iCity[]
 }
 
 function findOne(id: number): iCity {
@@ -64,44 +73,29 @@ function findOne(id: number): iCity {
     throw createErr('The City Id isn´t correct', 'Not Found', 404)
   }
 
-  let stateFromCity = {}
+  // const state = getStateById(city.stateId)
 
-  statesData.forEach((state) => {
-    // Get states
-    if (state.id === city.stateId) {
-      const municipalitiesFromState = []
+  // if (!state) {
+  //   throw createErr('The State Id isn´t correct', 'Not Found', 404)
+  // }
 
-      municipalitiesData.forEach((municipality) => {
-        // Get municipalities
-        if (municipality.stateId === state.id) {
-          const parishesFromMunicipality = parishesData.filter((parish) => {
-            // Get parishes
-            return parish.municipalityId === municipality.id
-          })
+  // return {
+  //   ...city,
+  //   state: {
+  //     ...state,
+  //     cities: getCitiesFromState(state.id),
+  //     municipalities: getMunicipalitiesFromState(state.id),
+  //   },
+  // }
 
-          municipalitiesFromState.push({
-            ...municipality,
-            parishes: parishesFromMunicipality,
-          })
-        }
-      })
-
-      const citiesFromState = citiesData.filter((city) => city.stateId === state.id) // Get cities
-
-      stateFromCity = {
-        ...state,
-        cities: citiesFromState,
-        municipalities: municipalitiesFromState,
-      }
-    }
-  })
-
-  const fullCity = {
-    ...city,
-    state: stateFromCity as iState,
-  }
-
-  return fullCity
+  return city
 }
 
-export default { find, findOne }
+export default {
+  find,
+  findOne,
+  getCitiesFromState,
+  getMunicipalitiesFromState,
+  getParishesFromMunicipality,
+  getStateById,
+}

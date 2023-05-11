@@ -1,4 +1,4 @@
-import { Municipality } from './municipality'
+import { iMunicipalityWithParishes } from './municipality'
 import { iSimpleState, tStateId } from './state'
 
 export interface iSimpleCity {
@@ -9,9 +9,10 @@ export interface iSimpleCity {
 }
 
 export interface iStateForCity extends iSimpleState {
-  municipalities: Municipality[]
+  cities: iSimpleCity[]
+  municipalities: iMunicipalityWithParishes[]
 }
 
 export interface iCity extends iSimpleCity {
-  state: iStateForCity
+  // state: iStateForCity
 }
