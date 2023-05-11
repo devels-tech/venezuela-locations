@@ -1,3 +1,51 @@
 # Estados
 
 Estados de Venezuela
+
+```
+  [GET] https://locations.devels.tech/api/v1/states
+```
+
+```json filename="Estados"
+  {
+    "id": 24,
+    "name": "Distrito Capital",
+    "iso": "A",
+    "cities": [
+      {
+        "id": 149,
+        "stateId": 24,
+        "name": "Caracas",
+        "capital": true
+      }
+      // ...
+    ],
+    "municipalities": [
+      {
+        "id": 462,
+        "stateId": 24,
+        "name": "Libertador",
+        "parishes": [
+          {
+            "id": 1117,
+            "municipalityId": 462,
+            "name": "Altagracia"
+          }
+          // ...
+        ]
+      }
+      // ...
+    ]
+  }
+```
+
+## Esquema de los Estados
+
+```typescript
+  interface State {
+    id: number;
+    name: string
+    iso: string
+    cities: City[]
+  }
+```
