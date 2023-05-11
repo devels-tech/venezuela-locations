@@ -4,7 +4,9 @@ import {
   loadParishes,
   loadStates,
 } from '@/libs/loadLocations'
+
 import createErr from '@/utils/createErr'
+
 import { iState, tStateId } from '@/utils/interfaces/state'
 
 // const locations: Estado[] = loadLocations()
@@ -51,7 +53,7 @@ function find(): iState[] {
     return {
       ...state,
       cities: citiesId,
-      municipalities: municipalitiesId
+      municipalities: municipalitiesId,
     }
   })
 }
@@ -83,7 +85,7 @@ function findOne(id: tStateId): iState {
   return {
     ...state,
     cities: citiesId,
-    municipalities: municipalitiesId
+    municipalities: municipalitiesId,
   }
 }
 
