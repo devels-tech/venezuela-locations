@@ -3,6 +3,9 @@
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
+    "build:api": "turbo run build --filter={/apps/api}",
+    "build:web": "turbo run build --filter={/apps/web}",
+    "build:doc": "turbo run build --filter={/apps/doc}",
     "dev:api": "turbo run dev --filter={/apps/api}",
     "dev:web": "turbo run dev --filter={/apps/web}",
     "dev:doc": "turbo run dev --filter={/apps/doc}",

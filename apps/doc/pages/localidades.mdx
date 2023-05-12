@@ -1,3 +1,36 @@
 # Localidades
 
 Localidades de Venezuela
+
+
+## Esquema de las Localidades
+
+```typescript
+  interface State { // Estados
+    id: number;
+    name: string
+    iso: string
+    cities: City[]
+  }
+
+  interface City { // Ciudades
+    id: number
+    stateId: number
+    name: string
+    capital: boolean
+    municipalities: Municipality[]
+  }
+
+  interface Municipality { // Municipios
+    id: number
+    stateId: number
+    name: string
+    parishes: Parish[]
+  }
+
+  interface Parish { // Parroquias
+    id: number
+    municipalityId: number
+    name: string
+  }
+```
